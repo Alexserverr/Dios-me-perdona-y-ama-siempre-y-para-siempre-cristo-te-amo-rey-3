@@ -77,3 +77,16 @@
 2024-11-28 21:45:23,422 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3581ce8a
 2024-11-28 21:45:23,447 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
 2024-11-28 21:45:23,482 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:48687] logged in with entity id 275 at (37.854212848993676, 85.0, 50.75074495232557)
+2024-11-28 21:57:12,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Alexterminium lost connection: Disconnected
+2024-11-28 21:57:12,974 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium left the game
+2024-11-28 21:57:14,914 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
+2024-11-28 21:57:14,970 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c7a9f95
+2024-11-28 21:57:14,985 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
+2024-11-28 21:57:15,028 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:60555] logged in with entity id 1480 at (37.204105330407245, 85.0, 50.690122188707946)
+2024-11-28 21:58:41,293 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mAlexterminium[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mmisterbartra[0;30;1m)[m
+2024-11-28 21:58:41,295 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set default[m
+2024-11-28 22:02:32,038 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mAlexterminium[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mejemplar[0;30;1m)[m
+2024-11-28 22:02:32,039 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mcreate[m
+2024-11-28 22:03:15,988 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mAlexterminium[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1me[0;30;1m)[m
+2024-11-28 22:03:15,989 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mcreate[m
+2024-11-28 22:03:54,769 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: Unknown command. Type "help" for help.[m

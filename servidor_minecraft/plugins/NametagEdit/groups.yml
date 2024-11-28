@@ -1,7 +1,7 @@
 Groups:
   Admin:
     Permission: nte.admin
-    Prefix: '&c'
+    Prefix: ´ mo´
     Suffix: '&f'
     SortPriority: 1
   Moderator:
@@ -9,8 +9,3 @@ Groups:
     Prefix: '&2'
     Suffix: '&f'
     SortPriority: 2
-  MODERADORES:
-    Permission: ''
-    Prefix: MODERADOR
-    Suffix: ''
-    SortPriority: -1
