@@ -1,79 +1,79 @@
-2024-11-28 21:04:46,364 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-2024-11-28 21:04:46,370 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-2024-11-28 21:04:46,505 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
-2024-11-28 21:04:46,760 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(54)[m: No dependencies to load found. Skipping!
-2024-11-28 21:04:47,901 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
-2024-11-28 21:04:50,799 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
-2024-11-28 21:04:52,880 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-2024-11-28 21:04:52,882 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
-2024-11-28 21:04:53,115 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
-2024-11-28 21:04:54,501 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-2024-11-28 21:04:55,027 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-2024-11-28 21:04:55,028 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-2024-11-28 21:04:57,096 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 7 recipes
-2024-11-28 21:04:57,705 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 1179 advancements
-2024-11-28 21:04:58,145 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
-2024-11-28 21:04:58,146 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
-2024-11-28 21:04:58,147 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
-2024-11-28 21:04:58,147 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
-2024-11-28 21:04:58,254 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
-2024-11-28 21:04:58,276 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
-2024-11-28 21:04:58,383 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-2024-11-28 21:04:58,384 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
-2024-11-28 21:04:58,384 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-2024-11-28 21:04:58,385 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
-2024-11-28 21:04:58,552 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-141 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
-2024-11-28 21:04:58,659 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
-2024-11-28 21:04:58,663 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
-2024-11-28 21:04:58,665 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
-2024-11-28 21:04:59,645 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Loading NametagEdit v4.5.23
-2024-11-28 21:04:59,693 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
-2024-11-28 21:05:00,120 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
-2024-11-28 21:05:04,063 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,065 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,067 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,068 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,070 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,071 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,072 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,073 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,123 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,623 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:05,122 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 18%
-2024-11-28 21:05:05,639 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 5518 ms
-2024-11-28 21:05:05,732 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
-2024-11-28 21:05:07,797 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,798 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,798 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,799 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,799 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:08,233 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 17%
-2024-11-28 21:05:08,740 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 84%
-2024-11-28 21:05:08,901 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3168 ms
-2024-11-28 21:05:08,905 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Enabling NametagEdit v4.5.23
-2024-11-28 21:05:09,201 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Successfully loaded using bukkit version: v1_19_R1
-2024-11-28 21:05:09,281 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
-2024-11-28 21:05:09,290 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (9.643s)! For help, type "help"
-2024-11-28 21:05:09,311 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
-2024-11-28 21:06:35,254 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
-2024-11-28 21:06:35,327 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c4f2c8a
-2024-11-28 21:06:35,375 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
-2024-11-28 21:06:35,502 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:37663] logged in with entity id 95 at (23.5, 78.0, 11.5)
-2024-11-28 21:07:20,527 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
-2024-11-28 21:07:20,615 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60f81d48
-2024-11-28 21:07:20,623 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra joined the game
-2024-11-28 21:07:20,656 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: MisterBartra[/127.238.224.165:56165] logged in with entity id 332 at (7.5, 74.0, 18.5)
-2024-11-28 21:08:14,904 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium prefix ADMINGOD
-2024-11-28 21:10:55,328 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> este /nametagedit
-2024-11-28 21:11:05,781 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player elmatidm is 1c9ec675-2a6d-3893-9b41-9eb3026acd3b
-2024-11-28 21:11:06,170 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@d96c8da[id=1c9ec675-2a6d-3893-9b41-9eb3026acd3b,name=elmatidm,properties={},legacy=false] (/127.172.183.101:48997) lost connection: Disconnected
-2024-11-28 21:11:20,256 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium suffix ++
-2024-11-28 21:11:33,118 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium suffix OP++
-2024-11-28 21:12:13,284 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Made Alexterminium a server operator
-2024-11-28 21:20:32,962 [32mINFO [m [m[Craft Scheduler Thread - 5][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying PlayerTag to Alexterminium
-2024-11-28 21:20:33,011 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Formatting text..
-2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying colors..
-2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Formatting text..
-2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying colors..
-2024-11-28 21:20:33,013 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Created FakeTeam 528CC9AC_Z4. Size: 1
-2024-11-28 21:20:33,013 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Alexterminium has been added to team 528CC9AC_Z4
+2024-11-28 21:44:09,490 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+2024-11-28 21:44:09,495 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+2024-11-28 21:44:09,632 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
+2024-11-28 21:44:09,920 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(54)[m: No dependencies to load found. Skipping!
+2024-11-28 21:44:11,010 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2024-11-28 21:44:14,852 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
+2024-11-28 21:44:16,585 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+2024-11-28 21:44:16,588 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
+2024-11-28 21:44:16,757 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
+2024-11-28 21:44:18,120 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2024-11-28 21:44:18,696 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
+2024-11-28 21:44:18,697 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
+2024-11-28 21:44:20,890 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 7 recipes
+2024-11-28 21:44:21,501 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 1179 advancements
+2024-11-28 21:44:21,915 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
+2024-11-28 21:44:21,921 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
+2024-11-28 21:44:21,924 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
+2024-11-28 21:44:21,924 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
+2024-11-28 21:44:22,066 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
+2024-11-28 21:44:22,089 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
+2024-11-28 21:44:22,286 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-11-28 21:44:22,287 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
+2024-11-28 21:44:22,288 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-11-28 21:44:22,288 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2024-11-28 21:44:22,418 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-141 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
+2024-11-28 21:44:22,501 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
+2024-11-28 21:44:22,504 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2024-11-28 21:44:22,506 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2024-11-28 21:44:23,816 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading LuckPerms v5.4.131
+2024-11-28 21:44:26,229 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Loading NametagEdit v4.5.23
+2024-11-28 21:44:26,233 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Enabling LuckPerms v5.4.131
+2024-11-28 21:44:27,310 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m       [0;36;22m __    [m
+2024-11-28 21:44:27,311 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.131[m
+2024-11-28 21:44:27,313 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - Mohist[m
+2024-11-28 21:44:27,313 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [m
+2024-11-28 21:44:27,327 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading configuration...
+2024-11-28 21:44:27,975 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading storage provider... [H2]
+2024-11-28 21:44:30,381 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading internal permission managers...
+2024-11-28 21:44:30,627 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Performing initial data load...
+2024-11-28 21:44:30,919 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Successfully enabled. (took 4684ms)
+2024-11-28 21:44:30,960 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
+2024-11-28 21:44:31,559 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
+2024-11-28 21:44:36,242 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,244 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,245 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,246 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,248 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,249 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,251 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,253 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,254 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,271 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,561 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:37,061 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 7%
+2024-11-28 21:44:37,568 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 32%
+2024-11-28 21:44:37,886 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 6325 ms
+2024-11-28 21:44:37,960 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
+2024-11-28 21:44:39,849 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,850 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,851 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,851 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,963 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:40,461 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 23%
+2024-11-28 21:44:40,961 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 89%
+2024-11-28 21:44:41,000 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3040 ms
+2024-11-28 21:44:41,003 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Enabling NametagEdit v4.5.23
+2024-11-28 21:44:41,090 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Successfully loaded using bukkit version: v1_19_R1
+2024-11-28 21:44:41,141 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Found LuckPerms! Hooking in.
+2024-11-28 21:44:41,171 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2024-11-28 21:44:41,202 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (10.282s)! For help, type "help"
+2024-11-28 21:44:41,216 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2024-11-28 21:44:49,997 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
+2024-11-28 21:44:50,099 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b98678c
+2024-11-28 21:44:50,217 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra joined the game
+2024-11-28 21:44:50,399 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: MisterBartra[/127.238.224.165:50963] logged in with entity id 217 at (36.30000001192093, 84.0, 51.69999998807907)
+2024-11-28 21:45:23,324 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
+2024-11-28 21:45:23,422 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3581ce8a
+2024-11-28 21:45:23,447 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
+2024-11-28 21:45:23,482 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:48687] logged in with entity id 275 at (37.854212848993676, 85.0, 50.75074495232557)

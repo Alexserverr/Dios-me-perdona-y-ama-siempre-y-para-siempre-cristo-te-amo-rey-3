@@ -1,178 +1,178 @@
-2024-11-28 21:04:46,364 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-2024-11-28 21:04:46,370 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-2024-11-28 21:04:46,395 [36mDEBUG[m [m[main][m [mc.m.m.LaunchServiceHandler.<init>(41)[m: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
-2024-11-28 21:04:46,415 [36mDEBUG[m [m[main][m [mc.m.m.NameMappingServiceHandler.<init>(44)[m: Found naming services : [srgtomcp]
-2024-11-28 21:04:46,437 [36mDEBUG[m [m[main][m [mc.m.m.LaunchPluginHandler.<init>(58)[m: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
-2024-11-28 21:04:46,448 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.discoverServices(120)[m: Discovering transformation services
-2024-11-28 21:04:46,453 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.discoverServices(128)[m: Found additional transformation services from discovery services: 
-2024-11-28 21:04:46,461 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.discoverServices(140)[m: Found transformer services : [mixin,fml]
-2024-11-28 21:04:46,461 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.loadTransformationServices(115)[m: Transformation services loading
-2024-11-28 21:04:46,462 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(52)[m: Loading service mixin
-2024-11-28 21:04:46,462 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(55)[m: Loaded service mixin
-2024-11-28 21:04:46,463 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(52)[m: Loading service fml
-2024-11-28 21:04:46,464 [36mDEBUG[m [m[main][m [mn.m.f.l.LauncherVersion.<clinit>(21)[m: Found FMLLauncher version 1.0
-2024-11-28 21:04:46,464 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(61)[m: FML 1.0 loading
-2024-11-28 21:04:46,464 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(63)[m: FML found ModLauncher version : 10.0.8+10.0.8+main.0ef7e830
-2024-11-28 21:04:46,465 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(75)[m: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
-2024-11-28 21:04:46,465 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(87)[m: FML found EventBus version : 6.0.5+0+master.c510e2cc
-2024-11-28 21:04:46,466 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(97)[m: Found Runtime Dist Cleaner
-2024-11-28 21:04:46,467 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(111)[m: FML found CoreMod version : 5.0.1+15+master.dc5a2922
-2024-11-28 21:04:46,467 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(114)[m: Found ForgeSPI package implementation version 6.0.0+6.0.0+master.42474703
-2024-11-28 21:04:46,467 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(115)[m: Found ForgeSPI package specification 5
-2024-11-28 21:04:46,469 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(55)[m: Loaded service fml
-2024-11-28 21:04:46,470 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.processArguments(66)[m: Configuring option handling for services
-2024-11-28 21:04:46,477 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.initialiseTransformationServices(90)[m: Transformation services initializing
-2024-11-28 21:04:46,478 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(67)[m: Initializing transformation service mixin
-2024-11-28 21:04:46,490 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@1972e513
-2024-11-28 21:04:46,505 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
-2024-11-28 21:04:46,508 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Initialising Mixin Platform Manager
-2024-11-28 21:04:46,509 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
-2024-11-28 21:04:46,510 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
-2024-11-28 21:04:46,511 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
-2024-11-28 21:04:46,511 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
-2024-11-28 21:04:46,512 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
-2024-11-28 21:04:46,514 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(69)[m: Initialized transformation service mixin
-2024-11-28 21:04:46,514 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(67)[m: Initializing transformation service fml
-2024-11-28 21:04:46,514 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(62)[m: Setting up basic FML game directories
-2024-11-28 21:04:46,515 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing GAMEDIR directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft
-2024-11-28 21:04:46,516 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path GAMEDIR is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft
-2024-11-28 21:04:46,516 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing MODSDIR directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/mods
-2024-11-28 21:04:46,516 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path MODSDIR is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/mods
-2024-11-28 21:04:46,516 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing CONFIGDIR directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config
-2024-11-28 21:04:46,516 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path CONFIGDIR is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config
-2024-11-28 21:04:46,517 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path FMLCONFIG is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/fml.toml
-2024-11-28 21:04:46,517 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(64)[m: Loading configuration
-2024-11-28 21:04:46,550 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing default config directory directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/defaultconfigs
-2024-11-28 21:04:46,550 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(66)[m: Preparing ModFile
-2024-11-28 21:04:46,553 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(77)[m: Preparing launch handler
-2024-11-28 21:04:46,554 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.setupLaunchHandler(135)[m: Using forgeserver as launch service
-2024-11-28 21:04:46,570 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.setupLaunchHandler(158)[m: Received command line version data  : VersionInfo[forgeVersion=43.4.2, mcVersion=1.19.2, mcpVersion=20220805.130853, forgeGroup=net.minecraftforge]
-2024-11-28 21:04:46,571 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(69)[m: Initialized transformation service fml
-2024-11-28 21:04:46,572 [36mDEBUG[m [m[main][m [mc.m.m.NameMappingServiceHandler.bindNamingServices(53)[m: Current naming domain is 'srg'
-2024-11-28 21:04:46,573 [36mDEBUG[m [m[main][m [mc.m.m.NameMappingServiceHandler.bindNamingServices(57)[m: Identified name mapping providers {}
-2024-11-28 21:04:46,573 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.runScanningTransformationServices(96)[m: Transformation services begin scanning
-2024-11-28 21:04:46,574 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(111)[m: Beginning scan trigger - transformation service mixin
-2024-11-28 21:04:46,574 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(113)[m: End scan trigger - transformation service mixin
-2024-11-28 21:04:46,574 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(111)[m: Beginning scan trigger - transformation service fml
-2024-11-28 21:04:46,575 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.beginScanning(85)[m: Initiating mod scan
-2024-11-28 21:04:46,584 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModListHandler.processModLists(54)[m: Found mod coordinates from lists: []
-2024-11-28 21:04:46,587 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModDiscoverer.<init>(51)[m: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
-2024-11-28 21:04:46,587 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModDiscoverer.<init>(57)[m: Found Dependency Locators : (JarInJar:null)
-2024-11-28 21:04:46,712 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file server-1.19.2-20220805.130853-srg.jar with {minecraft} mods - versions {1.19.2}
-2024-11-28 21:04:46,714 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar
-2024-11-28 21:04:46,715 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar
-2024-11-28 21:04:46,716 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar
-2024-11-28 21:04:46,717 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar
-2024-11-28 21:04:46,723 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar
-2024-11-28 21:04:46,726 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file forge-1.19.2-43.4.2-universal.jar with {forge} mods - versions {43.4.2}
-2024-11-28 21:04:46,737 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from server-1.19.2-20220805.130853-srg.jar, it does not contain dependency information.
-2024-11-28 21:04:46,738 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from forge-1.19.2-43.4.2-universal.jar, it does not contain dependency information.
-2024-11-28 21:04:46,738 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from mclanguage-1.19.2-43.4.2.jar, it does not contain dependency information.
-2024-11-28 21:04:46,739 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from javafmllanguage-1.19.2-43.4.2.jar, it does not contain dependency information.
-2024-11-28 21:04:46,739 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from fmlcore-1.19.2-43.4.2.jar, it does not contain dependency information.
-2024-11-28 21:04:46,739 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from lowcodelanguage-1.19.2-43.4.2.jar, it does not contain dependency information.
-2024-11-28 21:04:46,760 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(54)[m: No dependencies to load found. Skipping!
-2024-11-28 21:04:46,762 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file server-1.19.2-20220805.130853-srg.jar with {minecraft} mods - versions {1.19.2}
-2024-11-28 21:04:46,765 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.identifyMods(113)[m: Loading mod file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar with languages [LanguageSpec[languageName=minecraft, acceptedVersions=1]]
-2024-11-28 21:04:46,766 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar
-2024-11-28 21:04:46,767 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file forge-1.19.2-43.4.2-universal.jar with {forge} mods - versions {43.4.2}
-2024-11-28 21:04:46,768 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.identifyMods(113)[m: Loading mod file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[24,]]]
-2024-11-28 21:04:46,793 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.lambda$getCoreMods$0(68)[m: Found coremod field_to_method with Javascript path coremods/field_to_method.js
-2024-11-28 21:04:46,793 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.lambda$getCoreMods$0(68)[m: Found coremod field_to_instanceof with Javascript path coremods/field_to_instanceof.js
-2024-11-28 21:04:46,794 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.lambda$getCoreMods$0(68)[m: Found coremod add_bouncer_method with Javascript path coremods/add_bouncer_method.js
-2024-11-28 21:04:46,794 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.lambda$identifyMods$1(115)[m: Found coremod coremods/field_to_method.js
-2024-11-28 21:04:46,794 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.lambda$identifyMods$1(115)[m: Found coremod coremods/field_to_instanceof.js
-2024-11-28 21:04:46,794 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.lambda$identifyMods$1(115)[m: Found coremod coremods/add_bouncer_method.js
-2024-11-28 21:04:46,796 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(113)[m: End scan trigger - transformation service fml
-2024-11-28 21:04:46,808 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.loadLanguageProviders(84)[m: Found 3 language providers
-2024-11-28 21:04:46,808 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.lambda$loadLanguageProviders$4(100)[m: Found language provider minecraft, version 1.0
-2024-11-28 21:04:46,809 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.lambda$loadLanguageProviders$4(100)[m: Found language provider lowcodefml, version 43
-2024-11-28 21:04:46,809 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.lambda$loadLanguageProviders$4(100)[m: Found language provider javafml, version 43
-2024-11-28 21:04:46,813 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.detectSystemMods(172)[m: Configured system mods: [minecraft, forge]
-2024-11-28 21:04:46,813 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.detectSystemMods(178)[m: Found system mod: minecraft
-2024-11-28 21:04:46,813 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.detectSystemMods(178)[m: Found system mod: forge
-2024-11-28 21:04:46,815 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.verifyDependencyVersions(204)[m: Found 0 mod requirements (0 mandatory, 0 optional)
-2024-11-28 21:04:46,816 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.verifyDependencyVersions(209)[m: Found 0 mod requirements missing (0 mandatory, 0 optional)
-2024-11-28 21:04:47,224 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.initialiseServiceTransformers(84)[m: Transformation services loading transformers
-2024-11-28 21:04:47,225 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(73)[m: Initializing transformers for transformation service mixin
-2024-11-28 21:04:47,226 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(103)[m: Initialized transformers for transformation service mixin
-2024-11-28 21:04:47,226 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(73)[m: Initializing transformers for transformation service fml
-2024-11-28 21:04:47,226 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.transformers(132)[m: Loading coremod transformers
-2024-11-28 21:04:47,226 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(74)[m: Loading CoreMod from coremods/field_to_method.js
-2024-11-28 21:04:47,417 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(79)[m: CoreMod loaded successfully
-2024-11-28 21:04:47,418 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(74)[m: Loading CoreMod from coremods/field_to_instanceof.js
-2024-11-28 21:04:47,507 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(79)[m: CoreMod loaded successfully
-2024-11-28 21:04:47,515 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(74)[m: Loading CoreMod from coremods/add_bouncer_method.js
-2024-11-28 21:04:47,592 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(79)[m: CoreMod loaded successfully
-2024-11-28 21:04:47,602 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@6ef60295 to Target : CLASS {Lnet/minecraft/world/level/biome/Biome;} {} {V}
-2024-11-28 21:04:47,603 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2b4b96a4 to Target : CLASS {Lnet/minecraft/world/level/levelgen/structure/Structure;} {} {V}
-2024-11-28 21:04:47,603 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2dd8ff1d to Target : CLASS {Lnet/minecraft/world/effect/MobEffectInstance;} {} {V}
-2024-11-28 21:04:47,604 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@17e9bc9e to Target : CLASS {Lnet/minecraft/world/level/block/LiquidBlock;} {} {V}
-2024-11-28 21:04:47,605 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@36b9cb99 to Target : CLASS {Lnet/minecraft/world/item/BucketItem;} {} {V}
-2024-11-28 21:04:47,605 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@4130955c to Target : CLASS {Lnet/minecraft/world/level/block/StairBlock;} {} {V}
-2024-11-28 21:04:47,606 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2bfaba70 to Target : CLASS {Lnet/minecraft/world/level/block/FlowerPotBlock;} {} {V}
-2024-11-28 21:04:47,606 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@71adfedd to Target : CLASS {Lnet/minecraft/world/item/ItemStack;} {} {V}
-2024-11-28 21:04:47,606 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@9301672 to Target : CLASS {Lnet/minecraft/network/play/client/CClientSettingsPacket;} {} {V}
-2024-11-28 21:04:47,607 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(103)[m: Initialized transformers for transformation service fml
-2024-11-28 21:04:47,894 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
-2024-11-28 21:04:47,895 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
-2024-11-28 21:04:47,895 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Adding mixin platform agents for container SecureJarResource(minecraft)
-2024-11-28 21:04:47,896 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(minecraft)
-2024-11-28 21:04:47,896 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(minecraft)
-2024-11-28 21:04:47,897 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentDefault for SecureJarResource(minecraft)
-2024-11-28 21:04:47,897 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentDefault accepted container SecureJarResource(minecraft)
-2024-11-28 21:04:47,899 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecraft)]
-2024-11-28 21:04:47,899 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Adding mixin platform agents for container SecureJarResource(forge)
-2024-11-28 21:04:47,899 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(forge)
-2024-11-28 21:04:47,899 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(forge)
-2024-11-28 21:04:47,900 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentDefault for SecureJarResource(forge)
-2024-11-28 21:04:47,900 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentDefault accepted container SecureJarResource(forge)
-2024-11-28 21:04:47,900 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(forge)]
-2024-11-28 21:04:47,900 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: inject() running with 3 agents
-2024-11-28 21:04:47,900 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
-2024-11-28 21:04:47,901 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecraft)]
-2024-11-28 21:04:47,901 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(forge)]
-2024-11-28 21:04:47,901 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
-2024-11-28 21:04:47,938 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Error cleaning class output directory: .mixin.out
-2024-11-28 21:04:47,940 [36mDEBUG[m [m[main][m [mmixin.log(107)[m: Preparing mixins for MixinEnvironment[DEFAULT]
-2024-11-28 21:04:48,029 [36mDEBUG[m [m[main][m [mi.n.u.i.l.InternalLoggerFactory.useSlf4JLoggerFactory(63)[m: Using SLF4J as the default logging framework
-2024-11-28 21:04:48,032 [36mDEBUG[m [m[main][m [mi.n.u.ResourceLeakDetector.<clinit>(129)[m: -Dio.netty.leakDetection.level: simple
-2024-11-28 21:04:48,032 [36mDEBUG[m [m[main][m [mi.n.u.ResourceLeakDetector.<clinit>(130)[m: -Dio.netty.leakDetection.targetRecords: 4
-2024-11-28 21:04:48,201 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readPropertiesFromClassLoader(302)[m: No oshi.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@2954f6ab
-2024-11-28 21:04:48,218 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/cpuinfo
-2024-11-28 21:04:48,219 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/cpuinfo
-2024-11-28 21:04:48,238 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readPropertiesFromClassLoader(302)[m: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@2954f6ab
-2024-11-28 21:04:48,293 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/meminfo
-2024-11-28 21:04:48,296 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/meminfo
-2024-11-28 21:04:48,723 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/levelgen/structure/Structure
-2024-11-28 21:04:48,829 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/block/LiquidBlock
-2024-11-28 21:04:48,861 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/block/StairBlock
-2024-11-28 21:04:48,917 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/block/FlowerPotBlock
-2024-11-28 21:04:49,603 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/ItemStack
-2024-11-28 21:04:50,799 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
-2024-11-28 21:04:51,614 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/biome/Biome
-2024-11-28 21:04:52,138 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/BucketItem
-2024-11-28 21:04:52,228 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/effect/MobEffectInstance
-2024-11-28 21:04:52,774 [36mDEBUG[m [m[main][m [mn.m.c.ForgeI18n.loadLanguageData(82)[m: Loading I18N data entries: 5642
-2024-11-28 21:04:52,794 [36mDEBUG[m [m[main][m [mn.m.f.ModWorkManager.parallelExecutor(97)[m: Using 4 threads for parallel mod-loading
-2024-11-28 21:04:52,802 [36mDEBUG[m [m[main][m [mn.m.f.j.FMLJavaModLanguageProvider.loadMod(60)[m: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@2954f6ab - got cpw.mods.cl.ModuleClassLoader@7a93b263
-2024-11-28 21:04:52,803 [36mDEBUG[m [m[main][m [mn.m.f.j.FMLModContainer.<init>(40)[m: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod
-2024-11-28 21:04:52,874 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(29)[m: Forge Version package package net.minecraftforge.versions.forge, Forge, version 0.0 from cpw.mods.modlauncher.TransformingClassLoader@2954f6ab
-2024-11-28 21:04:52,878 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(41)[m: Found Forge version 43.4.2
-2024-11-28 21:04:52,878 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(42)[m: Found Forge spec 0.0
-2024-11-28 21:04:52,878 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(43)[m: Found Forge group net.minecraftforge
-2024-11-28 21:04:52,879 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.m.MCPVersion.<clinit>(21)[m: MCP Version package package net.minecraftforge.versions.mcp, Minecraft, version 1.19.2 from cpw.mods.modlauncher.TransformingClassLoader@2954f6ab
-2024-11-28 21:04:52,879 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.m.MCPVersion.<clinit>(28)[m: Found MC version information 1.19.2
-2024-11-28 21:04:52,880 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.m.MCPVersion.<clinit>(29)[m: Found MCP version information 20220805.130853
-2024-11-28 21:04:52,880 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-2024-11-28 21:04:52,882 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
-2024-11-28 21:04:52,933 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.explicitNoUnsafeCause0(495)[m: -Dio.netty.noUnsafe: false
-2024-11-28 21:04:52,933 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.javaVersion0(998)[m: Java version: 17
-2024-11-28 21:04:52,934 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(136)[m: sun.misc.Unsafe.theUnsafe: available
-2024-11-28 21:04:52,935 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(160)[m: sun.misc.Unsafe.copyMemory: available
-2024-11-28 21:04:52,935 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(192)[m: sun.misc.Unsafe.storeFence: available
-2024-11-28 21:04:52,936 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(235)[m: java.nio.Buffer.address: available
-2024-11-28 21:04:52,936 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(316)[m: direct buffer constructor: unavailable
+2024-11-28 21:44:09,490 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+2024-11-28 21:44:09,495 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+2024-11-28 21:44:09,519 [36mDEBUG[m [m[main][m [mc.m.m.LaunchServiceHandler.<init>(41)[m: Found launch services [fmlclientdev,forgeclient,minecraft,forgegametestserverdev,fmlserveruserdev,fmlclient,fmldatauserdev,forgeserverdev,forgeserveruserdev,forgeclientdev,forgeclientuserdev,forgeserver,forgedatadev,fmlserver,fmlclientuserdev,fmlserverdev,forgedatauserdev,testharness,forgegametestserveruserdev]
+2024-11-28 21:44:09,541 [36mDEBUG[m [m[main][m [mc.m.m.NameMappingServiceHandler.<init>(44)[m: Found naming services : [srgtomcp]
+2024-11-28 21:44:09,563 [36mDEBUG[m [m[main][m [mc.m.m.LaunchPluginHandler.<init>(58)[m: Found launch plugins: [mixin,eventbus,slf4jfixer,object_holder_definalize,runtime_enum_extender,capability_token_subclass,accesstransformer,runtimedistcleaner]
+2024-11-28 21:44:09,577 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.discoverServices(120)[m: Discovering transformation services
+2024-11-28 21:44:09,586 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.discoverServices(128)[m: Found additional transformation services from discovery services: 
+2024-11-28 21:44:09,595 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.discoverServices(140)[m: Found transformer services : [mixin,fml]
+2024-11-28 21:44:09,595 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.loadTransformationServices(115)[m: Transformation services loading
+2024-11-28 21:44:09,596 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(52)[m: Loading service mixin
+2024-11-28 21:44:09,597 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(55)[m: Loaded service mixin
+2024-11-28 21:44:09,597 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(52)[m: Loading service fml
+2024-11-28 21:44:09,599 [36mDEBUG[m [m[main][m [mn.m.f.l.LauncherVersion.<clinit>(21)[m: Found FMLLauncher version 1.0
+2024-11-28 21:44:09,599 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(61)[m: FML 1.0 loading
+2024-11-28 21:44:09,599 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(63)[m: FML found ModLauncher version : 10.0.8+10.0.8+main.0ef7e830
+2024-11-28 21:44:09,600 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(75)[m: FML found AccessTransformer version : 8.0.4+66+master.c09db6d7
+2024-11-28 21:44:09,600 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(87)[m: FML found EventBus version : 6.0.5+0+master.c510e2cc
+2024-11-28 21:44:09,601 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(97)[m: Found Runtime Dist Cleaner
+2024-11-28 21:44:09,602 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(111)[m: FML found CoreMod version : 5.0.1+15+master.dc5a2922
+2024-11-28 21:44:09,602 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(114)[m: Found ForgeSPI package implementation version 6.0.0+6.0.0+master.42474703
+2024-11-28 21:44:09,602 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.onInitialLoad(115)[m: Found ForgeSPI package specification 5
+2024-11-28 21:44:09,604 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onLoad(55)[m: Loaded service fml
+2024-11-28 21:44:09,605 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.processArguments(66)[m: Configuring option handling for services
+2024-11-28 21:44:09,611 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.initialiseTransformationServices(90)[m: Transformation services initializing
+2024-11-28 21:44:09,611 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(67)[m: Initializing transformation service mixin
+2024-11-28 21:44:09,622 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinService [ModLauncher] was successfully booted in cpw.mods.cl.ModuleClassLoader@1972e513
+2024-11-28 21:44:09,632 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
+2024-11-28 21:44:09,635 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Initialising Mixin Platform Manager
+2024-11-28 21:44:09,636 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Adding mixin platform agents for container ModLauncher Root Container(ModLauncher:4f56a0a2)
+2024-11-28 21:44:09,636 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentMinecraftForge for ModLauncher Root Container(ModLauncher:4f56a0a2)
+2024-11-28 21:44:09,637 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentMinecraftForge rejected container ModLauncher Root Container(ModLauncher:4f56a0a2)
+2024-11-28 21:44:09,637 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentDefault for ModLauncher Root Container(ModLauncher:4f56a0a2)
+2024-11-28 21:44:09,638 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentDefault accepted container ModLauncher Root Container(ModLauncher:4f56a0a2)
+2024-11-28 21:44:09,640 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(69)[m: Initialized transformation service mixin
+2024-11-28 21:44:09,640 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(67)[m: Initializing transformation service fml
+2024-11-28 21:44:09,641 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(62)[m: Setting up basic FML game directories
+2024-11-28 21:44:09,641 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing GAMEDIR directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft
+2024-11-28 21:44:09,642 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path GAMEDIR is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft
+2024-11-28 21:44:09,642 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing MODSDIR directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/mods
+2024-11-28 21:44:09,642 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path MODSDIR is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/mods
+2024-11-28 21:44:09,642 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing CONFIGDIR directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config
+2024-11-28 21:44:09,643 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path CONFIGDIR is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config
+2024-11-28 21:44:09,643 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLPaths.loadAbsolutePaths(66)[m: Path FMLCONFIG is /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/fml.toml
+2024-11-28 21:44:09,643 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(64)[m: Loading configuration
+2024-11-28 21:44:09,674 [36mDEBUG[m [m[main][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing default config directory directory : /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/defaultconfigs
+2024-11-28 21:44:09,674 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(66)[m: Preparing ModFile
+2024-11-28 21:44:09,679 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.initialize(77)[m: Preparing launch handler
+2024-11-28 21:44:09,679 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.setupLaunchHandler(135)[m: Using forgeserver as launch service
+2024-11-28 21:44:09,700 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLLoader.setupLaunchHandler(158)[m: Received command line version data  : VersionInfo[forgeVersion=43.4.2, mcVersion=1.19.2, mcpVersion=20220805.130853, forgeGroup=net.minecraftforge]
+2024-11-28 21:44:09,702 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.onInitialize(69)[m: Initialized transformation service fml
+2024-11-28 21:44:09,703 [36mDEBUG[m [m[main][m [mc.m.m.NameMappingServiceHandler.bindNamingServices(53)[m: Current naming domain is 'srg'
+2024-11-28 21:44:09,704 [36mDEBUG[m [m[main][m [mc.m.m.NameMappingServiceHandler.bindNamingServices(57)[m: Identified name mapping providers {}
+2024-11-28 21:44:09,704 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.runScanningTransformationServices(96)[m: Transformation services begin scanning
+2024-11-28 21:44:09,705 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(111)[m: Beginning scan trigger - transformation service mixin
+2024-11-28 21:44:09,705 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(113)[m: End scan trigger - transformation service mixin
+2024-11-28 21:44:09,706 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(111)[m: Beginning scan trigger - transformation service fml
+2024-11-28 21:44:09,706 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.beginScanning(85)[m: Initiating mod scan
+2024-11-28 21:44:09,715 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModListHandler.processModLists(54)[m: Found mod coordinates from lists: []
+2024-11-28 21:44:09,718 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModDiscoverer.<init>(51)[m: Found Mod Locators : (mods folder:null),(maven libs:null),(exploded directory:null),(minecraft:null),(userdev classpath:null)
+2024-11-28 21:44:09,719 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModDiscoverer.<init>(57)[m: Found Dependency Locators : (JarInJar:null)
+2024-11-28 21:44:09,865 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file server-1.19.2-20220805.130853-srg.jar with {minecraft} mods - versions {1.19.2}
+2024-11-28 21:44:09,868 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar
+2024-11-28 21:44:09,870 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar
+2024-11-28 21:44:09,872 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar
+2024-11-28 21:44:09,873 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar
+2024-11-28 21:44:09,879 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar
+2024-11-28 21:44:09,882 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file forge-1.19.2-43.4.2-universal.jar with {forge} mods - versions {43.4.2}
+2024-11-28 21:44:09,894 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from server-1.19.2-20220805.130853-srg.jar, it does not contain dependency information.
+2024-11-28 21:44:09,894 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from forge-1.19.2-43.4.2-universal.jar, it does not contain dependency information.
+2024-11-28 21:44:09,894 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from mclanguage-1.19.2-43.4.2.jar, it does not contain dependency information.
+2024-11-28 21:44:09,895 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from javafmllanguage-1.19.2-43.4.2.jar, it does not contain dependency information.
+2024-11-28 21:44:09,895 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from fmlcore-1.19.2-43.4.2.jar, it does not contain dependency information.
+2024-11-28 21:44:09,895 [36mDEBUG[m [m[main][m [mn.m.f.l.m.AbstractJarFileDependencyLocator.loadResourceFromModFile(29)[m: Failed to load resource META-INF/jarjar/metadata.json from lowcodelanguage-1.19.2-43.4.2.jar, it does not contain dependency information.
+2024-11-28 21:44:09,920 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(54)[m: No dependencies to load found. Skipping!
+2024-11-28 21:44:09,922 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file server-1.19.2-20220805.130853-srg.jar with {minecraft} mods - versions {1.19.2}
+2024-11-28 21:44:09,925 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.identifyMods(113)[m: Loading mod file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar with languages [LanguageSpec[languageName=minecraft, acceptedVersions=1]]
+2024-11-28 21:44:09,927 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.modsTomlParser(36)[m: Considering mod file candidate /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar
+2024-11-28 21:44:09,928 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileInfo.<init>(73)[m: Found valid mod file forge-1.19.2-43.4.2-universal.jar with {forge} mods - versions {43.4.2}
+2024-11-28 21:44:09,928 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.identifyMods(113)[m: Loading mod file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar with languages [LanguageSpec[languageName=javafml, acceptedVersions=[24,]]]
+2024-11-28 21:44:09,957 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.lambda$getCoreMods$0(68)[m: Found coremod field_to_method with Javascript path coremods/field_to_method.js
+2024-11-28 21:44:09,957 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.lambda$getCoreMods$0(68)[m: Found coremod field_to_instanceof with Javascript path coremods/field_to_instanceof.js
+2024-11-28 21:44:09,958 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFileParser.lambda$getCoreMods$0(68)[m: Found coremod add_bouncer_method with Javascript path coremods/add_bouncer_method.js
+2024-11-28 21:44:09,958 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.lambda$identifyMods$1(115)[m: Found coremod coremods/field_to_method.js
+2024-11-28 21:44:09,958 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.lambda$identifyMods$1(115)[m: Found coremod coremods/field_to_instanceof.js
+2024-11-28 21:44:09,958 [36mDEBUG[m [m[main][m [mn.m.f.l.m.ModFile.lambda$identifyMods$1(115)[m: Found coremod coremods/add_bouncer_method.js
+2024-11-28 21:44:09,959 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.runScan(113)[m: End scan trigger - transformation service fml
+2024-11-28 21:44:09,972 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.loadLanguageProviders(84)[m: Found 3 language providers
+2024-11-28 21:44:09,973 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.lambda$loadLanguageProviders$4(100)[m: Found language provider minecraft, version 1.0
+2024-11-28 21:44:09,974 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.lambda$loadLanguageProviders$4(100)[m: Found language provider lowcodefml, version 43
+2024-11-28 21:44:09,974 [36mDEBUG[m [m[main][m [mn.m.f.l.LanguageLoadingProvider.lambda$loadLanguageProviders$4(100)[m: Found language provider javafml, version 43
+2024-11-28 21:44:09,980 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.detectSystemMods(172)[m: Configured system mods: [minecraft, forge]
+2024-11-28 21:44:09,980 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.detectSystemMods(178)[m: Found system mod: minecraft
+2024-11-28 21:44:09,980 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.detectSystemMods(178)[m: Found system mod: forge
+2024-11-28 21:44:09,982 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.verifyDependencyVersions(204)[m: Found 0 mod requirements (0 mandatory, 0 optional)
+2024-11-28 21:44:09,983 [36mDEBUG[m [m[main][m [mn.m.f.l.ModSorter.verifyDependencyVersions(209)[m: Found 0 mod requirements missing (0 mandatory, 0 optional)
+2024-11-28 21:44:10,400 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServicesHandler.initialiseServiceTransformers(84)[m: Transformation services loading transformers
+2024-11-28 21:44:10,401 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(73)[m: Initializing transformers for transformation service mixin
+2024-11-28 21:44:10,401 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(103)[m: Initialized transformers for transformation service mixin
+2024-11-28 21:44:10,402 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(73)[m: Initializing transformers for transformation service fml
+2024-11-28 21:44:10,402 [36mDEBUG[m [m[main][m [mn.m.f.l.FMLServiceProvider.transformers(132)[m: Loading coremod transformers
+2024-11-28 21:44:10,402 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(74)[m: Loading CoreMod from coremods/field_to_method.js
+2024-11-28 21:44:10,608 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(79)[m: CoreMod loaded successfully
+2024-11-28 21:44:10,608 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(74)[m: Loading CoreMod from coremods/field_to_instanceof.js
+2024-11-28 21:44:10,699 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(79)[m: CoreMod loaded successfully
+2024-11-28 21:44:10,699 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(74)[m: Loading CoreMod from coremods/add_bouncer_method.js
+2024-11-28 21:44:10,758 [36mDEBUG[m [m[main][m [mn.m.c.CoreModEngine.initialize(79)[m: CoreMod loaded successfully
+2024-11-28 21:44:10,773 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@6ef60295 to Target : CLASS {Lnet/minecraft/world/level/biome/Biome;} {} {V}
+2024-11-28 21:44:10,774 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2b4b96a4 to Target : CLASS {Lnet/minecraft/world/level/levelgen/structure/Structure;} {} {V}
+2024-11-28 21:44:10,775 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2dd8ff1d to Target : CLASS {Lnet/minecraft/world/effect/MobEffectInstance;} {} {V}
+2024-11-28 21:44:10,775 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@17e9bc9e to Target : CLASS {Lnet/minecraft/world/level/block/LiquidBlock;} {} {V}
+2024-11-28 21:44:10,775 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@36b9cb99 to Target : CLASS {Lnet/minecraft/world/item/BucketItem;} {} {V}
+2024-11-28 21:44:10,775 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@4130955c to Target : CLASS {Lnet/minecraft/world/level/block/StairBlock;} {} {V}
+2024-11-28 21:44:10,776 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@2bfaba70 to Target : CLASS {Lnet/minecraft/world/level/block/FlowerPotBlock;} {} {V}
+2024-11-28 21:44:10,776 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@71adfedd to Target : CLASS {Lnet/minecraft/world/item/ItemStack;} {} {V}
+2024-11-28 21:44:10,776 [36mDEBUG[m [m[main][m [mc.m.m.TransformStore.addTransformer(64)[m: Adding transformer net.minecraftforge.coremod.transformer.CoreModClassTransformer@9301672 to Target : CLASS {Lnet/minecraft/network/play/client/CClientSettingsPacket;} {} {V}
+2024-11-28 21:44:10,776 [36mDEBUG[m [m[main][m [mc.m.m.TransformationServiceDecorator.gatherTransformers(103)[m: Initialized transformers for transformation service fml
+2024-11-28 21:44:11,006 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+2024-11-28 21:44:11,006 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+2024-11-28 21:44:11,006 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Adding mixin platform agents for container SecureJarResource(minecraft)
+2024-11-28 21:44:11,007 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(minecraft)
+2024-11-28 21:44:11,007 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(minecraft)
+2024-11-28 21:44:11,007 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentDefault for SecureJarResource(minecraft)
+2024-11-28 21:44:11,007 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentDefault accepted container SecureJarResource(minecraft)
+2024-11-28 21:44:11,008 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecraft)]
+2024-11-28 21:44:11,008 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Adding mixin platform agents for container SecureJarResource(forge)
+2024-11-28 21:44:11,008 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentMinecraftForge for SecureJarResource(forge)
+2024-11-28 21:44:11,008 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentMinecraftForge rejected container SecureJarResource(forge)
+2024-11-28 21:44:11,008 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Instancing new MixinPlatformAgentDefault for SecureJarResource(forge)
+2024-11-28 21:44:11,009 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: MixinPlatformAgentDefault accepted container SecureJarResource(forge)
+2024-11-28 21:44:11,009 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(forge)]
+2024-11-28 21:44:11,009 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: inject() running with 3 agents
+2024-11-28 21:44:11,009 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ModLauncher Root Container(ModLauncher:4f56a0a2)]
+2024-11-28 21:44:11,009 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(minecraft)]
+2024-11-28 21:44:11,010 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:SecureJarResource(forge)]
+2024-11-28 21:44:11,010 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2024-11-28 21:44:11,073 [36mDEBUG[m [m[main][m [mmixin.debug(67)[m: Error cleaning class output directory: .mixin.out
+2024-11-28 21:44:11,077 [36mDEBUG[m [m[main][m [mmixin.log(107)[m: Preparing mixins for MixinEnvironment[DEFAULT]
+2024-11-28 21:44:11,176 [36mDEBUG[m [m[main][m [mi.n.u.i.l.InternalLoggerFactory.useSlf4JLoggerFactory(63)[m: Using SLF4J as the default logging framework
+2024-11-28 21:44:11,180 [36mDEBUG[m [m[main][m [mi.n.u.ResourceLeakDetector.<clinit>(129)[m: -Dio.netty.leakDetection.level: simple
+2024-11-28 21:44:11,181 [36mDEBUG[m [m[main][m [mi.n.u.ResourceLeakDetector.<clinit>(130)[m: -Dio.netty.leakDetection.targetRecords: 4
+2024-11-28 21:44:11,379 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readPropertiesFromClassLoader(302)[m: No oshi.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@67022ea
+2024-11-28 21:44:11,442 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/cpuinfo
+2024-11-28 21:44:11,443 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/cpuinfo
+2024-11-28 21:44:11,485 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readPropertiesFromClassLoader(302)[m: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@67022ea
+2024-11-28 21:44:11,512 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/meminfo
+2024-11-28 21:44:11,514 [36mDEBUG[m [m[main][m [mo.u.FileUtil.readFile(89)[m: Reading file /proc/meminfo
+2024-11-28 21:44:11,969 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/levelgen/structure/Structure
+2024-11-28 21:44:12,130 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/block/LiquidBlock
+2024-11-28 21:44:12,187 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/block/StairBlock
+2024-11-28 21:44:12,285 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/block/FlowerPotBlock
+2024-11-28 21:44:13,299 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/ItemStack
+2024-11-28 21:44:14,852 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
+2024-11-28 21:44:15,680 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/level/biome/Biome
+2024-11-28 21:44:16,104 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/BucketItem
+2024-11-28 21:44:16,174 [36mDEBUG[m [m[main][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/effect/MobEffectInstance
+2024-11-28 21:44:16,511 [36mDEBUG[m [m[main][m [mn.m.c.ForgeI18n.loadLanguageData(82)[m: Loading I18N data entries: 5642
+2024-11-28 21:44:16,525 [36mDEBUG[m [m[main][m [mn.m.f.ModWorkManager.parallelExecutor(97)[m: Using 4 threads for parallel mod-loading
+2024-11-28 21:44:16,534 [36mDEBUG[m [m[main][m [mn.m.f.j.FMLJavaModLanguageProvider.loadMod(60)[m: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@67022ea - got cpw.mods.cl.ModuleClassLoader@7a93b263
+2024-11-28 21:44:16,534 [36mDEBUG[m [m[main][m [mn.m.f.j.FMLModContainer.<init>(40)[m: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod
+2024-11-28 21:44:16,582 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(29)[m: Forge Version package package net.minecraftforge.versions.forge, Forge, version 0.0 from cpw.mods.modlauncher.TransformingClassLoader@67022ea
+2024-11-28 21:44:16,582 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(41)[m: Found Forge version 43.4.2
+2024-11-28 21:44:16,583 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(42)[m: Found Forge spec 0.0
+2024-11-28 21:44:16,583 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.f.ForgeVersion.<clinit>(43)[m: Found Forge group net.minecraftforge
+2024-11-28 21:44:16,584 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.m.MCPVersion.<clinit>(21)[m: MCP Version package package net.minecraftforge.versions.mcp, Minecraft, version 1.19.2 from cpw.mods.modlauncher.TransformingClassLoader@67022ea
+2024-11-28 21:44:16,584 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.m.MCPVersion.<clinit>(28)[m: Found MC version information 1.19.2
+2024-11-28 21:44:16,585 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.v.m.MCPVersion.<clinit>(29)[m: Found MCP version information 20220805.130853
+2024-11-28 21:44:16,585 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+2024-11-28 21:44:16,588 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
+2024-11-28 21:44:16,636 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.explicitNoUnsafeCause0(495)[m: -Dio.netty.noUnsafe: false
+2024-11-28 21:44:16,636 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.javaVersion0(998)[m: Java version: 17
+2024-11-28 21:44:16,637 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(136)[m: sun.misc.Unsafe.theUnsafe: available
+2024-11-28 21:44:16,638 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(160)[m: sun.misc.Unsafe.copyMemory: available
+2024-11-28 21:44:16,638 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(192)[m: sun.misc.Unsafe.storeFence: available
+2024-11-28 21:44:16,639 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(235)[m: java.nio.Buffer.address: available
+2024-11-28 21:44:16,639 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(316)[m: direct buffer constructor: unavailable
 java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
 	at io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[netty-common-4.1.77.Final.jar%23123!/:4.1.77.Final]
 	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:287) ~[netty-common-4.1.77.Final.jar%23123!/:4.1.77.Final]
@@ -199,8 +199,8 @@ java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-2024-11-28 21:04:52,938 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(384)[m: java.nio.Bits.unaligned: available, true
-2024-11-28 21:04:52,939 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(448)[m: jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+2024-11-28 21:44:16,640 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(384)[m: java.nio.Bits.unaligned: available, true
+2024-11-28 21:44:16,642 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(448)[m: jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
 java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$7 (in module io.netty.common) cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to module io.netty.common
 	at jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392) ~[?:?]
 	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674) ~[?:?]
@@ -229,206 +229,203 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-2024-11-28 21:04:52,942 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(481)[m: java.nio.DirectByteBuffer.<init>(long, int): unavailable
-2024-11-28 21:04:52,942 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.unsafeUnavailabilityCause0(1120)[m: sun.misc.Unsafe: available
-2024-11-28 21:04:52,943 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.estimateMaxDirectMemory(1231)[m: maxDirectMemory: 12884901888 bytes (maybe)
-2024-11-28 21:04:52,943 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.tmpdir0(1250)[m: -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
-2024-11-28 21:04:52,944 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.bitMode0(1329)[m: -Dio.netty.bitMode: 64 (sun.arch.data.model)
-2024-11-28 21:04:52,944 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.<clinit>(178)[m: -Dio.netty.maxDirectMemory: -1 bytes
-2024-11-28 21:04:52,945 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.<clinit>(185)[m: -Dio.netty.uninitializedArrayAllocationThreshold: -1
-2024-11-28 21:04:52,946 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.CleanerJava9.<clinit>(71)[m: java.nio.ByteBuffer.cleaner(): available
-2024-11-28 21:04:52,946 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.<clinit>(205)[m: -Dio.netty.noPreferDirect: false
-2024-11-28 21:04:52,971 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(437)[m: Loading Network data for FML net version: FML3
-2024-11-28 21:04:53,016 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.c.ConfigTracker.trackConfig(45)[m: Config file forge-client.toml for forge tracking
-2024-11-28 21:04:53,016 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.c.ConfigTracker.trackConfig(45)[m: Config file forge-server.toml for forge tracking
-2024-11-28 21:04:53,017 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.c.ConfigTracker.trackConfig(45)[m: Config file forge-common.toml for forge tracking
-2024-11-28 21:04:53,115 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
-2024-11-28 21:04:53,119 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.j.AutomaticEventSubscriber.inject(40)[m: Attempting to inject @EventBusSubscriber classes into the eventbus for forge
-2024-11-28 21:04:53,125 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.j.AutomaticEventSubscriber.lambda$inject$6(60)[m: Auto-subscribing net.minecraftforge.common.ForgeSpawnEggItem$CommonHandler to MOD
-2024-11-28 21:04:53,173 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/energy/IEnergyStorage;
-2024-11-28 21:04:53,174 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/fluids/capability/IFluidHandler;
-2024-11-28 21:04:53,175 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/fluids/capability/IFluidHandlerItem;
-2024-11-28 21:04:53,175 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/items/IItemHandler;
-2024-11-28 21:04:53,315 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigTracker.loadConfigs(49)[m: Loading configs type COMMON
-2024-11-28 21:04:53,316 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(40)[m: Built TOML config for /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/forge-common.toml
-2024-11-28 21:04:53,317 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(49)[m: Loaded TOML config file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/forge-common.toml
-2024-11-28 21:04:53,317 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(52)[m: Watching TOML config file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/forge-common.toml for changes
-2024-11-28 21:04:53,319 [36mDEBUG[m [m[main][m [mn.m.c.ForgeConfig.onLoad(197)[m: Loaded forge config file forge-common.toml
-2024-11-28 21:04:54,501 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-2024-11-28 21:04:55,027 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-2024-11-28 21:04:55,028 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-2024-11-28 21:04:55,064 [36mDEBUG[m [m[main][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(209)[m: Generating PackInfo named mod:forge for mod file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar
-2024-11-28 21:04:55,072 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace minecraft, on thread: Worker-Main-1
-2024-11-28 21:04:55,075 [36mDEBUG[m [m[Worker-Main-2][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace minecraft, on thread: Worker-Main-2
-2024-11-28 21:04:55,079 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace realms, on thread: Worker-Main-1
-2024-11-28 21:04:55,080 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(355)[m: Failed to cache resources, the directory does not exist!
+2024-11-28 21:44:16,645 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent0.<clinit>(481)[m: java.nio.DirectByteBuffer.<init>(long, int): unavailable
+2024-11-28 21:44:16,645 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.unsafeUnavailabilityCause0(1120)[m: sun.misc.Unsafe: available
+2024-11-28 21:44:16,646 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.estimateMaxDirectMemory(1231)[m: maxDirectMemory: 12884901888 bytes (maybe)
+2024-11-28 21:44:16,646 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.tmpdir0(1250)[m: -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+2024-11-28 21:44:16,647 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.bitMode0(1329)[m: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-11-28 21:44:16,648 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.<clinit>(178)[m: -Dio.netty.maxDirectMemory: -1 bytes
+2024-11-28 21:44:16,648 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.<clinit>(185)[m: -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-11-28 21:44:16,650 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.CleanerJava9.<clinit>(71)[m: java.nio.ByteBuffer.cleaner(): available
+2024-11-28 21:44:16,650 [36mDEBUG[m [m[modloading-worker-0][m [mi.n.u.i.PlatformDependent.<clinit>(205)[m: -Dio.netty.noPreferDirect: false
+2024-11-28 21:44:16,675 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(437)[m: Loading Network data for FML net version: FML3
+2024-11-28 21:44:16,711 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.c.ConfigTracker.trackConfig(45)[m: Config file forge-client.toml for forge tracking
+2024-11-28 21:44:16,711 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.c.ConfigTracker.trackConfig(45)[m: Config file forge-server.toml for forge tracking
+2024-11-28 21:44:16,712 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.c.ConfigTracker.trackConfig(45)[m: Config file forge-common.toml for forge tracking
+2024-11-28 21:44:16,757 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
+2024-11-28 21:44:16,759 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.j.AutomaticEventSubscriber.inject(40)[m: Attempting to inject @EventBusSubscriber classes into the eventbus for forge
+2024-11-28 21:44:16,763 [36mDEBUG[m [m[modloading-worker-0][m [mn.m.f.j.AutomaticEventSubscriber.lambda$inject$6(60)[m: Auto-subscribing net.minecraftforge.common.ForgeSpawnEggItem$CommonHandler to MOD
+2024-11-28 21:44:16,805 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/energy/IEnergyStorage;
+2024-11-28 21:44:16,806 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/fluids/capability/IFluidHandler;
+2024-11-28 21:44:16,807 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/fluids/capability/IFluidHandlerItem;
+2024-11-28 21:44:16,807 [36mDEBUG[m [m[main][m [mn.m.c.c.CapabilityManager.injectCapabilities(79)[m: Attempting to automatically register: Lnet/minecraftforge/items/IItemHandler;
+2024-11-28 21:44:16,970 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigTracker.loadConfigs(49)[m: Loading configs type COMMON
+2024-11-28 21:44:16,971 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(40)[m: Built TOML config for /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/forge-common.toml
+2024-11-28 21:44:16,972 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(49)[m: Loaded TOML config file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/forge-common.toml
+2024-11-28 21:44:16,974 [36mDEBUG[m [m[main][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(52)[m: Watching TOML config file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/forge-common.toml for changes
+2024-11-28 21:44:16,976 [36mDEBUG[m [m[main][m [mn.m.c.ForgeConfig.onLoad(197)[m: Loaded forge config file forge-common.toml
+2024-11-28 21:44:16,977 [36mDEBUG[m [m[Thread-0][m [mn.m.f.c.ConfigFileTypeHandler.run(145)[m: Config file forge-common.toml changed, sending notifies
+2024-11-28 21:44:16,981 [36mDEBUG[m [m[Thread-0][m [mn.m.c.ForgeConfig.onFileChange(202)[m: Forge config just got changed on the file system!
+2024-11-28 21:44:16,982 [36mDEBUG[m [m[Thread-0][m [mn.m.f.c.ConfigFileTypeHandler.run(145)[m: Config file forge-common.toml changed, sending notifies
+2024-11-28 21:44:16,982 [36mDEBUG[m [m[Thread-0][m [mn.m.c.ForgeConfig.onFileChange(202)[m: Forge config just got changed on the file system!
+2024-11-28 21:44:18,120 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2024-11-28 21:44:18,696 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
+2024-11-28 21:44:18,697 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
+2024-11-28 21:44:18,778 [36mDEBUG[m [m[main][m [mn.m.s.ServerLifecycleHooks.serverPackFinder(209)[m: Generating PackInfo named mod:forge for mod file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraftforge/forge/1.19.2-43.4.2/forge-1.19.2-43.4.2-universal.jar
+2024-11-28 21:44:18,789 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace minecraft, on thread: Worker-Main-1
+2024-11-28 21:44:18,792 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace realms, on thread: Worker-Main-1
+2024-11-28 21:44:18,792 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(355)[m: Failed to cache resources, the directory does not exist!
 cpw.mods.niofs.union.UnionFileSystem$NoSuchFileException: /assets/realms
-2024-11-28 21:04:55,080 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace realms, on thread: Worker-Main-1
-2024-11-28 21:04:55,080 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(355)[m: Failed to cache resources, the directory does not exist!
+2024-11-28 21:44:18,792 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace realms, on thread: Worker-Main-1
+2024-11-28 21:44:18,792 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(355)[m: Failed to cache resources, the directory does not exist!
 cpw.mods.niofs.union.UnionFileSystem$NoSuchFileException: /data/realms
-2024-11-28 21:04:55,080 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace minecraft, on thread: Worker-Main-1
-2024-11-28 21:04:55,080 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(355)[m: Failed to cache resources, the directory does not exist!
+2024-11-28 21:44:18,792 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace minecraft, on thread: Worker-Main-1
+2024-11-28 21:44:18,792 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(355)[m: Failed to cache resources, the directory does not exist!
 cpw.mods.niofs.union.UnionFileSystem$NoSuchFileException: /assets/minecraft
-2024-11-28 21:04:55,081 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace minecraft, on thread: Worker-Main-1
-2024-11-28 21:04:55,084 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace forge, on thread: Worker-Main-1
-2024-11-28 21:04:55,085 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace forge, on thread: Worker-Main-1
-2024-11-28 21:04:57,096 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 7 recipes
-2024-11-28 21:04:57,705 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 1179 advancements
-2024-11-28 21:04:58,078 [36mDEBUG[m [m[main][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
-2024-11-28 21:04:58,087 [36mDEBUG[m [m[main][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
-2024-11-28 21:04:58,145 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
-2024-11-28 21:04:58,146 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
-2024-11-28 21:04:58,147 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
-2024-11-28 21:04:58,147 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
-2024-11-28 21:04:58,254 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
-2024-11-28 21:04:58,260 [36mDEBUG[m [m[Server thread][m [mn.m.n.DualStackUtils.checkIPv6(82)[m: Detected IPv4 address: "0.0.0.0"
-2024-11-28 21:04:58,270 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(78)[m: -Dio.netty.native.workdir: /tmp (io.netty.tmpdir)
-2024-11-28 21:04:58,270 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(83)[m: -Dio.netty.native.deleteLibAfterLoading: true
-2024-11-28 21:04:58,270 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(87)[m: -Dio.netty.native.tryPatchShadedId: true
-2024-11-28 21:04:58,270 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(91)[m: -Dio.netty.native.detectNativeLibraryDuplicates: true
-2024-11-28 21:04:58,276 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
-2024-11-28 21:04:58,290 [36mDEBUG[m [m[Server thread][m [mi.n.c.MultithreadEventLoopGroup.<clinit>(44)[m: -Dio.netty.eventLoopThreads: 8
-2024-11-28 21:04:58,299 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.InternalThreadLocalMap.<clinit>(86)[m: -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
-2024-11-28 21:04:58,299 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.InternalThreadLocalMap.<clinit>(89)[m: -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
-2024-11-28 21:04:58,303 [36mDEBUG[m [m[Server thread][m [mi.n.c.n.NioEventLoop.<clinit>(109)[m: -Dio.netty.noKeySetOptimization: false
-2024-11-28 21:04:58,305 [36mDEBUG[m [m[Server thread][m [mi.n.c.n.NioEventLoop.<clinit>(110)[m: -Dio.netty.selectorAutoRebuildThreshold: 512
-2024-11-28 21:04:58,310 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.PlatformDependent.<clinit>(971)[m: org.jctools-core.MpscChunkedArrayQueue: available
-2024-11-28 21:04:58,334 [36mDEBUG[m [m[Server thread][m [mi.n.c.DefaultChannelId.<clinit>(79)[m: -Dio.netty.processId: 20242 (auto-detected)
-2024-11-28 21:04:58,335 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtil.<clinit>(136)[m: -Djava.net.preferIPv4Stack: true
-2024-11-28 21:04:58,336 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtil.<clinit>(137)[m: -Djava.net.preferIPv6Addresses: false
-2024-11-28 21:04:58,337 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtilInitializations.determineLoopback(129)[m: Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
-2024-11-28 21:04:58,338 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtil.run(173)[m: /proc/sys/net/core/somaxconn: 4096
-2024-11-28 21:04:58,339 [36mDEBUG[m [m[Server thread][m [mi.n.c.DefaultChannelId.<clinit>(101)[m: -Dio.netty.machineId: 60:45:bd:ff:fe:ba:f8:21 (auto-detected)
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(157)[m: -Dio.netty.allocator.numHeapArenas: 8
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(158)[m: -Dio.netty.allocator.numDirectArenas: 8
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(160)[m: -Dio.netty.allocator.pageSize: 8192
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(165)[m: -Dio.netty.allocator.maxOrder: 9
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(169)[m: -Dio.netty.allocator.chunkSize: 4194304
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(170)[m: -Dio.netty.allocator.smallCacheSize: 256
-2024-11-28 21:04:58,361 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(171)[m: -Dio.netty.allocator.normalCacheSize: 64
-2024-11-28 21:04:58,362 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(172)[m: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
-2024-11-28 21:04:58,362 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(173)[m: -Dio.netty.allocator.cacheTrimInterval: 8192
-2024-11-28 21:04:58,362 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(174)[m: -Dio.netty.allocator.cacheTrimIntervalMillis: 0
-2024-11-28 21:04:58,362 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(175)[m: -Dio.netty.allocator.useCacheForAllThreads: false
-2024-11-28 21:04:58,362 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(176)[m: -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
-2024-11-28 21:04:58,373 [36mDEBUG[m [m[Server thread][m [mi.n.b.ByteBufUtil.<clinit>(87)[m: -Dio.netty.allocator.type: pooled
-2024-11-28 21:04:58,373 [36mDEBUG[m [m[Server thread][m [mi.n.b.ByteBufUtil.<clinit>(96)[m: -Dio.netty.threadLocalDirectBufferSize: 0
-2024-11-28 21:04:58,374 [36mDEBUG[m [m[Server thread][m [mi.n.b.ByteBufUtil.<clinit>(99)[m: -Dio.netty.maxThreadLocalCharBufferSize: 16384
-2024-11-28 21:04:58,383 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-2024-11-28 21:04:58,384 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
-2024-11-28 21:04:58,384 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-2024-11-28 21:04:58,385 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
-2024-11-28 21:04:58,552 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-141 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
-2024-11-28 21:04:58,570 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) CREATURE
-2024-11-28 21:04:58,571 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) AXOLOTLS
-2024-11-28 21:04:58,571 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) UNDERGROUND_WATER_CREATURE
-2024-11-28 21:04:58,571 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) WATER_CREATURE
-2024-11-28 21:04:58,659 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
-2024-11-28 21:04:58,663 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
-2024-11-28 21:04:58,665 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
-2024-11-28 21:04:59,645 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Loading NametagEdit v4.5.23
-2024-11-28 21:04:59,651 [36mDEBUG[m [m[Server thread][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing serverconfig directory : ./world/serverconfig
-2024-11-28 21:04:59,652 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigTracker.loadConfigs(49)[m: Loading configs type SERVER
-2024-11-28 21:04:59,652 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(40)[m: Built TOML config for ./world/serverconfig/forge-server.toml
-2024-11-28 21:04:59,653 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(49)[m: Loaded TOML config file ./world/serverconfig/forge-server.toml
-2024-11-28 21:04:59,654 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(52)[m: Watching TOML config file ./world/serverconfig/forge-server.toml for changes
-2024-11-28 21:04:59,654 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeConfig.onLoad(197)[m: Loaded forge config file forge-server.toml
-2024-11-28 21:04:59,655 [36mDEBUG[m [m[Thread-0][m [mn.m.f.c.ConfigFileTypeHandler.run(145)[m: Config file forge-server.toml changed, sending notifies
-2024-11-28 21:04:59,656 [36mDEBUG[m [m[Thread-0][m [mn.m.c.ForgeConfig.onFileChange(202)[m: Forge config just got changed on the file system!
-2024-11-28 21:04:59,657 [36mDEBUG[m [m[Thread-0][m [mn.m.f.c.ConfigFileTypeHandler.run(145)[m: Config file forge-server.toml changed, sending notifies
-2024-11-28 21:04:59,657 [36mDEBUG[m [m[Thread-0][m [mn.m.c.ForgeConfig.onFileChange(202)[m: Forge config just got changed on the file system!
-2024-11-28 21:04:59,693 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
-2024-11-28 21:05:00,120 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
-2024-11-28 21:05:04,063 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,065 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,067 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,068 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,070 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,071 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,072 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,073 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,123 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:04,623 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:05,122 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 18%
-2024-11-28 21:05:05,639 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 5518 ms
-2024-11-28 21:05:05,732 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
-2024-11-28 21:05:07,797 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,798 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,798 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,799 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:07,799 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:05:08,233 [32mINFO [m [m[Worker-Main-2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 17%
-2024-11-28 21:05:08,740 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 84%
-2024-11-28 21:05:08,901 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3168 ms
-2024-11-28 21:05:08,905 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Enabling NametagEdit v4.5.23
-2024-11-28 21:05:09,201 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Successfully loaded using bukkit version: v1_19_R1
-2024-11-28 21:05:09,281 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
-2024-11-28 21:05:09,290 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (9.643s)! For help, type "help"
-2024-11-28 21:05:09,308 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeI18n.loadLanguageData(82)[m: Loading I18N data entries: 209
-2024-11-28 21:05:09,311 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
-2024-11-28 21:06:30,072 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(85)[m: -Dio.netty.recycler.maxCapacityPerThread: 4096
-2024-11-28 21:06:30,073 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(86)[m: -Dio.netty.recycler.ratio: 8
-2024-11-28 21:06:30,073 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(87)[m: -Dio.netty.recycler.chunkSize: 32
-2024-11-28 21:06:30,073 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(88)[m: -Dio.netty.recycler.blocking: false
-2024-11-28 21:06:30,078 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.b.AbstractByteBuf.<clinit>(63)[m: -Dio.netty.buffer.checkAccessible: true
-2024-11-28 21:06:30,078 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.b.AbstractByteBuf.<clinit>(64)[m: -Dio.netty.buffer.checkBounds: true
-2024-11-28 21:06:30,079 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.ResourceLeakDetectorFactory.newResourceLeakDetector(196)[m: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7f76f67a
-2024-11-28 21:06:35,244 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,244 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,244 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,244 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,245 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,245 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,245 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:06:35,245 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.listRejectedVanillaMods(197)[m: Accepting channel list from vanilla
-2024-11-28 21:06:35,247 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.HandshakeHandler.<init>(129)[m: Starting new vanilla impl connection.
-2024-11-28 21:06:35,254 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
-2024-11-28 21:06:35,264 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(382)[m: Handshake complete!
-2024-11-28 21:06:35,327 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c4f2c8a
-2024-11-28 21:06:35,345 [36mDEBUG[m [m[Server thread][m [mn.m.n.f.NetworkFilters.lambda$injectIfNecessary$1(40)[m: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4f047d6e into net.minecraft.network.Connection@643d3d1f
-2024-11-28 21:06:35,375 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
-2024-11-28 21:06:35,502 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:37663] logged in with entity id 95 at (23.5, 78.0, 11.5)
-2024-11-28 21:06:35,565 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.ThreadLocalRandom.newSeed(214)[m: -Dio.netty.initialSeedUniquifier: 0x0463d772c025c06d
-2024-11-28 21:07:20,525 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.NetworkRegistry.listRejectedVanillaMods(197)[m: Accepting channel list from vanilla
-2024-11-28 21:07:20,526 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.HandshakeHandler.<init>(129)[m: Starting new vanilla impl connection.
-2024-11-28 21:07:20,527 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
-2024-11-28 21:07:20,565 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(382)[m: Handshake complete!
-2024-11-28 21:07:20,615 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60f81d48
-2024-11-28 21:07:20,619 [36mDEBUG[m [m[Server thread][m [mn.m.n.f.NetworkFilters.lambda$injectIfNecessary$1(40)[m: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@18d25613 into net.minecraft.network.Connection@1edb8103
-2024-11-28 21:07:20,623 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra joined the game
-2024-11-28 21:07:20,656 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: MisterBartra[/127.238.224.165:56165] logged in with entity id 332 at (7.5, 74.0, 18.5)
-2024-11-28 21:08:14,904 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium prefix ADMINGOD
-2024-11-28 21:10:09,318 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
-2024-11-28 21:10:09,324 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
-2024-11-28 21:10:55,328 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> este /nametagedit
-2024-11-28 21:11:05,779 [36mDEBUG[m [m[Netty Server IO #7][m [mn.m.n.HandshakeHandler.<init>(132)[m: Starting new modded impl connection. Found 21 messages to dispatch.
-2024-11-28 21:11:05,781 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player elmatidm is 1c9ec675-2a6d-3893-9b41-9eb3026acd3b
-2024-11-28 21:11:05,815 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
-2024-11-28 21:11:05,865 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
-2024-11-28 21:11:05,915 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
-2024-11-28 21:11:05,967 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
-2024-11-28 21:11:06,014 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
-2024-11-28 21:11:06,064 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
-2024-11-28 21:11:06,116 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(355)[m: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
-2024-11-28 21:11:06,170 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@d96c8da[id=1c9ec675-2a6d-3893-9b41-9eb3026acd3b,name=elmatidm,properties={},legacy=false] (/127.172.183.101:48997) lost connection: Disconnected
-2024-11-28 21:11:20,256 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium suffix ++
-2024-11-28 21:11:33,118 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium suffix OP++
-2024-11-28 21:12:13,284 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Made Alexterminium a server operator
-2024-11-28 21:15:09,283 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
-2024-11-28 21:15:09,289 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
-2024-11-28 21:20:09,283 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
-2024-11-28 21:20:09,287 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
-2024-11-28 21:20:32,962 [32mINFO [m [m[Craft Scheduler Thread - 5][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying PlayerTag to Alexterminium
-2024-11-28 21:20:33,011 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Formatting text..
-2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying colors..
-2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Formatting text..
-2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying colors..
-2024-11-28 21:20:33,013 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Created FakeTeam 528CC9AC_Z4. Size: 1
-2024-11-28 21:20:33,013 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Alexterminium has been added to team 528CC9AC_Z4
+2024-11-28 21:44:18,793 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace minecraft, on thread: Worker-Main-1
+2024-11-28 21:44:18,796 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type CLIENT_RESOURCES and namespace forge, on thread: Worker-Main-1
+2024-11-28 21:44:18,798 [36mDEBUG[m [m[Worker-Main-1][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace forge, on thread: Worker-Main-1
+2024-11-28 21:44:18,801 [36mDEBUG[m [m[Worker-Main-2][m [mn.m.r.ResourceCacheManager$NamespacedResourceCacheManager.doIndex(333)[m: Indexing resources for pack type SERVER_DATA and namespace minecraft, on thread: Worker-Main-2
+2024-11-28 21:44:20,890 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 7 recipes
+2024-11-28 21:44:21,501 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 1179 advancements
+2024-11-28 21:44:21,860 [36mDEBUG[m [m[main][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-28 21:44:21,869 [36mDEBUG[m [m[main][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-28 21:44:21,915 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
+2024-11-28 21:44:21,921 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
+2024-11-28 21:44:21,924 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
+2024-11-28 21:44:21,924 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
+2024-11-28 21:44:22,066 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
+2024-11-28 21:44:22,072 [36mDEBUG[m [m[Server thread][m [mn.m.n.DualStackUtils.checkIPv6(82)[m: Detected IPv4 address: "0.0.0.0"
+2024-11-28 21:44:22,082 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(78)[m: -Dio.netty.native.workdir: /tmp (io.netty.tmpdir)
+2024-11-28 21:44:22,083 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(83)[m: -Dio.netty.native.deleteLibAfterLoading: true
+2024-11-28 21:44:22,083 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(87)[m: -Dio.netty.native.tryPatchShadedId: true
+2024-11-28 21:44:22,084 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.NativeLibraryLoader.<clinit>(91)[m: -Dio.netty.native.detectNativeLibraryDuplicates: true
+2024-11-28 21:44:22,089 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
+2024-11-28 21:44:22,103 [36mDEBUG[m [m[Server thread][m [mi.n.c.MultithreadEventLoopGroup.<clinit>(44)[m: -Dio.netty.eventLoopThreads: 8
+2024-11-28 21:44:22,114 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.InternalThreadLocalMap.<clinit>(86)[m: -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-11-28 21:44:22,115 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.InternalThreadLocalMap.<clinit>(89)[m: -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-11-28 21:44:22,119 [36mDEBUG[m [m[Server thread][m [mi.n.c.n.NioEventLoop.<clinit>(109)[m: -Dio.netty.noKeySetOptimization: false
+2024-11-28 21:44:22,119 [36mDEBUG[m [m[Server thread][m [mi.n.c.n.NioEventLoop.<clinit>(110)[m: -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-11-28 21:44:22,125 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.PlatformDependent.<clinit>(971)[m: org.jctools-core.MpscChunkedArrayQueue: available
+2024-11-28 21:44:22,164 [36mDEBUG[m [m[Server thread][m [mi.n.c.DefaultChannelId.<clinit>(79)[m: -Dio.netty.processId: 38818 (auto-detected)
+2024-11-28 21:44:22,167 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtil.<clinit>(136)[m: -Djava.net.preferIPv4Stack: true
+2024-11-28 21:44:22,167 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtil.<clinit>(137)[m: -Djava.net.preferIPv6Addresses: false
+2024-11-28 21:44:22,170 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtilInitializations.determineLoopback(129)[m: Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+2024-11-28 21:44:22,171 [36mDEBUG[m [m[Server thread][m [mi.n.u.NetUtil.run(173)[m: /proc/sys/net/core/somaxconn: 4096
+2024-11-28 21:44:22,173 [36mDEBUG[m [m[Server thread][m [mi.n.c.DefaultChannelId.<clinit>(101)[m: -Dio.netty.machineId: 60:45:bd:ff:fe:ba:f8:21 (auto-detected)
+2024-11-28 21:44:22,264 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(157)[m: -Dio.netty.allocator.numHeapArenas: 8
+2024-11-28 21:44:22,264 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(158)[m: -Dio.netty.allocator.numDirectArenas: 8
+2024-11-28 21:44:22,264 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(160)[m: -Dio.netty.allocator.pageSize: 8192
+2024-11-28 21:44:22,265 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(165)[m: -Dio.netty.allocator.maxOrder: 9
+2024-11-28 21:44:22,265 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(169)[m: -Dio.netty.allocator.chunkSize: 4194304
+2024-11-28 21:44:22,265 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(170)[m: -Dio.netty.allocator.smallCacheSize: 256
+2024-11-28 21:44:22,265 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(171)[m: -Dio.netty.allocator.normalCacheSize: 64
+2024-11-28 21:44:22,265 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(172)[m: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-11-28 21:44:22,265 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(173)[m: -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-11-28 21:44:22,266 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(174)[m: -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-11-28 21:44:22,266 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(175)[m: -Dio.netty.allocator.useCacheForAllThreads: false
+2024-11-28 21:44:22,266 [36mDEBUG[m [m[Server thread][m [mi.n.b.PooledByteBufAllocator.<clinit>(176)[m: -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-11-28 21:44:22,276 [36mDEBUG[m [m[Server thread][m [mi.n.b.ByteBufUtil.<clinit>(87)[m: -Dio.netty.allocator.type: pooled
+2024-11-28 21:44:22,276 [36mDEBUG[m [m[Server thread][m [mi.n.b.ByteBufUtil.<clinit>(96)[m: -Dio.netty.threadLocalDirectBufferSize: 0
+2024-11-28 21:44:22,277 [36mDEBUG[m [m[Server thread][m [mi.n.b.ByteBufUtil.<clinit>(99)[m: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-11-28 21:44:22,286 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-11-28 21:44:22,287 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
+2024-11-28 21:44:22,288 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-11-28 21:44:22,288 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2024-11-28 21:44:22,418 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-141 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
+2024-11-28 21:44:22,434 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) CREATURE
+2024-11-28 21:44:22,435 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) AXOLOTLS
+2024-11-28 21:44:22,435 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) UNDERGROUND_WATER_CREATURE
+2024-11-28 21:44:22,436 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.loadSpawnCategory0(310)[m: Registered forge MobCategory as SpawnCategory(Bukkit) WATER_CREATURE
+2024-11-28 21:44:22,501 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
+2024-11-28 21:44:22,504 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2024-11-28 21:44:22,506 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2024-11-28 21:44:23,351 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.handleClass(66)[m: Transforming classloader class me/lucko/luckperms/common/loader/JarInJarClassLoader
+2024-11-28 21:44:23,816 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading LuckPerms v5.4.131
+2024-11-28 21:44:23,830 [36mDEBUG[m [m[Server thread][m [mc.m.MohistMC.handleClass(66)[m: Transforming classloader class me/lucko/luckperms/common/dependencies/classloader/IsolatedClassLoader
+2024-11-28 21:44:26,229 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Loading NametagEdit v4.5.23
+2024-11-28 21:44:26,233 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Enabling LuckPerms v5.4.131
+2024-11-28 21:44:26,862 [36mDEBUG[m [m[Server thread][m [mn.m.c.t.CoreModBaseTransformer.runCoremod(17)[m: Transforming net/minecraft/world/item/ItemStack
+2024-11-28 21:44:27,310 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m       [0;36;22m __    [m
+2024-11-28 21:44:27,311 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.131[m
+2024-11-28 21:44:27,313 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - Mohist[m
+2024-11-28 21:44:27,313 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [m
+2024-11-28 21:44:27,327 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading configuration...
+2024-11-28 21:44:27,975 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading storage provider... [H2]
+2024-11-28 21:44:30,381 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading internal permission managers...
+2024-11-28 21:44:30,627 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Performing initial data load...
+2024-11-28 21:44:30,919 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Successfully enabled. (took 4684ms)
+2024-11-28 21:44:30,924 [36mDEBUG[m [m[Server thread][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing serverconfig directory : ./world/serverconfig
+2024-11-28 21:44:30,924 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigTracker.loadConfigs(49)[m: Loading configs type SERVER
+2024-11-28 21:44:30,924 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(40)[m: Built TOML config for ./world/serverconfig/forge-server.toml
+2024-11-28 21:44:30,925 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(49)[m: Loaded TOML config file ./world/serverconfig/forge-server.toml
+2024-11-28 21:44:30,926 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigFileTypeHandler.lambda$reader$1(52)[m: Watching TOML config file ./world/serverconfig/forge-server.toml for changes
+2024-11-28 21:44:30,926 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeConfig.onLoad(197)[m: Loaded forge config file forge-server.toml
+2024-11-28 21:44:30,933 [36mDEBUG[m [m[Thread-0][m [mn.m.f.c.ConfigFileTypeHandler.run(145)[m: Config file forge-server.toml changed, sending notifies
+2024-11-28 21:44:30,933 [36mDEBUG[m [m[Thread-0][m [mn.m.c.ForgeConfig.onFileChange(202)[m: Forge config just got changed on the file system!
+2024-11-28 21:44:30,960 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
+2024-11-28 21:44:31,559 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
+2024-11-28 21:44:31,972 [36mDEBUG[m [m[luckperms-worker-4][m [mc.m.MohistMC.handleClass(66)[m: Transforming classloader class me/lucko/luckperms/lib/bytebuddy/dynamic/loading/InjectionClassLoader
+2024-11-28 21:44:31,973 [36mDEBUG[m [m[luckperms-worker-4][m [mc.m.MohistMC.implementIntf(83)[m: Implementing RemappingClassLoader for class me/lucko/luckperms/lib/bytebuddy/dynamic/loading/InjectionClassLoader
+2024-11-28 21:44:32,051 [36mDEBUG[m [m[luckperms-worker-4][m [mc.m.MohistMC.handleClass(66)[m: Transforming classloader class me/lucko/luckperms/lib/bytebuddy/dynamic/loading/ByteArrayClassLoader
+2024-11-28 21:44:32,052 [36mDEBUG[m [m[luckperms-worker-4][m [mc.m.MohistMC.implementIntf(83)[m: Implementing RemappingClassLoader for class me/lucko/luckperms/lib/bytebuddy/dynamic/loading/ByteArrayClassLoader
+2024-11-28 21:44:36,242 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,244 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,245 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,246 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,248 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,249 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,251 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,253 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,254 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,271 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:36,561 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:37,061 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 7%
+2024-11-28 21:44:37,568 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 32%
+2024-11-28 21:44:37,886 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 6325 ms
+2024-11-28 21:44:37,960 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
+2024-11-28 21:44:39,849 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,850 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,851 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,851 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:39,963 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-28 21:44:40,461 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 23%
+2024-11-28 21:44:40,961 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 89%
+2024-11-28 21:44:41,000 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3040 ms
+2024-11-28 21:44:41,003 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Enabling NametagEdit v4.5.23
+2024-11-28 21:44:41,090 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Successfully loaded using bukkit version: v1_19_R1
+2024-11-28 21:44:41,141 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Found LuckPerms! Hooking in.
+2024-11-28 21:44:41,171 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2024-11-28 21:44:41,202 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (10.282s)! For help, type "help"
+2024-11-28 21:44:41,212 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeI18n.loadLanguageData(82)[m: Loading I18N data entries: 209
+2024-11-28 21:44:41,216 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2024-11-28 21:44:49,921 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(85)[m: -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-11-28 21:44:49,921 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(86)[m: -Dio.netty.recycler.ratio: 8
+2024-11-28 21:44:49,922 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(87)[m: -Dio.netty.recycler.chunkSize: 32
+2024-11-28 21:44:49,922 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.Recycler.<clinit>(88)[m: -Dio.netty.recycler.blocking: false
+2024-11-28 21:44:49,927 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.b.AbstractByteBuf.<clinit>(63)[m: -Dio.netty.buffer.checkAccessible: true
+2024-11-28 21:44:49,927 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.b.AbstractByteBuf.<clinit>(64)[m: -Dio.netty.buffer.checkBounds: true
+2024-11-28 21:44:49,928 [36mDEBUG[m [m[Netty Server IO #1][m [mi.n.u.ResourceLeakDetectorFactory.newResourceLeakDetector(196)[m: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@76bc8549
+2024-11-28 21:44:49,939 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:44:49,940 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.NetworkRegistry.listRejectedVanillaMods(197)[m: Accepting channel list from vanilla
+2024-11-28 21:44:49,942 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.HandshakeHandler.<init>(129)[m: Starting new vanilla impl connection.
+2024-11-28 21:44:49,997 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
+2024-11-28 21:44:50,022 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(382)[m: Handshake complete!
+2024-11-28 21:44:50,099 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b98678c
+2024-11-28 21:44:50,128 [36mDEBUG[m [m[Server thread][m [mn.m.n.f.NetworkFilters.lambda$injectIfNecessary$1(40)[m: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@46f878c7 into net.minecraft.network.Connection@3966483e
+2024-11-28 21:44:50,217 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra joined the game
+2024-11-28 21:44:50,399 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: MisterBartra[/127.238.224.165:50963] logged in with entity id 217 at (36.30000001192093, 84.0, 51.69999998807907)
+2024-11-28 21:44:50,745 [36mDEBUG[m [m[Server thread][m [mi.n.u.i.ThreadLocalRandom.newSeed(214)[m: -Dio.netty.initialSeedUniquifier: 0x7b2b72192dbafc1e
+2024-11-28 21:45:23,320 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,320 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,321 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,321 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,321 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,321 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,322 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.lambda$listRejectedVanillaMods$3(188)[m: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+2024-11-28 21:45:23,322 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.NetworkRegistry.listRejectedVanillaMods(197)[m: Accepting channel list from vanilla
+2024-11-28 21:45:23,322 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.HandshakeHandler.<init>(129)[m: Starting new vanilla impl connection.
+2024-11-28 21:45:23,324 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
+2024-11-28 21:45:23,370 [36mDEBUG[m [m[Server thread][m [mn.m.n.HandshakeHandler.tickServer(382)[m: Handshake complete!
+2024-11-28 21:45:23,422 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3581ce8a
+2024-11-28 21:45:23,426 [36mDEBUG[m [m[Server thread][m [mn.m.n.f.NetworkFilters.lambda$injectIfNecessary$1(40)[m: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@67ba73d9 into net.minecraft.network.Connection@22b474ba
+2024-11-28 21:45:23,447 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
+2024-11-28 21:45:23,482 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:48687] logged in with entity id 275 at (37.854212848993676, 85.0, 50.75074495232557)
+2024-11-28 21:49:41,218 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-28 21:49:41,224 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
