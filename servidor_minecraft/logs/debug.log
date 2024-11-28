@@ -421,3 +421,14 @@ cpw.mods.niofs.union.UnionFileSystem$NoSuchFileException: /assets/minecraft
 2024-11-28 21:11:20,256 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium suffix ++
 2024-11-28 21:11:33,118 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> nametagedit player Alexterminium suffix OP++
 2024-11-28 21:12:13,284 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Made Alexterminium a server operator
+2024-11-28 21:15:09,283 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-28 21:15:09,289 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-28 21:20:09,283 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-28 21:20:09,287 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-28 21:20:32,962 [32mINFO [m [m[Craft Scheduler Thread - 5][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying PlayerTag to Alexterminium
+2024-11-28 21:20:33,011 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Formatting text..
+2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying colors..
+2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Formatting text..
+2024-11-28 21:20:33,012 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Applying colors..
+2024-11-28 21:20:33,013 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Created FakeTeam 528CC9AC_Z4. Size: 1
+2024-11-28 21:20:33,013 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] [DEBUG] Alexterminium has been added to team 528CC9AC_Z4
