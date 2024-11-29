@@ -15109,3 +15109,73 @@ Caused by: java.io.IOException: Invalid tag id: 14
 2024-11-29 02:17:24,796 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
 2024-11-29 02:17:31,943 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2040ms or 40 ticks
 2024-11-29 02:17:49,945 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2155ms or 43 ticks
+2024-11-29 02:18:36,936 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2297ms or 45 ticks
+2024-11-29 02:19:11,458 [36mDEBUG[m [m[IO-Worker-56][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-65
+2024-11-29 02:19:38,440 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2070ms or 41 ticks
+2024-11-29 02:20:02,658 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2107ms or 42 ticks
+2024-11-29 02:20:48,024 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2308ms or 46 ticks
+2024-11-29 02:21:27,407 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Bad_ending2 lost connection: Disconnected
+2024-11-29 02:21:27,407 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Bad_ending2 left the game
+2024-11-29 02:21:27,408 [36mDEBUG[m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Removing state of Bad_ending2
+2024-11-29 02:21:27,408 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Disconnecting client Bad_ending2
+2024-11-29 02:21:57,152 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2332ms or 46 ticks
+2024-11-29 02:22:12,653 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2215ms or 44 ticks
+2024-11-29 02:22:24,780 [36mDEBUG[m [m[IO-Worker-56][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-66
+2024-11-29 02:22:24,780 [36mDEBUG[m [m[IO-Worker-65][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-67
+2024-11-29 02:22:24,781 [36mDEBUG[m [m[IO-Worker-56][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-69
+2024-11-29 02:22:24,781 [36mDEBUG[m [m[IO-Worker-65][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-68
+2024-11-29 02:22:24,781 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-29 02:22:24,791 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-29 02:23:04,626 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2254ms or 45 ticks
+2024-11-29 02:24:05,735 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2307ms or 46 ticks
+2024-11-29 02:24:26,517 [36mDEBUG[m [m[IO-Worker-56][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-70
+2024-11-29 02:24:26,517 [36mDEBUG[m [m[IO-Worker-56][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-71
+2024-11-29 02:24:29,535 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2122ms or 42 ticks
+2024-11-29 02:25:23,831 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2338ms or 46 ticks
+2024-11-29 02:25:43,260 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2131ms or 42 ticks
+2024-11-29 02:26:34,188 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2121ms or 42 ticks
+2024-11-29 02:26:54,157 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: EMILIO__12 has made the advancement [Enter Sandman]
+2024-11-29 02:27:00,238 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2214ms or 44 ticks
+2024-11-29 02:27:24,787 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-29 02:27:24,788 [36mDEBUG[m [m[IO-Worker-65][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-72
+2024-11-29 02:27:24,797 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-29 02:27:37,753 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2010ms or 40 ticks
+2024-11-29 02:28:17,370 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2340ms or 46 ticks
+2024-11-29 02:28:42,365 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2006ms or 40 ticks
+2024-11-29 02:29:34,433 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2405ms or 48 ticks
+2024-11-29 02:29:58,268 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2235ms or 44 ticks
+2024-11-29 02:30:37,467 [36mDEBUG[m [m[IO-Worker-56][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-73
+2024-11-29 02:30:37,467 [36mDEBUG[m [m[IO-Worker-65][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-74
+2024-11-29 02:30:52,532 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2361ms or 47 ticks
+2024-11-29 02:31:11,936 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2096ms or 41 ticks
+2024-11-29 02:32:02,882 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2102ms or 42 ticks
+2024-11-29 02:32:24,779 [36mDEBUG[m [m[IO-Worker-65][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-75
+2024-11-29 02:32:24,780 [36mDEBUG[m [m[IO-Worker-73][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-76
+2024-11-29 02:32:24,780 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-29 02:32:24,780 [36mDEBUG[m [m[IO-Worker-65][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-77
+2024-11-29 02:32:24,781 [36mDEBUG[m [m[IO-Worker-73][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-78
+2024-11-29 02:32:24,791 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-29 02:32:29,033 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2299ms or 45 ticks
+2024-11-29 02:32:59,214 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0npwrq89tmn07]: started parsing
+2024-11-29 02:32:59,214 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0npwrq89tmn07]: Consuming argument ``
+2024-11-29 02:32:59,306 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0uzpkquf0csr1]: started parsing
+2024-11-29 02:32:59,306 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0uzpkquf0csr1]: Consuming argument `1`
+2024-11-29 02:32:59,309 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0uzpkquf0csr1]: Finished looking at arguments. Finalizing command.
+2024-11-29 02:32:59,609 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1e3pbfmyfeobq]: started parsing
+2024-11-29 02:32:59,609 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1e3pbfmyfeobq]: Consuming argument `1`
+2024-11-29 02:32:59,609 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1e3pbfmyfeobq]: Finished looking at arguments. Finalizing command.
+2024-11-29 02:32:59,618 [36mDEBUG[m [m[Server thread][m [mc.s.w.w.r.BundledBlockData.loadFromResource(78)[m: Using union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23268!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+2024-11-29 02:33:03,006 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2016ms or 40 ticks
+2024-11-29 02:33:41,066 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2215ms or 44 ticks
+2024-11-29 02:34:04,835 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2018ms or 40 ticks
+2024-11-29 02:34:27,346 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [EMILIO__12: Set own game mode to Survival Mode]
+2024-11-29 02:34:59,137 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2144ms or 42 ticks
+2024-11-29 02:35:23,481 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2072ms or 41 ticks
+2024-11-29 02:36:13,674 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2185ms or 43 ticks
+2024-11-29 02:36:40,752 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2420ms or 48 ticks
+2024-11-29 02:36:49,717 [36mDEBUG[m [m[IO-Worker-78][m [mSmooth Boot (Reloaded).md33b997$lambda$replIoWorker$1$0(953)[m: Initialized IO-Worker-79
+2024-11-29 02:37:24,781 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-11-29 02:37:24,791 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-11-29 02:37:24,818 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2085ms or 41 ticks
+2024-11-29 02:37:29,811 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [EMILIO__12: Set own game mode to Creative Mode]
+2024-11-29 02:37:52,747 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2269ms or 45 ticks

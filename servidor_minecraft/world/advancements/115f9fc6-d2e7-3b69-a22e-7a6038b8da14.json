@@ -830,6 +830,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2024-11-29 02:26:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-11-24 21:48:27 +0000"
@@ -2035,6 +2041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-11-29 02:19:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-18 21:05:23 +0000"
@@ -2983,6 +2995,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-25 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-11-29 02:19:25 +0000"
     },
     "done": true
   },
