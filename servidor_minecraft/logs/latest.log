@@ -1095,3 +1095,67 @@ Caused by: java.io.IOException: Invalid tag id: 14
 2024-11-29 03:17:41,125 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Alexterminium: Teleported MisterBartra to Alexterminium]
 2024-11-29 03:17:58,788 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2268ms or 45 ticks
 2024-11-29 03:18:28,697 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2240ms or 44 ticks
+2024-11-29 03:19:15,889 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2429ms or 48 ticks
+2024-11-29 03:19:36,157 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2007ms or 40 ticks
+2024-11-29 03:19:37,164 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Alexterminium: Set own game mode to Survival Mode]
+2024-11-29 03:20:26,329 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2146ms or 42 ticks
+2024-11-29 03:20:53,389 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2331ms or 46 ticks
+2024-11-29 03:21:01,537 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Alexterminium: Summoned new The Leviathan]
+2024-11-29 03:21:44,338 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2240ms or 44 ticks
+2024-11-29 03:22:10,488 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2324ms or 46 ticks
+2024-11-29 03:22:21,210 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:22:21,210 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player MisterBartra was canceled by another mod
+2024-11-29 03:22:21,216 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:22:48,021 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2258ms or 45 ticks
+2024-11-29 03:23:00,487 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Alexterminium: The difficulty has been set to Normal]
+2024-11-29 03:23:21,159 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra has made the advancement [Knowledge of Death]
+2024-11-29 03:23:21,160 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra has reached the goal [Strong or Careful]
+2024-11-29 03:23:21,161 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra was killed by The Leviathan using magic
+2024-11-29 03:23:21,169 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra has made the advancement [Your First Grave]
+2024-11-29 03:23:21,609 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Alexterminium: Summoned new The Leviathan]
+2024-11-29 03:23:22,503 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2186ms or 43 ticks
+2024-11-29 03:23:46,307 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2043ms or 40 ticks
+2024-11-29 03:24:40,621 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2321ms or 46 ticks
+2024-11-29 03:24:46,261 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:24:46,261 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player MisterBartra was canceled by another mod
+2024-11-29 03:24:46,262 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:24:48,259 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra fell out of the world
+2024-11-29 03:24:48,260 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:24:59,982 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2021ms or 40 ticks
+2024-11-29 03:25:25,087 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:25:25,087 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player MisterBartra was canceled by another mod
+2024-11-29 03:25:25,088 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:25:27,062 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra has reached the goal [Chain Death]
+2024-11-29 03:25:27,063 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra fell out of the world
+2024-11-29 03:25:27,135 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:25:50,948 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2267ms or 45 ticks
+2024-11-29 03:25:56,860 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:25:56,861 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player Alexterminium was canceled by another mod
+2024-11-29 03:25:56,864 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player Alexterminium has successfully been saved
+2024-11-29 03:26:02,109 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium drowned whilst trying to escape The Leviathan
+2024-11-29 03:26:02,111 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player Alexterminium has successfully been saved
+2024-11-29 03:26:04,823 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:26:04,823 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player MisterBartra was canceled by another mod
+2024-11-29 03:26:04,824 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:26:06,985 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra fell out of the world
+2024-11-29 03:26:06,986 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:26:12,060 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2009ms or 40 ticks
+2024-11-29 03:26:40,856 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:26:40,857 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player EMILIO__12 was canceled by another mod
+2024-11-29 03:26:40,858 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player EMILIO__12 has successfully been saved
+2024-11-29 03:26:45,410 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: EMILIO__12 experienced kinetic energy whilst trying to escape The Leviathan
+2024-11-29 03:26:46,043 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2637ms or 52 ticks
+2024-11-29 03:26:46,044 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player EMILIO__12 has successfully been saved
+2024-11-29 03:27:15,578 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [EMILIO__12: Set own game mode to Creative Mode]
+2024-11-29 03:27:17,315 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2162ms or 43 ticks
+2024-11-29 03:27:24,999 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [EMILIO__12: Teleported MisterBartra to EMILIO__12]
+2024-11-29 03:27:29,175 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:27:29,175 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player Alexterminium was canceled by another mod
+2024-11-29 03:27:29,177 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player Alexterminium has successfully been saved
+2024-11-29 03:27:39,289 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2056ms or 41 ticks
+2024-11-29 03:28:16,834 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2050ms or 41 ticks
+2024-11-29 03:28:29,105 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium was killed by The Leviathan using magic
+2024-11-29 03:28:51,348 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: playerrevive.chat.bleeding
+2024-11-29 03:28:51,348 [33mWARN [m [m[Server thread][m [mtombstone.onPlayerDeath(583)[m: The death event of the player MisterBartra was canceled by another mod
+2024-11-29 03:28:51,352 [32mINFO [m [m[Server thread][m [mtombstone.lambda$handlePlayerDamage$7(496)[m: The player MisterBartra has successfully been saved
+2024-11-29 03:28:52,524 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2103ms or 42 ticks
