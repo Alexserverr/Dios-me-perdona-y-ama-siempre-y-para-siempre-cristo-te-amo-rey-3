@@ -923,3 +923,34 @@ Caused by: java.io.IOException: Invalid tag id: 14
 2024-11-29 01:56:11,813 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2047ms or 40 ticks
 2024-11-29 01:56:53,626 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2123ms or 42 ticks
 2024-11-29 01:57:23,772 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2218ms or 44 ticks
+2024-11-29 01:58:04,154 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2110ms or 42 ticks
+2024-11-29 01:58:20,942 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: EMILIO__12 moved too quickly! 17.273723871583627,4.193326189830685,1.7961821937441869
+2024-11-29 01:58:31,133 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2281ms or 45 ticks
+2024-11-29 01:59:22,066 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2169ms or 43 ticks
+2024-11-29 01:59:48,244 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2263ms or 45 ticks
+2024-11-29 02:00:25,806 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2174ms or 43 ticks
+2024-11-29 02:01:00,252 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2032ms or 40 ticks
+2024-11-29 02:01:30,366 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2135ms or 42 ticks
+2024-11-29 02:01:36,554 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: MisterBartra lost connection: Disconnected
+2024-11-29 02:01:36,554 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra left the game
+2024-11-29 02:01:36,555 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Disconnecting client MisterBartra
+2024-11-29 02:01:46,078 [32mINFO [m [m[User Authenticator #8][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
+2024-11-29 02:01:49,256 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@108f6c0c
+2024-11-29 02:01:49,272 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra joined the game
+2024-11-29 02:01:49,307 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to MisterBartra (451f2212-cf2a-365e-88c7-f71e8fb39676)
+2024-11-29 02:01:49,310 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: MisterBartra[/127.193.143.245:48373] logged in with entity id 92823 at (192.09709490584515, 65.0, 176.03020559816446)
+2024-11-29 02:01:49,514 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Received secret request of MisterBartra (18)
+2024-11-29 02:01:49,515 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Sent secret to MisterBartra
+2024-11-29 02:02:18,236 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2219ms or 44 ticks
+2024-11-29 02:02:46,246 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Alexterminium: Set the time to 13000]
+2024-11-29 02:03:22,784 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2116ms or 42 ticks
+2024-11-29 02:03:40,268 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2164ms or 43 ticks
+2024-11-29 02:03:52,459 [32mINFO [m [m[Async Chat Thread - #4][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> da /op s
+2024-11-29 02:04:28,869 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2099ms or 41 ticks
+2024-11-29 02:05:15,247 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2199ms or 43 ticks
+2024-11-29 02:06:01,416 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2168ms or 43 ticks
+2024-11-29 02:06:18,661 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2078ms or 41 ticks
+2024-11-29 02:06:38,115 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <MisterBartra> vale ya regreso
+2024-11-29 02:07:05,325 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2197ms or 43 ticks
+2024-11-29 02:07:21,977 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2197ms or 43 ticks
+2024-11-29 02:08:02,342 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2021ms or 40 ticks

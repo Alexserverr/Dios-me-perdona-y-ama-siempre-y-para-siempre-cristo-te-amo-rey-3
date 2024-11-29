@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "create:super_glue": {
     "criteria": {
       "0": "2024-11-08 19:03:09 +0000"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-25 00:43:28 +0000"
@@ -506,6 +518,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2024-11-08 17:37:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -824,6 +842,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-09 16:39:42 +0000"
@@ -943,6 +967,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-11-08 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -1075,6 +1105,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-25 00:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -1312,6 +1348,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/viridescent_nylium": {
     "criteria": {
       "has_stone": "2024-11-08 19:28:44 +0000"
@@ -1405,6 +1447,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-11-08 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -1513,6 +1561,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-08 17:49:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -1889,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-11-08 14:01:26 +0000"
@@ -2258,6 +2318,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-11-08 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -2685,6 +2751,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_tile_slab_from_copper_tiles_stonecutting": {
     "criteria": {
       "has_copper_tiles": "2024-11-08 17:42:53 +0000"
@@ -2859,6 +2931,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-11-08 18:35:46 +0000"
@@ -2946,6 +3024,12 @@
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-09 16:39:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -3066,6 +3150,12 @@
   "regions_unexplored:recipes/ru_main/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -3309,6 +3399,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-11-10 21:23:50 +0000"
@@ -3396,6 +3492,12 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2024-11-18 21:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -3585,6 +3687,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-08 17:43:21 +0000"
@@ -3648,6 +3756,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-08 17:40:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
@@ -3876,6 +3990,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-09 16:39:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-11-29 02:02:53 +0000"
     },
     "done": true
   },
