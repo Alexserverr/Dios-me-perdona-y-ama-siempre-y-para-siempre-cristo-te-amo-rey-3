@@ -1,92 +1,725 @@
-2024-11-28 21:44:09,490 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-2024-11-28 21:44:09,495 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-2024-11-28 21:44:09,632 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
-2024-11-28 21:44:09,920 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(54)[m: No dependencies to load found. Skipping!
-2024-11-28 21:44:11,010 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
-2024-11-28 21:44:14,852 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
-2024-11-28 21:44:16,585 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-2024-11-28 21:44:16,588 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
-2024-11-28 21:44:16,757 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
-2024-11-28 21:44:18,120 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-2024-11-28 21:44:18,696 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-2024-11-28 21:44:18,697 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-2024-11-28 21:44:20,890 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 7 recipes
-2024-11-28 21:44:21,501 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 1179 advancements
-2024-11-28 21:44:21,915 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
-2024-11-28 21:44:21,921 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
-2024-11-28 21:44:21,924 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
-2024-11-28 21:44:21,924 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
-2024-11-28 21:44:22,066 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
-2024-11-28 21:44:22,089 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
-2024-11-28 21:44:22,286 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-2024-11-28 21:44:22,287 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
-2024-11-28 21:44:22,288 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-2024-11-28 21:44:22,288 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
-2024-11-28 21:44:22,418 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-141 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
-2024-11-28 21:44:22,501 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
-2024-11-28 21:44:22,504 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
-2024-11-28 21:44:22,506 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
-2024-11-28 21:44:23,816 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading LuckPerms v5.4.131
-2024-11-28 21:44:26,229 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Loading NametagEdit v4.5.23
-2024-11-28 21:44:26,233 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Enabling LuckPerms v5.4.131
-2024-11-28 21:44:27,310 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m       [0;36;22m __    [m
-2024-11-28 21:44:27,311 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.131[m
-2024-11-28 21:44:27,313 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - Mohist[m
-2024-11-28 21:44:27,313 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: [m
-2024-11-28 21:44:27,327 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading configuration...
-2024-11-28 21:44:27,975 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading storage provider... [H2]
-2024-11-28 21:44:30,381 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading internal permission managers...
-2024-11-28 21:44:30,627 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Performing initial data load...
-2024-11-28 21:44:30,919 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Successfully enabled. (took 4684ms)
-2024-11-28 21:44:30,960 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
-2024-11-28 21:44:31,559 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
-2024-11-28 21:44:36,242 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,244 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,245 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,246 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,248 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,249 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,251 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,253 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,254 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,271 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:36,561 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:37,061 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 7%
-2024-11-28 21:44:37,568 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 32%
-2024-11-28 21:44:37,886 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 6325 ms
-2024-11-28 21:44:37,960 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
-2024-11-28 21:44:39,849 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:39,850 [32mINFO [m [m[Worker-Main-1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:39,851 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:39,851 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:39,963 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-28 21:44:40,461 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 23%
-2024-11-28 21:44:40,961 [32mINFO [m [m[Worker-Main-3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 89%
-2024-11-28 21:44:41,000 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3040 ms
-2024-11-28 21:44:41,003 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Enabling NametagEdit v4.5.23
-2024-11-28 21:44:41,090 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Successfully loaded using bukkit version: v1_19_R1
-2024-11-28 21:44:41,141 [32mINFO [m [m[Server thread][m [mc.n.p.NametagEdit.publish(36)[m: [NametagEdit] Found LuckPerms! Hooking in.
-2024-11-28 21:44:41,171 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
-2024-11-28 21:44:41,202 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (10.282s)! For help, type "help"
-2024-11-28 21:44:41,216 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
-2024-11-28 21:44:49,997 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
-2024-11-28 21:44:50,099 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b98678c
-2024-11-28 21:44:50,217 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: MisterBartra joined the game
-2024-11-28 21:44:50,399 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: MisterBartra[/127.238.224.165:50963] logged in with entity id 217 at (36.30000001192093, 84.0, 51.69999998807907)
-2024-11-28 21:45:23,324 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
-2024-11-28 21:45:23,422 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3581ce8a
-2024-11-28 21:45:23,447 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
-2024-11-28 21:45:23,482 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:48687] logged in with entity id 275 at (37.854212848993676, 85.0, 50.75074495232557)
-2024-11-28 21:57:12,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Alexterminium lost connection: Disconnected
-2024-11-28 21:57:12,974 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium left the game
-2024-11-28 21:57:14,914 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
-2024-11-28 21:57:14,970 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c7a9f95
-2024-11-28 21:57:14,985 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
-2024-11-28 21:57:15,028 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:60555] logged in with entity id 1480 at (37.204105330407245, 85.0, 50.690122188707946)
-2024-11-28 21:58:41,293 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mAlexterminium[0;30;1m)[m [0;30;1m[[0;32;1mU[0;30;1m][m [0;30;1m([0;36;1mmisterbartra[0;30;1m)[m
-2024-11-28 21:58:41,295 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mparent set default[m
-2024-11-28 22:02:32,038 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mAlexterminium[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mejemplar[0;30;1m)[m
-2024-11-28 22:02:32,039 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mcreate[m
-2024-11-28 22:03:15,988 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mAlexterminium[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1me[0;30;1m)[m
-2024-11-28 22:03:15,989 [32mINFO [m [m[luckperms-command-executor][m [m.sendMessage(60)[m: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mcreate[m
-2024-11-28 22:03:54,769 [32mINFO [m [m[Server thread][m [m.sendMessage(60)[m: Unknown command. Type "help" for help.[m
+2024-11-29 00:36:26,314 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+2024-11-29 00:36:26,319 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+2024-11-29 00:36:26,928 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2382!/ Service=ModLauncher Env=SERVER
+2024-11-29 00:36:27,440 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(58)[m: Found 4 dependencies adding them to mods collection
+2024-11-29 00:36:29,944 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2024-11-29 00:36:30,119 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2024-11-29 00:36:30,188 [32mINFO [m [m[main][m [mc.a.s.c.Saturn.build(16)[m: Loaded Saturn config file with 4 configurable options
+2024-11-29 00:36:30,227 [32mINFO [m [m[main][m [mRubidium.onLoad(31)[m: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+2024-11-29 00:36:30,403 [32mINFO [m [m[main][m [mfpsreducer.info(51)[m: OptiFine was NOT detected.
+2024-11-29 00:36:30,408 [32mINFO [m [m[main][m [mfpsreducer.info(51)[m: OptiFabric was NOT detected.
+2024-11-29 00:36:30,430 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'simplyswords-common-refmap.json' for simplyswords-common.mixins.json could not be read. If this is a development environment you can ignore this message
+2024-11-29 00:36:30,434 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+2024-11-29 00:36:30,499 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+2024-11-29 00:36:31,827 [32mINFO [m [m[main][m [mSmooth Boot (Reloaded).regConfig(33)[m: Smooth Boot (Reloaded) config initialized
+2024-11-29 00:36:37,077 [32mINFO [m [m[main][m [mn.m.u.d.DataFixers.m_14529_(272)[m: Building unoptimized datafixer
+2024-11-29 00:36:39,835 [32mINFO [m [m[modloading-worker-0][m [mDungeon Crawl.<init>(50)[m: Here we go! Launching Dungeon Crawl 2.3.12...
+2024-11-29 00:36:40,106 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(428)[m: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+2024-11-29 00:36:40,107 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(49)[m: MinecraftForge v43.4.2 Initialized
+2024-11-29 00:36:40,405 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(39)[m: EventDispatcherRegistry initialized
+2024-11-29 00:36:40,448 [33mWARN [m [m[modloading-worker-0][m [mFancyVideo-API.<init>(60)[m: ## WARNING ## 'FancyVideo API' is a client mod and has no effect when loaded on a server!
+2024-11-29 00:36:41,030 [32mINFO [m [m[modloading-worker-0][m [mCollective.init(11)[m: Loading Collective version 7.64.
+2024-11-29 00:36:41,455 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id architectury:sync_ids
+2024-11-29 00:36:41,456 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftblibrary:edit_nbt_response
+2024-11-29 00:36:41,504 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+2024-11-29 00:36:41,507 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+2024-11-29 00:36:41,509 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbteams:open_gui
+2024-11-29 00:36:41,511 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbteams:update_settings
+2024-11-29 00:36:41,534 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbteams:send_message
+2024-11-29 00:36:41,537 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbteams:create_party
+2024-11-29 00:36:41,538 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbteams:player_gui_operation
+2024-11-29 00:36:41,588 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id identity:favorite
+2024-11-29 00:36:41,590 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id identity:request
+2024-11-29 00:36:41,590 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id identity:request
+2024-11-29 00:36:41,591 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id identity:use_ability
+2024-11-29 00:36:41,677 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:submit_task
+2024-11-29 00:36:41,685 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:claim_reward
+2024-11-29 00:36:41,687 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:get_emergency_items
+2024-11-29 00:36:41,688 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:claim_all_rewards
+2024-11-29 00:36:41,689 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:claim_choice_reward
+2024-11-29 00:36:41,694 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:toggle_pinned
+2024-11-29 00:36:41,696 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+2024-11-29 00:36:41,697 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:toggle_editing_mode
+2024-11-29 00:36:41,698 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:force_save
+2024-11-29 00:36:41,702 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:set_custom_image
+2024-11-29 00:36:41,706 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:task_screen_config_resp
+2024-11-29 00:36:41,724 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:change_progress
+2024-11-29 00:36:41,731 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:create_object
+2024-11-29 00:36:41,733 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:create_task_at
+2024-11-29 00:36:41,735 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:delete_object
+2024-11-29 00:36:41,737 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:edit_object
+2024-11-29 00:36:41,743 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:move_chapter
+2024-11-29 00:36:41,744 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:move_quest
+2024-11-29 00:36:41,745 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:change_chapter_group
+2024-11-29 00:36:41,746 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:move_chapter_group
+2024-11-29 00:36:41,753 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:copy_quest
+2024-11-29 00:36:41,760 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:copy_chapter_image
+2024-11-29 00:36:41,761 [32mINFO [m [m[modloading-worker-0][m [md.a.n.f.NetworkManagerImpl.registerC2SReceiver(169)[m: Registering C2S receiver with id ftbquests:sync_structures_request
+2024-11-29 00:36:41,789 [32mINFO [m [m[modloading-worker-0][m [mc.c.Cupboard.load(162)[m: Loaded config for: cupboard.json
+2024-11-29 00:36:41,866 [32mINFO [m [m[modloading-worker-0][m [mFTB Quests.<init>(46)[m: Mod [FTB XMod Compat] not detected. Install it if you want FTB Quests integration with KubeJS, JEI/REI and/or Game Stages
+2024-11-29 00:36:46,107 [1;31mERROR[m [m[main][m [mn.m.Util.m_143785_(453)[m: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
+2024-11-29 00:36:46,107 [1;31mERROR[m [m[main][m [mn.m.Util.m_143785_(453)[m: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$12657/0x000072e8455a2240@1c434357' to registry
+2024-11-29 00:36:47,647 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from spawn.json
+2024-11-29 00:36:47,653 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from summonaid.json
+2024-11-29 00:36:47,655 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from loot.json
+2024-11-29 00:36:47,662 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from experience.json
+2024-11-29 00:36:47,659 [32mINFO [m [m[modloading-worker-0][m [mDungeon Crawl.commonSetup(61)[m: Common Setup
+2024-11-29 00:36:47,663 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from phases.json
+2024-11-29 00:36:47,676 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from special.json
+2024-11-29 00:36:47,677 [32mINFO [m [m[modloading-worker-0][m [mincontrol.getRootElement(30)[m: Reading rules from spawner.json
+2024-11-29 00:36:47,715 [32mINFO [m [m[modloading-worker-0][m [mc.d.DragonfightMod.setup(47)[m: dragonfight mod initialized
+2024-11-29 00:36:47,725 [32mINFO [m [m[modloading-worker-0][m [mvoicechat.log(53)[m: [voicechat] Compatibility version 18
+2024-11-29 00:36:47,733 [32mINFO [m [m[modloading-worker-0][m [mterrablender.register(47)[m: Registered region minecraft:overworld to index 0 for type OVERWORLD
+2024-11-29 00:36:47,733 [32mINFO [m [m[modloading-worker-0][m [mterrablender.register(47)[m: Registered region minecraft:nether to index 0 for type NETHER
+2024-11-29 00:36:47,734 [32mINFO [m [m[modloading-worker-0][m [mterrablender.register(47)[m: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+2024-11-29 00:36:47,735 [32mINFO [m [m[modloading-worker-0][m [mterrablender.register(47)[m: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+2024-11-29 00:36:47,735 [32mINFO [m [m[modloading-worker-0][m [mterrablender.register(47)[m: Registered region regions_unexplored:nether to index 1 for type NETHER
+2024-11-29 00:36:47,847 [32mINFO [m [m[modloading-worker-0][m [mc.a.s.SimpleVoiceRadio.setup(46)[m: Setting up Simple Voice Radio
+2024-11-29 00:36:47,867 [32mINFO [m [m[modloading-worker-0][m [mvoicechat.log(53)[m: [voicechat] Loading plugins
+2024-11-29 00:36:47,905 [32mINFO [m [m[modloading-worker-0][m [mvoicechat.log(53)[m: [voicechat] Loaded 1 plugin(s)
+2024-11-29 00:36:47,909 [32mINFO [m [m[modloading-worker-0][m [mvoicechat.log(53)[m: [voicechat] Initializing plugins
+2024-11-29 00:36:47,944 [32mINFO [m [m[modloading-worker-0][m [mvoicechat.log(53)[m: [voicechat] Initialized 1 plugin(s)
+2024-11-29 00:36:47,965 [32mINFO [m [m[modloading-worker-0][m [mvoicechat.log(53)[m: [voicechat] Registering events for 'simplevoiceradio'
+2024-11-29 00:36:48,621 [32mINFO [m [m[modloading-worker-0][m [mc.s.w.e.p.PlatformManager.register(100)[m: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4b920f4a]
+2024-11-29 00:36:48,626 [32mINFO [m [m[modloading-worker-0][m [mc.s.w.f.ForgeWorldEdit.init(157)[m: WorldEdit for Forge (version 7.2.12+6240-87f4ae1) is loaded
+2024-11-29 00:36:48,629 [32mINFO [m [m[main][m [mjourneymap.lambda$commonSetupEvent$5(160)[m: Initializing Packet Registries
+2024-11-29 00:36:48,678 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:loot_table_alias
+2024-11-29 00:36:48,691 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:data_handler_type
+2024-11-29 00:36:48,692 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:dynamic_spawner
+2024-11-29 00:36:48,693 [32mINFO [m [m[main][m [mModdingLegacy/StructureGel.log(39)[m: [structure_gel] Registering data for structure_gel:jigsaw_type
+2024-11-29 00:36:48,844 [32mINFO [m [m[modloading-worker-0][m [mAttributeFix.load(81)[m: Loaded values for 19 compatible attributes.
+2024-11-29 00:36:48,858 [32mINFO [m [m[modloading-worker-0][m [mAttributeFix.load(113)[m: Loaded 19 values from config.
+2024-11-29 00:36:48,877 [32mINFO [m [m[modloading-worker-0][m [mAttributeFix.load(132)[m: Saving config file. 19 entries.
+2024-11-29 00:36:48,886 [32mINFO [m [m[modloading-worker-0][m [mAttributeFix.applyChanges(29)[m: Applying changes for 19 attributes.
+2024-11-29 00:36:48,889 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at ht.treechop.compat.Jade
+2024-11-29 00:36:48,898 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+2024-11-29 00:36:48,899 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+2024-11-29 00:36:48,911 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+2024-11-29 00:36:48,919 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.core.CorePlugin
+2024-11-29 00:36:48,921 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+2024-11-29 00:36:48,924 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+2024-11-29 00:36:48,924 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.general.GeneralPlugin
+2024-11-29 00:36:48,926 [32mINFO [m [m[modloading-worker-0][m [mJade.loadComplete(125)[m: Start loading plugin at snownee.jade.addon.create.CreatePlugin
+2024-11-29 00:36:51,764 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(74)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2024-11-29 00:36:51,827 [33mWARN [m [m[main][m [mn.m.c.ForgeHooks.readAdditionalLevelSaveData(1510)[m: The following mods have version differences that were not resolved:
+forge (version 43.3.0 -> 43.4.2)
+Things may not work well.
+2024-11-29 00:36:53,841 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23271!/assets/.mcassetsroot' uses unexpected schema
+2024-11-29 00:36:53,841 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23271!/data/.mcassetsroot' uses unexpected schema
+2024-11-29 00:36:53,951 [1;31mERROR[m [m[main][m [mn.m.s.p.r.MultiPackResourceManager.m_215467_(68)[m: Failed to get filter section from pack customnpcs
+2024-11-29 00:36:56,557 [32mINFO [m [m[main][m [mc.s.w.e.p.PlatformCommandManager.registerCommandsWith(427)[m: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+2024-11-29 00:36:56,626 [32mINFO [m [m[main][m [mc.g.a.a.AlexsMobs.onAddReloadListener(785)[m: Adding datapack listener capsid_recipes
+2024-11-29 00:36:56,777 [1;31mERROR[m [m[Worker-Main1][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [minecraft:cherry_grove (from mvs-4.1.4-1.19.2-forge.jar)] as it is missing following references: minecraft:cherry_grove (from mvs-4.1.4-1.19.2-forge.jar)
+2024-11-29 00:36:56,904 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,911 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/banglum/banglum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/halberd_scythe (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/banglum/banglum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/halberd_scythe (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,915 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/osmium/osmium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/osmium/osmium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,917 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/steel/steel_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/steel/steel_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,920 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/runite/runite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/runite/runite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,925 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/palladium/palladium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/palladium/palladium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,936 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/celestium/celestium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/celestium/celestium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,937 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/aquarium/aquarium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/aquarium/aquarium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,939 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [mythicmetals:mythicmetals_compat/carmot/carmot_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_katana (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_sai (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_spear (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: mythicmetals:mythicmetals_compat/carmot/carmot_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,940 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,941 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/copper/copper_longsword (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/copper/copper_longsword (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,943 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,944 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,945 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/stormyx/stormyx_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/stormyx/stormyx_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,947 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/adamantite/adamantite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/adamantite/adamantite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,947 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/mythril/mythril_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/mythril/mythril_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,948 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/kyber/kyber_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/kyber/kyber_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,949 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,951 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,951 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/bronze/bronze_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/bronze/bronze_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:56,952 [1;31mERROR[m [m[Worker-Main2][m [mn.m.t.TagLoader.lambda$build$11(167)[m: Couldn't load tag [simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+2024-11-29 00:36:58,255 [1;31mERROR[m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(90)[m: Parsing error loading recipe create:cutting/compat/regions_unexplored/alpha_wood
+com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:alpha_wood'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:339) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:338) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:233) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.19.2-43.4.2-universal.jar%23276!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:142) ~[forge-1.19.2-43.4.2-universal.jar%23276!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:208) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.readFromJson(ProcessingRecipeSerializer.java:66) ~[create-1.19.2-0.5.1.i.jar%23214!/:0.5.1.i]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.fromJson(ProcessingRecipeSerializer.java:154) ~[create-1.19.2-0.5.1.i.jar%23214!/:0.5.1.i]
+	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.m_6729_(ProcessingRecipeSerializer.java:21) ~[create-1.19.2-0.5.1.i.jar%23214!/:0.5.1.i]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.19.2-43.4.2-universal.jar%23276!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:185) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:76) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:37) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.server.Main.main(Main.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%23129!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:96) [mohist.jar:1.19.2-141]
+2024-11-29 00:36:58,345 [32mINFO [m [m[main][m [mn.m.w.i.c.RecipeManager.m_5787_(97)[m: Loaded 26 recipes
+2024-11-29 00:36:58,534 [1;31mERROR[m [m[main][m [mn.m.w.l.s.l.LootTables.lambda$apply$0(45)[m: Couldn't parse loot table simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%23103!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%23103!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:273) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:270) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%23103!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%23103!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:939) ~[forge-1.19.2-43.4.2-universal.jar%23276!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:39) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.server.Main.main(Main.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%23129!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2372!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+	at com.mohistmc.MohistMCStart.main(MohistMCStart.java:96) [mohist.jar:1.19.2-141]
+2024-11-29 00:36:59,458 [1;31mERROR[m [m[main][m [mn.m.s.ServerAdvancementManager.m_136037_(55)[m: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
+2024-11-29 00:36:59,543 [32mINFO [m [m[main][m [mn.m.a.AdvancementList.m_139333_(94)[m: Loaded 3953 advancements
+2024-11-29 00:36:59,547 [32mINFO [m [m[main][m [ma.d.s.ItemLightLevels.clearCache(16)[m: Clearing item tag to light level mapping cache
+2024-11-29 00:36:59,547 [32mINFO [m [m[main][m [mDungeon Crawl.reload(50)[m: Loading data...
+2024-11-29 00:36:59,772 [32mINFO [m [m[main][m [mDungeon Crawl.reload(72)[m: Done.
+2024-11-29 00:36:59,793 [33mWARN [m [m[main][m [mn.m.c.MappedRegistry.m_203652_(385)[m: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: mvs:has_structure/cherry_biomes
+2024-11-29 00:37:01,612 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(128)[m: Starting minecraft server version 1.19.2
+2024-11-29 00:37:01,612 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(133)[m: Loading properties
+2024-11-29 00:37:01,612 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(149)[m: Default game type: SURVIVAL
+2024-11-29 00:37:01,613 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1298)[m: Generating keypair
+2024-11-29 00:37:01,738 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(160)[m: Starting Minecraft server on *:25565
+2024-11-29 00:37:01,753 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(83)[m: Using default channel type
+2024-11-29 00:37:01,830 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-11-29 00:37:01,831 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(173)[m: The server will make no attempt to authenticate usernames. Beware.
+2024-11-29 00:37:01,831 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(174)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-11-29 00:37:01,831 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(175)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2024-11-29 00:37:01,922 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.19.2-141 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT, Forge version 43.4.2)
+2024-11-29 00:37:03,188 [32mINFO [m [m[Server thread][m [m.playerSample(271)[m: Server Ping Player Sample Count: 12
+2024-11-29 00:37:03,190 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2024-11-29 00:37:03,191 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2024-11-29 00:37:03,220 [32mINFO [m [m[Server thread][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2024-11-29 00:37:03,221 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2024-11-29 00:37:03,222 [32mINFO [m [m[Thread-0][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2024-11-29 00:37:03,232 [32mINFO [m [m[Server thread][m [mYAWP.onConfigLoading(38)[m: Detected JourneyMap to be loaded beside YAWP.
+2024-11-29 00:37:03,232 [32mINFO [m [m[Server thread][m [mYAWP.onConfigLoading(44)[m: 0 UUID(s) with permission read from config
+2024-11-29 00:37:03,251 [32mINFO [m [m[Thread-0][m [mYAWP.onConfigReloading(83)[m: Reloaded: 'yawp-common.toml'
+2024-11-29 00:37:03,251 [32mINFO [m [m[Server thread][m [mYAWP.onConfigLoading(67)[m: 5 Block Entity entries read from config: minecraft:armor_stand, minecraft:item_frame, minecraft:glow_item_frame, minecraft:painting, minecraft:leash_knot
+2024-11-29 00:37:03,252 [32mINFO [m [m[Thread-0][m [mYAWP.onConfigReloading(83)[m: Reloaded: 'yawp-common.toml'
+2024-11-29 00:37:03,253 [32mINFO [m [m[Server thread][m [mYAWP.onConfigLoading(73)[m: 0 Block Entity tag entries read from config
+2024-11-29 00:37:03,254 [32mINFO [m [m[Thread-0][m [mYAWP.onConfigReloading(83)[m: Reloaded: 'yawp-flags.toml'
+2024-11-29 00:37:03,255 [32mINFO [m [m[Thread-0][m [mYAWP.onConfigReloading(83)[m: Reloaded: 'yawp-flags.toml'
+2024-11-29 00:37:03,256 [32mINFO [m [m[Server thread][m [mYAWP.onConfigLoading(53)[m: 0 default flag(s) for Local Regions read from config
+2024-11-29 00:37:03,256 [32mINFO [m [m[Server thread][m [mYAWP.onConfigLoading(59)[m: 0 default flag(s) for Dimensional Regions read from config
+2024-11-29 00:37:03,439 [32mINFO [m [m[Server thread][m [mFTB Teams.load(190)[m: loaded team data: 13 known players, 13 teams total
+2024-11-29 00:37:03,446 [32mINFO [m [m[Server thread][m [ma.d.s.m.PlayerSelfLightSource.<init>(43)[m: item config parser identified itemstack 1 torch
+2024-11-29 00:37:03,446 [32mINFO [m [m[Server thread][m [ma.d.s.m.PlayerSelfLightSource.<init>(43)[m: item config parser identified itemstack 1 glowstone
+2024-11-29 00:37:03,446 [32mINFO [m [m[Server thread][m [ma.d.s.m.PlayerSelfLightSource.<init>(51)[m: item config parser finished, item count: 2
+2024-11-29 00:37:03,447 [32mINFO [m [m[Server thread][m [ma.d.s.m.PlayerSelfLightSource.<init>(43)[m: item config parser identified itemstack 1 torch
+2024-11-29 00:37:03,447 [32mINFO [m [m[Server thread][m [ma.d.s.m.PlayerSelfLightSource.<init>(51)[m: item config parser finished, item count: 1
+2024-11-29 00:37:03,448 [32mINFO [m [m[Server thread][m [ma.d.s.m.DroppedItemsLightSource.<init>(43)[m: item config parser identified itemstack 1 torch
+2024-11-29 00:37:03,448 [32mINFO [m [m[Server thread][m [ma.d.s.m.DroppedItemsLightSource.<init>(43)[m: item config parser identified itemstack 1 glowstone
+2024-11-29 00:37:03,448 [32mINFO [m [m[Server thread][m [ma.d.s.m.DroppedItemsLightSource.<init>(51)[m: item config parser finished, item count: 2
+2024-11-29 00:37:03,448 [32mINFO [m [m[Server thread][m [ma.d.s.m.DroppedItemsLightSource.<init>(43)[m: item config parser identified itemstack 1 torch
+2024-11-29 00:37:03,449 [32mINFO [m [m[Server thread][m [ma.d.s.m.DroppedItemsLightSource.<init>(51)[m: item config parser finished, item count: 1
+2024-11-29 00:37:03,468 [32mINFO [m [m[Server thread][m [mFramework.onServerStarting(203)[m: Loading server configs...
+2024-11-29 00:37:03,667 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(107)[m: Initialized TerraBlender biomes for level stem minecraft:the_nether
+2024-11-29 00:37:03,950 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(107)[m: Initialized TerraBlender biomes for level stem minecraft:overworld
+2024-11-29 00:37:03,950 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: Preparing level "world"
+2024-11-29 00:37:04,952 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:overworld
+2024-11-29 00:37:11,680 [32mINFO [m [m[Worker-Main1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,682 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,683 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,684 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,685 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,686 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,687 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,688 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,689 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,691 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,692 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,693 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,704 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,710 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:11,954 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:12,454 [32mINFO [m [m[Worker-Main1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 22%
+2024-11-29 00:37:12,954 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 37%
+2024-11-29 00:37:13,292 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 8339 ms
+2024-11-29 00:37:13,379 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(561)[m: Preparing start region for dimension minecraft:the_end
+2024-11-29 00:37:14,100 [32mINFO [m [m[Worker-Main1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:14,101 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:14,380 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:14,556 [1;31mERROR[m [m[Worker-Main2][m [mn.m.w.l.l.s.t.StructureTemplateManager.m_230364_(120)[m: Couldn't load structure mvs:houses/deepslate_house
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:465) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:459) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:279) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:225) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:52) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:277) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:250) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:93) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:81) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:70) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%23119!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:118) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:89) ~[mvs-4.1.4-1.19.2-forge.jar%23247!/:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:207) ~[mvs-4.1.4-1.19.2-forge.jar%23247!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:633) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGenerator.java:589) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGenerator.java:576) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:48) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:261) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMap.java:649) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%23119!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:647) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.io.IOException: Invalid tag id: 14
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:459) ~[server-1.19.2-20220805.130853-srg.jar%23271!/:?]
+	... 52 more
+2024-11-29 00:37:14,932 [32mINFO [m [m[Worker-Main1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-29 00:37:15,380 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-11-29 00:37:15,891 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 8%
+2024-11-29 00:37:16,379 [32mINFO [m [m[Worker-Main1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 18%
+2024-11-29 00:37:16,880 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 31%
+2024-11-29 00:37:17,380 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 46%
+2024-11-29 00:37:17,894 [32mINFO [m [m[Worker-Main1][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 69%
+2024-11-29 00:37:19,390 [32mINFO [m [m[Worker-Main3][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 81%
+2024-11-29 00:37:19,391 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 81%
+2024-11-29 00:37:19,391 [32mINFO [m [m[Worker-Main2][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 81%
+2024-11-29 00:37:19,743 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 6364 ms
+2024-11-29 00:37:19,746 [32mINFO [m [m[Server thread][m [mc.c.Cupboard.load(162)[m: Loaded config for: dragonfight.json
+2024-11-29 00:37:19,757 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2024-11-29 00:37:19,766 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(202)[m: Done (16.558s)! For help, type "help"
+2024-11-29 00:37:19,812 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(66)[m: CustomNPC PermissionNode<Boolean>s available:
+2024-11-29 00:37:19,813 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.edit.blocks
+2024-11-29 00:37:19,813 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.edit.villager
+2024-11-29 00:37:19,813 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.bank
+2024-11-29 00:37:19,813 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.dialog
+2024-11-29 00:37:19,814 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.faction
+2024-11-29 00:37:19,814 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.linked
+2024-11-29 00:37:19,814 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.naturalspawn
+2024-11-29 00:37:19,814 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.playerdata
+2024-11-29 00:37:19,814 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.quest
+2024-11-29 00:37:19,815 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.recipe
+2024-11-29 00:37:19,815 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.global.transport
+2024-11-29 00:37:19,815 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.advanced
+2024-11-29 00:37:19,815 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.ai
+2024-11-29 00:37:19,815 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.clone
+2024-11-29 00:37:19,816 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.create
+2024-11-29 00:37:19,816 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.delete
+2024-11-29 00:37:19,816 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.display
+2024-11-29 00:37:19,816 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.freeze
+2024-11-29 00:37:19,816 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.gui
+2024-11-29 00:37:19,816 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.inventory
+2024-11-29 00:37:19,817 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.reset
+2024-11-29 00:37:19,817 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.npc.stats
+2024-11-29 00:37:19,817 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.scenes
+2024-11-29 00:37:19,817 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.soulstone.all
+2024-11-29 00:37:19,817 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.spawner.create
+2024-11-29 00:37:19,818 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.spawner.mob
+2024-11-29 00:37:19,818 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.tool.mounter
+2024-11-29 00:37:19,818 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.tool.nbtbook
+2024-11-29 00:37:19,818 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.tool.pather
+2024-11-29 00:37:19,818 [32mINFO [m [m[Server thread][m [mn.n.CustomNpcs.registerNodes(70)[m: customnpcs.tool.scripter
+2024-11-29 00:37:19,819 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2024-11-29 00:37:19,843 [32mINFO [m [m[Server thread][m [mc.m.c.Cinematic.onlyServer(60)[m: Cinematic Mod is loaded in server
+2024-11-29 00:37:19,844 [32mINFO [m [m[Server thread][m [mc.a.s.SimpleVoiceRadio.onServerStarting(57)[m: Server starting
+2024-11-29 00:37:19,845 [32mINFO [m [m[Server thread][m [mYAWP.load(125)[m: Loading region(s) for 2 dimension(s)
+2024-11-29 00:37:19,847 [32mINFO [m [m[Server thread][m [mYAWP.load(134)[m: Loading 0 region(s) for dimension 'minecraft:overworld'
+2024-11-29 00:37:19,848 [32mINFO [m [m[Server thread][m [mYAWP.load(134)[m: Loading 0 region(s) for dimension 'minecraft:the_end'
+2024-11-29 00:37:19,848 [32mINFO [m [m[Server thread][m [mYAWP.lambda$load$0(144)[m: Loaded 0 region(s) for dimension 'minecraft:the_end'
+2024-11-29 00:37:19,848 [32mINFO [m [m[Server thread][m [mYAWP.lambda$load$0(144)[m: Loaded 0 region(s) for dimension 'minecraft:overworld'
+2024-11-29 00:37:19,849 [32mINFO [m [m[Server thread][m [mYAWP.loadRegionData(111)[m: Loaded 0 region(s) for 2 dimension(s)
+2024-11-29 00:37:19,876 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e3dbbe5
+2024-11-29 00:37:19,904 [32mINFO [m [m[Server thread][m [mFTB Quests.load(71)[m: Loading quests from /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/ftbquests/quests
+2024-11-29 00:37:19,913 [32mINFO [m [m[Server thread][m [mFTB Quests.readDataFull(738)[m: Loaded 2 chapter groups, 1 chapters, 0 quests, 0 reward tables
+2024-11-29 00:37:22,313 [33mWARN [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+2024-11-29 00:37:22,329 [32mINFO [m [m[VoiceChatServerThread][m [mvoicechat.log(53)[m: [voicechat] Voice chat server started at port 24454
+2024-11-29 00:37:34,393 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player Alexterminium is ed6c5568-96fa-38fd-ad29-941150deb41a
+2024-11-29 00:37:36,920 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2126ms or 42 ticks
+2024-11-29 00:37:40,410 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18cceb16
+2024-11-29 00:37:40,552 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Alexterminium joined the game
+2024-11-29 00:37:40,845 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+2024-11-29 00:37:40,871 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: Alexterminium[/127.120.84.255:55777] logged in with entity id 606 at (52.720724402260835, 180.0, 86.08363113168117)
+2024-11-29 00:37:41,551 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Received secret request of Alexterminium (18)
+2024-11-29 00:37:41,554 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Sent secret to Alexterminium
+2024-11-29 00:38:14,079 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2256ms or 45 ticks
+2024-11-29 00:38:43,629 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2029ms or 40 ticks
+2024-11-29 00:39:31,557 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2061ms or 41 ticks
+2024-11-29 00:40:01,148 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2010ms or 40 ticks
+2024-11-29 00:40:40,887 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2145ms or 42 ticks
+2024-11-29 00:41:06,481 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2057ms or 41 ticks
+2024-11-29 00:41:49,102 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2223ms or 44 ticks
+2024-11-29 00:42:23,573 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2213ms or 44 ticks
+2024-11-29 00:42:32,576 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player elmatidm is 1c9ec675-2a6d-3893-9b41-9eb3026acd3b
+2024-11-29 00:42:36,763 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c53aa8e
+2024-11-29 00:42:36,803 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: elmatidm joined the game
+2024-11-29 00:42:36,846 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to elmatidm (1c9ec675-2a6d-3893-9b41-9eb3026acd3b)
+2024-11-29 00:42:36,856 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: elmatidm[/127.172.183.101:33153] logged in with entity id 719 at (66.52031898531348, 63.0, 96.92475876711563)
+2024-11-29 00:42:38,861 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Received secret request of elmatidm (18)
+2024-11-29 00:42:38,862 [32mINFO [m [m[Server thread][m [mvoicechat.log(53)[m: [voicechat] Sent secret to elmatidm
+2024-11-29 00:42:47,405 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2185ms or 43 ticks
+2024-11-29 00:43:34,016 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2104ms or 42 ticks
+2024-11-29 00:44:01,084 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2255ms or 45 ticks
+2024-11-29 00:44:14,710 [32mINFO [m [m[User Authenticator #3][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
+2024-11-29 00:44:14,909 [1;31mERROR[m [m[Netty Server IO #0][m [mn.m.n.NetworkRegistry.validateChannels(239)[m: Channels [alexsmobs:main_channel,customnpcs:packets,create:main] rejected their client side version number
+2024-11-29 00:44:14,909 [1;31mERROR[m [m[Netty Server IO #0][m [mn.m.n.HandshakeHandler.handleClientModListOnServer(247)[m: Terminating connection with client, mismatched mod list
+2024-11-29 00:44:14,961 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@6f0c43aa[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.193.143.245:57765) lost connection: Connection closed - mismatched mod channel list
+2024-11-29 00:44:24,729 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2224ms or 44 ticks
+2024-11-29 00:45:10,718 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2026ms or 40 ticks
+2024-11-29 00:45:36,884 [33mWARN [m [m[Server thread][m [mwaterframes.redirect$zkj000$redirect$runServer$getMillisWhile(4277)[m: Server seems overloading, jumping 2074ms or 41 ticks
+2024-11-29 00:46:20,752 [32mINFO [m [m[User Authenticator #4][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player MisterBartra is 451f2212-cf2a-365e-88c7-f71e8fb39676
