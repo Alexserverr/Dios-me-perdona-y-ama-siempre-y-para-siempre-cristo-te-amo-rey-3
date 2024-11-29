@@ -110,6 +110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-11-29 00:55:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/maple_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
@@ -254,6 +260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-29 01:01:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-11-24 21:16:44 +0000"
@@ -345,6 +357,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-26 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-11-29 00:55:19 +0000"
     },
     "done": true
   },
