@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-11-16 03:01:23 +0000"
@@ -487,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-26 01:22:29 +0000"
@@ -879,6 +891,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-11-16 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
     },
     "done": true
   },
@@ -1498,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/lime_painted_planks": {
     "criteria": {
       "has_planks": "2024-11-10 01:42:04 +0000"
@@ -1585,6 +1609,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-11-09 03:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
     },
     "done": true
   },
@@ -1912,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-11-29 01:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-25 23:06:38 +0000"
@@ -1971,6 +2007,7 @@
       "golden_apple": "2024-11-10 01:08:32 +0000",
       "bread": "2024-11-10 01:48:58 +0000",
       "rotten_flesh": "2024-11-15 23:10:33 +0000",
+      "beetroot": "2024-11-29 01:06:55 +0000",
       "enchanted_golden_apple": "2024-11-10 03:28:31 +0000",
       "carrot": "2024-11-15 23:19:01 +0000"
     },
@@ -2213,6 +2250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-11-10 03:18:59 +0000"
@@ -2282,6 +2325,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2024-11-25 00:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-11-29 01:05:14 +0000"
     },
     "done": true
   },
@@ -2396,6 +2445,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-11-16 03:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
     },
     "done": true
   },
@@ -2747,6 +2802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-16 01:37:59 +0000"
@@ -2867,6 +2928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 01:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-10 01:42:04 +0000"
@@ -2906,6 +2973,12 @@
   "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-11-24 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-11-29 01:14:57 +0000"
     },
     "done": true
   },
