@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-11-16 03:26:50 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-11-08 18:52:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-11-09 13:41:45 +0000"
@@ -650,6 +668,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-11-09 22:21:49 +0000"
@@ -659,6 +683,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-11-18 19:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -707,6 +737,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-11-08 21:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-29 01:32:37 +0000"
     },
     "done": true
   },
@@ -794,6 +830,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-08 17:40:51 +0000"
@@ -839,6 +881,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-11-08 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -1330,6 +1378,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-11-08 23:14:40 +0000"
@@ -1351,6 +1405,12 @@
   "create:recipes/create.palettes/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-11-08 18:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -1582,6 +1642,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-11-10 21:24:27 +0000"
@@ -1799,6 +1865,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-11-22 23:10:01 +0000"
@@ -1838,6 +1910,12 @@
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-11-09 20:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-29 01:32:37 +0000"
     },
     "done": true
   },
@@ -1985,6 +2063,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_shingle_slab": {
     "criteria": {
       "has_copper_shingles": "2024-11-08 17:28:17 +0000"
@@ -2033,6 +2117,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/panic_button": {
     "criteria": {
       "has_redstone": "2024-11-08 21:03:10 +0000"
@@ -2054,6 +2144,12 @@
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-08 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-29 01:32:37 +0000"
     },
     "done": true
   },
@@ -2141,6 +2237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-29 01:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-08 19:28:44 +0000"
@@ -2198,6 +2300,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-25 01:20:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -2529,6 +2637,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-09 03:43:12 +0000"
@@ -2646,6 +2760,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-11-09 21:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -2943,6 +3063,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-09 16:39:47 +0000"
@@ -2985,6 +3111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-11-25 01:20:32 +0000"
@@ -3018,6 +3150,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-09 21:19:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -3591,6 +3729,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/small_rose_quartz_tilesfrom_conversion": {
     "criteria": {
       "has_item": "2024-11-08 17:31:16 +0000"
@@ -3708,6 +3858,18 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-11-16 03:12:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
   },
@@ -3882,6 +4044,12 @@
   "dungeons_arise:find_scorched_mines": {
     "criteria": {
       "location0": "2024-11-08 14:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-11-29 01:32:37 +0000"
     },
     "done": true
   },

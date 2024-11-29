@@ -559,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-29 01:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-11-16 03:17:04 +0000"
@@ -1125,6 +1131,12 @@
   "regions_unexplored:recipes/ru_main/mossy_stone": {
     "criteria": {
       "has_stone": "2024-11-10 01:42:16 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-11-29 01:36:34 +0000"
     },
     "done": true
   },

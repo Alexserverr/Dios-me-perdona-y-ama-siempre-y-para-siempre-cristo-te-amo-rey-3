@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-11-26 03:30:53 +0000"
@@ -77,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-26 03:14:36 +0000"
@@ -92,6 +110,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
     },
     "done": true
   },
@@ -122,6 +146,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
     },
     "done": true
   },
@@ -176,6 +206,12 @@
   "regions_unexplored:recipes/ru_main/baobab_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
     },
     "done": true
   },
@@ -301,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-11-29 01:21:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/dead_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
@@ -388,6 +430,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-29 01:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-26 03:29:03 +0000"
@@ -424,6 +478,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-29 01:08:55 +0000"
@@ -457,6 +517,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-11-26 03:28:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
     },
     "done": true
   },
@@ -562,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-11-29 01:21:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
@@ -571,6 +643,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-11-26 03:41:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/ru_main/joshua_sapling_from_joshua_shrub": {
+    "criteria": {
+      "has_joshua_shrub": "2024-11-29 01:36:47 +0000"
     },
     "done": true
   },
