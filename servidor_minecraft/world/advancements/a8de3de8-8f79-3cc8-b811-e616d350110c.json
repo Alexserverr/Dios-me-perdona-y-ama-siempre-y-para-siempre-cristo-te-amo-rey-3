@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-11-24 23:25:38 +0000"
@@ -571,9 +577,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/ash": {
     "criteria": {
       "has_gunpowder": "2024-11-25 23:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
     },
     "done": true
   },
@@ -726,6 +744,12 @@
       "has_log": "2024-11-30 02:05:54 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-05 02:33:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -921,6 +945,18 @@
   "regions_unexplored:recipes/ru_main/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-26 00:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 02:44:07 +0000"
     },
     "done": true
   },
@@ -1607,6 +1643,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-24 23:29:10 +0000"
@@ -1730,6 +1772,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-11-24 23:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
     },
     "done": true
   },
@@ -2707,6 +2755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-11-10 01:40:07 +0000"
@@ -2794,6 +2848,18 @@
   "morevanillaarmor:recipes/morevanillaarmor/coal_boots": {
     "criteria": {
       "already_crafted": "2024-11-09 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-05 02:33:21 +0000"
     },
     "done": true
   },
@@ -3097,6 +3163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-24 23:07:42 +0000"
@@ -3220,6 +3292,12 @@
   "alexsmobs:alexsmobs/enderiophage_rocket": {
     "criteria": {
       "enderiophage_rocket": "2024-11-15 23:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 02:40:19 +0000"
     },
     "done": true
   },

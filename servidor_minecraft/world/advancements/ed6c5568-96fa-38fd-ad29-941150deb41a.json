@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-05 02:45:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/display_case": {
     "criteria": {
       "has_item_frame": "2024-11-15 04:17:52 +0000"
@@ -448,6 +454,12 @@
       "has_boat": "2024-11-29 01:27:55 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-05 02:32:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
@@ -1635,6 +1647,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-05 02:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-11-09 21:19:02 +0000"
@@ -1884,6 +1902,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-25 00:43:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-05 02:32:49 +0000"
     },
     "done": true
   },

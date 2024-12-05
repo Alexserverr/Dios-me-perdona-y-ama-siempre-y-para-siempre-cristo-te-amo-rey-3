@@ -1640,3 +1640,66 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Dec2024 02:33:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 3 entities to Alextremito]
 [05Dec2024 02:33:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
 [05Dec2024 02:33:08.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
+[05Dec2024 02:33:21.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho has made the advancement [Barrel Booty]
+[05Dec2024 02:33:21.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding has made the advancement [Barrel Booty]
+[05Dec2024 02:33:49.000] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2078ms or 41 ticks
+[05Dec2024 02:34:23.957] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2190ms or 43 ticks
+[05Dec2024 02:34:48.492] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2203ms or 44 ticks
+[05Dec2024 02:35:24.047] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2033ms or 40 ticks
+[05Dec2024 02:36:09.885] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2062ms or 41 ticks
+[05Dec2024 02:36:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alextremito> no hagan referencia a sammy que esta en la llamada
+[05Dec2024 02:36:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> OK
+[05Dec2024 02:36:55.785] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2071ms or 41 ticks
+[05Dec2024 02:37:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> MIRA DISC ALEX
+[05Dec2024 02:37:41.341] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2357ms or 47 ticks
+[05Dec2024 02:37:46.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> SE PUSO NERVIOSOOOOOOOOOO
+[05Dec2024 02:38:05.377] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2329ms or 46 ticks
+[05Dec2024 02:38:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> BARTRA VEN
+[05Dec2024 02:38:40.940] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2231ms or 44 ticks
+[05Dec2024 02:39:03.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> BARTRA VEN}
+[05Dec2024 02:39:14.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> xd
+[05Dec2024 02:39:21.687] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2216ms or 44 ticks
+[05Dec2024 02:40:02.480] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[05Dec2024 02:40:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> BARTRA VENI
+[05Dec2024 02:40:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> Sisi
+[05Dec2024 02:40:43.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> Está bien pro
+[05Dec2024 02:40:48.392] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
+[05Dec2024 02:41:17.271] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2333ms or 46 ticks
+[05Dec2024 02:41:42.608] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[05Dec2024 02:41:52.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> Se está luciendo
+[05Dec2024 02:42:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> xdd
+[05Dec2024 02:42:23.378] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
+[05Dec2024 02:43:09.294] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
+[05Dec2024 02:43:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> habla del mohist
+[05Dec2024 02:43:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> jeje
+[05Dec2024 02:43:55.178] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2150ms or 43 ticks
+[05Dec2024 02:44:07.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28622, l='ServerLevel[world]', x=920.57, y=66.00, z=1030.99] died, message: 'Villager was slain by GoodEnding'
+[05Dec2024 02:44:07.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding has made the advancement [Neighborhood Brawl]
+[05Dec2024 02:44:11.563] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28625, l='ServerLevel[world]', x=924.84, y=65.90, z=1032.46] died, message: 'Villager was slain by GoodEnding'
+[05Dec2024 02:44:13.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28624, l='ServerLevel[world]', x=925.43, y=65.90, z=1032.34] died, message: 'Villager was slain by GoodEnding'
+[05Dec2024 02:44:17.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28621, l='ServerLevel[world]', x=922.31, y=65.00, z=1025.49] died, message: 'Villager was slain by GoodEnding'
+[05Dec2024 02:44:30.280] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2302ms or 46 ticks
+[05Dec2024 02:44:54.889] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2330ms or 46 ticks
+[05Dec2024 02:45:30.461] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
+[05Dec2024 02:46:11.188] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
+[05Dec2024 02:46:40.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:46:40.623] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:46:40.624] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:46:57.073] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2059ms or 41 ticks
+[05Dec2024 02:47:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[05Dec2024 02:47:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> DAME OP
+[05Dec2024 02:47:43.164] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2226ms or 44 ticks
+[05Dec2024 02:47:44.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported Alextremito to MisterCacho]
+[05Dec2024 02:47:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GoodEnding> DAME OP
+[05Dec2024 02:48:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[05Dec2024 02:48:06.994] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2280ms or 45 ticks
+[05Dec2024 02:48:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium no longer a server operator
+[05Dec2024 02:48:37.397] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2064ms or 41 ticks
+[05Dec2024 02:49:18.194] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2121ms or 42 ticks
+[05Dec2024 02:49:58.986] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2020ms or 40 ticks
+[05Dec2024 02:50:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> tptptpt
+[05Dec2024 02:50:44.895] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2085ms or 41 ticks
+[05Dec2024 02:51:19.565] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2396ms or 47 ticks
+[05Dec2024 02:51:44.489] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2220ms or 44 ticks
+[05Dec2024 02:52:25.275] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2168ms or 43 ticks
+[05Dec2024 02:53:11.186] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2187ms or 43 ticks

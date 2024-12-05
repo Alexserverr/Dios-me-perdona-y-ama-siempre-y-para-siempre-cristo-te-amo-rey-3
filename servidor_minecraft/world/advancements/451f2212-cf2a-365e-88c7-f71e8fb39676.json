@@ -279,6 +279,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2024-12-05 02:33:01 +0000",
       "rocky_reef": "2024-11-29 03:19:49 +0000",
       "tropical_river": "2024-11-26 03:12:34 +0000",
       "joshua_desert": "2024-11-26 03:10:13 +0000",
@@ -356,6 +357,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2024-12-05 02:33:01 +0000",
       "rocky_reef": "2024-11-29 03:19:49 +0000",
       "tropical_river": "2024-11-26 03:12:34 +0000",
       "joshua_desert": "2024-11-26 03:10:13 +0000",
@@ -611,6 +613,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-05 02:33:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-29 01:08:55 +0000"
@@ -686,6 +694,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-29 01:08:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-05 02:33:21 +0000"
     },
     "done": true
   },
@@ -1062,6 +1076,7 @@
       "minecraft:lukewarm_ocean": "2024-11-29 03:17:41 +0000",
       "minecraft:stony_shore": "2024-11-24 21:19:53 +0000",
       "minecraft:desert": "2024-11-24 21:16:44 +0000",
+      "minecraft:ocean": "2024-12-05 02:42:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-05 01:57:11 +0000"
     },
     "done": false
