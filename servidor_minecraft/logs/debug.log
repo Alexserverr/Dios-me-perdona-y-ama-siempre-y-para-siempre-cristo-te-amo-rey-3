@@ -21781,3 +21781,115 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Dec2024 02:51:44.489] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2220ms or 44 ticks
 [05Dec2024 02:52:25.275] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2168ms or 43 ticks
 [05Dec2024 02:53:11.186] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2187ms or 43 ticks
+[05Dec2024 02:53:30.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:53:30.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:53:51.993] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2019ms or 40 ticks
+[05Dec2024 02:54:27.868] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2009ms or 40 ticks
+[05Dec2024 02:54:39.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bad_ending2 lost connection: Disconnected
+[05Dec2024 02:54:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding left the game
+[05Dec2024 02:54:39.478] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of GoodEnding
+[05Dec2024 02:54:39.479] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GoodEnding
+[05Dec2024 02:54:56.660] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2356ms or 47 ticks
+[05Dec2024 02:55:32.237] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2250ms or 45 ticks
+[05Dec2024 02:55:32.772] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[05Dec2024 02:56:12.978] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2097ms or 41 ticks
+[05Dec2024 02:56:58.880] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[05Dec2024 02:57:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium a server operator
+[05Dec2024 02:57:20.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported MisterCacho to Alextremito]
+[05Dec2024 02:57:20.338] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[05Dec2024 02:57:22.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[05Dec2024 02:57:44.804] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2153ms or 43 ticks
+[05Dec2024 02:58:08.462] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2050ms or 41 ticks
+[05Dec2024 02:58:30.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 02:58:30.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 02:58:33.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h7afa3iqpns]: started parsing
+[05Dec2024 02:58:33.387] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h7afa3iqpns]: Consuming argument ``
+[05Dec2024 02:58:33.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h7afa3iqpns]: Finished looking at arguments. Finalizing command.
+[05Dec2024 02:58:34.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j6q1hacckfdy]: started parsing
+[05Dec2024 02:58:34.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j6q1hacckfdy]: Consuming argument `s`
+[05Dec2024 02:58:34.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j6q1hacckfdy]: Finished looking at arguments. Finalizing command.
+[05Dec2024 02:58:34.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fnh63o1ojla9]: started parsing
+[05Dec2024 02:58:34.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fnh63o1ojla9]: Consuming argument `sd`
+[05Dec2024 02:58:34.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fnh63o1ojla9]: Finished looking at arguments. Finalizing command.
+[05Dec2024 02:58:34.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18obtoo9wq9ma]: started parsing
+[05Dec2024 02:58:34.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18obtoo9wq9ma]: Consuming argument `s`
+[05Dec2024 02:58:34.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18obtoo9wq9ma]: Finished looking at arguments. Finalizing command.
+[05Dec2024 02:58:35.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ybe5joo06uks]: started parsing
+[05Dec2024 02:58:35.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ybe5joo06uks]: Consuming argument ``
+[05Dec2024 02:58:35.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ybe5joo06uks]: Finished looking at arguments. Finalizing command.
+[05Dec2024 02:58:35.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07wwaihnm0e75]: started parsing
+[05Dec2024 02:58:35.401] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07wwaihnm0e75]: Finished looking at arguments. Finalizing command.
+[05Dec2024 02:58:38.900] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2112ms or 42 ticks
+[05Dec2024 02:59:15.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement ['X' Marks the Spot]
+[05Dec2024 02:59:19.689] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2147ms or 42 ticks
+[05Dec2024 02:59:41.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[05Dec2024 02:59:50.293] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[05Dec2024 03:00:05.586] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2118ms or 42 ticks
+[05Dec2024 03:00:08.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho has made the advancement ['X' Marks the Spot]
+[05Dec2024 03:00:51.500] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2148ms or 42 ticks
+[05Dec2024 03:01:21.365] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[05Dec2024 03:01:43.906] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:01:43.925] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key additional_chests is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.925] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key additional_trapped_chests is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.926] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key dimension_whitelist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.927] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key dimension_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.927] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key modid_dimension_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.928] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key modid_dimension_whitelist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.929] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key loot_table_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.930] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key loot_modid_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.940] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_loot_tables is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.941] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_modids is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.942] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_dimensions is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.943] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_structures is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.946] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_loot_tables is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.947] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_modids is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.948] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_dimensions is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.949] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_structures is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:01:43.952] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:01:46.081] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2076ms or 41 ticks
+[05Dec2024 03:01:46.284] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:01:46.289] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:02:26.731] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
+[05Dec2024 03:02:55.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set the weather to rain]
+[05Dec2024 03:03:12.590] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2176ms or 43 ticks
+[05Dec2024 03:03:30.395] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[05Dec2024 03:03:30.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:03:30.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:03:53.392] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[05Dec2024 03:03:57.855] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: ed6c5568-96fa-38fd-ad29-941150deb41a data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[05Dec2024 03:03:59.378] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: ed6c5568-96fa-38fd-ad29-941150deb41a data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[05Dec2024 03:04:34.369] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
+[05Dec2024 03:04:58.063] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2001ms or 40 ticks
+[05Dec2024 03:05:33.630] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2005ms or 40 ticks
+[05Dec2024 03:05:50.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set the weather to clear]
+[05Dec2024 03:06:03.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement [Bounty Box]
+[05Dec2024 03:06:19.475] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
+[05Dec2024 03:06:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho has made the advancement [Bounty Box]
+[05Dec2024 03:07:05.402] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2106ms or 42 ticks
+[05Dec2024 03:07:39.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Must provide player name.]
+[05Dec2024 03:07:46.914] [Server thread/INFO] [noobanidus.mods.lootr.api.LootrAPI/]: Cleared 3 inventories for play UUID 451f2212-cf2a-365e-88c7-f71e8fb39676
+[05Dec2024 03:07:46.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Cleared stored inventories for misterbartra]
+[05Dec2024 03:07:51.274] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[05Dec2024 03:08:03.767] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[05Dec2024 03:08:15.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2097ms or 41 ticks
+[05Dec2024 03:08:30.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:08:30.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:08:45.703] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2044ms or 40 ticks
+[05Dec2024 03:08:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Must provide player name.]
+[05Dec2024 03:09:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: No stored inventory for misterbartra found.]
+[05Dec2024 03:09:15.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: No stored inventory for emilio__12 found.]
+[05Dec2024 03:09:21.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: No stored inventory for bad_ending2 found.]
+[05Dec2024 03:09:26.482] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2166ms or 43 ticks
+[05Dec2024 03:09:27.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Must provide player UUID.]
+[05Dec2024 03:09:42.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Must provide player UUID.]
+[05Dec2024 03:10:07.281] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks
+[05Dec2024 03:10:53.213] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2160ms or 43 ticks
+[05Dec2024 03:11:28.045] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2230ms or 44 ticks
+[05Dec2024 03:11:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set the weather to clear]
+[05Dec2024 03:11:52.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement [Disme A Dozen]
+[05Dec2024 03:11:52.564] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2156ms or 43 ticks
+[05Dec2024 03:12:12.473] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[05Dec2024 03:12:33.238] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2206ms or 44 ticks
+[05Dec2024 03:13:19.082] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2217ms or 44 ticks
+[05Dec2024 03:13:30.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:13:30.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

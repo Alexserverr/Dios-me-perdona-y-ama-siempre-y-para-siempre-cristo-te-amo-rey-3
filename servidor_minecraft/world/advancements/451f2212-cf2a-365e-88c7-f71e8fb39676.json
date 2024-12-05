@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-05 03:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
@@ -334,6 +340,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-26 03:29:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2024-12-05 03:06:22 +0000"
     },
     "done": true
   },
@@ -615,7 +627,9 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2024-12-05 02:33:21 +0000"
+      "opened_barrel": "2024-12-05 02:33:21 +0000",
+      "opened_shulker": "2024-12-05 03:06:22 +0000",
+      "opened_chest": "2024-12-05 03:00:08 +0000"
     },
     "done": false
   },
@@ -640,6 +654,18 @@
   "regions_unexplored:recipes/ru_main/overgrown_bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-05 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-05 02:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-05 02:51:17 +0000"
     },
     "done": true
   },
@@ -694,6 +720,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-29 01:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-05 02:51:17 +0000"
     },
     "done": true
   },
