@@ -1362,3 +1362,132 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Dec2024 02:02:43.323] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
 [05Dec2024 02:02:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
 [05Dec2024 02:02:46.826] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:03:07.531] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2147ms or 42 ticks
+[05Dec2024 02:03:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:03:09.813] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:03:09.822] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:03:20.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:03:20.372] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:03:20.374] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:03:28.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was shot by Skeleton
+[05Dec2024 02:03:29.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:03:29.673] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:03:29.675] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:03:48.339] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2016ms or 40 ticks
+[05Dec2024 02:03:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:03:54.925] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:03:54.927] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:04:05.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:04:05.819] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:04:05.826] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:04:09.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
+[05Dec2024 02:04:12.223] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2003ms or 40 ticks
+[05Dec2024 02:04:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:04:17.341] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:04:17.344] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:04:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Skeleton Thrasher
+[05Dec2024 02:04:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
+[05Dec2024 02:04:44.476] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:04:47.763] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2193ms or 43 ticks
+[05Dec2024 02:04:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito was shot by Skeleton
+[05Dec2024 02:05:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:05:23.612] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:05:23.613] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:05:28.538] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2190ms or 43 ticks
+[05Dec2024 02:05:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
+[05Dec2024 02:05:28.574] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:05:42.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho has reached the goal [Easy Opening]
+[05Dec2024 02:05:53.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:05:53.124] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:05:53.126] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:06:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:06:01.223] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:06:01.229] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:06:14.450] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2224ms or 44 ticks
+[05Dec2024 02:06:15.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:06:15.475] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:06:15.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:06:15.476] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:06:15.481] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:06:15.481] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:06:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Siamese Skeletons
+[05Dec2024 02:06:38.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
+[05Dec2024 02:06:38.173] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:06:55.241] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
+[05Dec2024 02:07:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:07:15.969] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:07:15.975] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:07:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:07:16.772] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:07:16.775] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:07:19.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:07:19.473] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:07:19.475] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:07:29.611] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2198ms or 43 ticks
+[05Dec2024 02:07:30.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Decaying Zombie
+[05Dec2024 02:07:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:07:36.072] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:07:36.075] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:07:37.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alextremito> [name:"Muerte 21:26:00 11-29-2024", x:499, y:63, z:778, dim:minecraft:overworld]
+[05Dec2024 02:07:54.476] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2080ms or 41 ticks
+[05Dec2024 02:08:15.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by Restless Spirit
+[05Dec2024 02:08:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito was shot by Skeleton
+[05Dec2024 02:08:21.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:08:21.470] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:08:21.473] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:08:23.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:08:23.920] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:08:23.924] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:08:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Nightmare Stalker
+[05Dec2024 02:08:30.195] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2007ms or 40 ticks
+[05Dec2024 02:08:33.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:08:33.521] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:08:33.525] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:09:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Nightmare Stalker
+[05Dec2024 02:09:16.028] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2113ms or 42 ticks
+[05Dec2024 02:09:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:09:16.569] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:09:16.574] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:09:21.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by Zombie
+[05Dec2024 02:09:23.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito was slain by Nightmare Stalker
+[05Dec2024 02:09:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Nightmare Stalker
+[05Dec2024 02:09:29.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:09:29.370] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:09:29.375] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:09:47.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
+[05Dec2024 02:09:47.324] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:10:01.961] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2229ms or 44 ticks
+[05Dec2024 02:10:02.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:10:02.623] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:10:02.625] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:10:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:10:17.522] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:10:17.524] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:10:26.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:10:26.119] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:10:26.124] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:10:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Siamese Skeletons
+[05Dec2024 02:10:37.788] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[05Dec2024 02:10:47.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:10:47.718] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:10:47.723] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:10:56.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Siamese Skeletons
+[05Dec2024 02:11:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito was slain by Baby Skeleton
+[05Dec2024 02:11:06.521] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2402ms or 48 ticks
+[05Dec2024 02:11:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was slain by GoodEnding
+[05Dec2024 02:11:14.115] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:11:31.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:11:31.570] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:11:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:11:31.571] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:11:31.572] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:11:31.573] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:11:36.998] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2097ms or 41 ticks
+[05Dec2024 02:12:02.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was killed by GoodEnding using magic
+[05Dec2024 02:12:02.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito was killed by GoodEnding using magic
+[05Dec2024 02:12:02.527] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:12:02.528] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:12:17.748] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2020ms or 40 ticks
+[05Dec2024 02:12:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:12:43.247] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:12:43.249] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
