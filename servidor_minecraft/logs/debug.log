@@ -21893,3 +21893,84 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Dec2024 03:13:19.082] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2217ms or 44 ticks
 [05Dec2024 03:13:30.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 03:13:30.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:13:59.904] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
+[05Dec2024 03:14:45.440] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2328ms or 46 ticks
+[05Dec2024 03:14:51.317] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:14:51.320] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:14:53.756] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:14:53.758] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:15:09.478] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2298ms or 45 ticks
+[05Dec2024 03:15:18.752] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:15:18.753] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:15:45.024] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2121ms or 42 ticks
+[05Dec2024 03:16:22.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Disconnected
+[05Dec2024 03:16:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[05Dec2024 03:16:22.270] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MisterCacho
+[05Dec2024 03:16:22.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[05Dec2024 03:16:30.892] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2177ms or 43 ticks
+[05Dec2024 03:16:43.535] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:16:43.536] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:16:44.689] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:16:44.690] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:16:48.445] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:16:48.446] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:17:04.197] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:17:04.202] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key additional_chests is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.202] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key additional_trapped_chests is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.203] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key dimension_whitelist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.203] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key dimension_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.204] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key modid_dimension_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.204] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key modid_dimension_whitelist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.205] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key loot_table_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.206] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key loot_modid_blacklist is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.214] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_loot_tables is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.215] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_modids is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.216] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_dimensions is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.216] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key decay_structures is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.219] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_loot_tables is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.220] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_modids is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.220] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_dimensions is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.221] [Thread-0/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: List on key refresh_structures is deemed to need correction. It is null, not a list, or an empty list. Modders, consider defineListAllowEmpty?
+[05Dec2024 03:17:04.223] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:17:04.621] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:17:04.622] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:17:11.702] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2169ms or 43 ticks
+[05Dec2024 03:17:57.591] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2131ms or 42 ticks
+[05Dec2024 03:18:21.405] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2099ms or 41 ticks
+[05Dec2024 03:18:30.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:18:30.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:18:30.460] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[05Dec2024 03:18:38.037] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:18:38.038] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file lootr-common.toml changed, sending notifies
+[05Dec2024 03:18:40.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 03:18:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 03:18:40.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 03:18:40.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Server closed
+[05Dec2024 03:18:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito left the game
+[05Dec2024 03:18:40.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 03:18:41.072] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[05Dec2024 03:18:42.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 03:18:42.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 03:18:42.710] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[05Dec2024 03:18:42.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 03:18:42.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:18:42.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 03:18:42.742] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[05Dec2024 03:18:42.742] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[05Dec2024 03:18:42.758] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[05Dec2024 03:18:42.758] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[05Dec2024 03:18:42.758] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[05Dec2024 03:18:42.759] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[05Dec2024 03:18:42.759] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[05Dec2024 03:18:42.759] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[05Dec2024 03:18:42.759] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[05Dec2024 03:18:42.762] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Dec2024 03:18:42.762] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[05Dec2024 03:18:42.762] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[05Dec2024 03:18:42.763] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[05Dec2024 03:18:42.763] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[05Dec2024 03:18:42.767] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies

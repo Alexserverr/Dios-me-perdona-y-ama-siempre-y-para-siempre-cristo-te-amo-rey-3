@@ -1760,3 +1760,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Dec2024 03:11:52.564] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2156ms or 43 ticks
 [05Dec2024 03:12:33.238] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2206ms or 44 ticks
 [05Dec2024 03:13:19.082] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2217ms or 44 ticks
+[05Dec2024 03:13:59.904] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
+[05Dec2024 03:14:45.440] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2328ms or 46 ticks
+[05Dec2024 03:14:51.317] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:14:53.756] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:15:09.478] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2298ms or 45 ticks
+[05Dec2024 03:15:45.024] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2121ms or 42 ticks
+[05Dec2024 03:16:22.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Disconnected
+[05Dec2024 03:16:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[05Dec2024 03:16:22.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[05Dec2024 03:16:30.892] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2177ms or 43 ticks
+[05Dec2024 03:17:04.197] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[05Dec2024 03:17:11.702] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2169ms or 43 ticks
+[05Dec2024 03:17:57.591] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2131ms or 42 ticks
+[05Dec2024 03:18:21.405] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2099ms or 41 ticks
+[05Dec2024 03:18:40.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 03:18:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 03:18:40.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 03:18:40.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Server closed
+[05Dec2024 03:18:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito left the game
+[05Dec2024 03:18:40.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 03:18:42.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 03:18:42.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 03:18:42.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 03:18:42.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 03:18:42.762] [Server thread/INFO] [Framework/]: Unloading server configs...
