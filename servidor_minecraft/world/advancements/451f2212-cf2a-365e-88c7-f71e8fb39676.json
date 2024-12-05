@@ -236,6 +236,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-26 03:06:10 +0000",
+      "golden_apple": "2024-12-05 02:15:05 +0000",
       "carrot": "2024-12-05 02:06:05 +0000"
     },
     "done": false
@@ -1146,6 +1147,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-05 01:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-05 02:17:24 +0000"
     },
     "done": true
   },
