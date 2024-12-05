@@ -1325,6 +1325,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2024-12-05 02:23:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2024-11-08 17:37:42 +0000"

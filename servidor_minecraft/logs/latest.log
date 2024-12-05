@@ -1577,3 +1577,66 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Dec2024 02:22:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported GoodEnding to Alextremito]
 [05Dec2024 02:22:20.979] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
 [05Dec2024 02:23:06.877] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2108ms or 42 ticks
+[05Dec2024 02:23:11.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported GoodEnding to Alextremito]
+[05Dec2024 02:23:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[05Dec2024 02:23:24.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement [The Imperfect thing]
+[05Dec2024 02:23:52.789] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2144ms or 42 ticks
+[05Dec2024 02:24:22.263] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2182ms or 43 ticks
+[05Dec2024 02:24:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[05Dec2024 02:24:33.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[05Dec2024 02:24:52.282] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2165ms or 43 ticks
+[05Dec2024 02:25:33.071] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
+[05Dec2024 02:26:18.993] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2076ms or 41 ticks
+[05Dec2024 02:26:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[05Dec2024 02:27:04.870] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2057ms or 41 ticks
+[05Dec2024 02:27:39.837] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2105ms or 42 ticks
+[05Dec2024 02:27:48.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[05Dec2024 02:28:04.348] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2054ms or 41 ticks
+[05Dec2024 02:28:45.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2065ms or 41 ticks
+[05Dec2024 02:29:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:29:11.870] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:29:11.873] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:29:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:29:18.472] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:29:18.476] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:29:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:29:26.021] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:29:26.023] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:29:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Ignis
+[05Dec2024 02:29:30.876] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2132ms or 42 ticks
+[05Dec2024 02:29:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:29:33.272] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:29:33.275] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:29:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Ignis
+[05Dec2024 02:29:47.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:29:47.773] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:29:47.777] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:29:55.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding was slain by Ignis
+[05Dec2024 02:30:02.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito went up in flames
+[05Dec2024 02:30:02.979] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:30:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho was burnt to a crisp whilst fighting GoodEnding
+[05Dec2024 02:30:04.974] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:30:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:30:06.592] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[05Dec2024 02:30:06.598] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:30:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported Alextremito to MisterCacho]
+[05Dec2024 02:30:16.788] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2137ms or 42 ticks
+[05Dec2024 02:30:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:30:17.071] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[05Dec2024 02:30:17.076] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[05Dec2024 02:30:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding walked into fire whilst fighting Ignis
+[05Dec2024 02:30:19.026] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[05Dec2024 02:30:22.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Dec2024 02:30:22.069] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[05Dec2024 02:30:22.073] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[05Dec2024 02:30:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: The difficulty has been set to Peaceful]
+[05Dec2024 02:30:57.251] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2282ms or 45 ticks
+[05Dec2024 02:31:21.284] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2344ms or 46 ticks
+[05Dec2024 02:31:56.824] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2250ms or 45 ticks
+[05Dec2024 02:31:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[05Dec2024 02:32:22.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 6.295346277647582,0.0,8.676655416354606
+[05Dec2024 02:32:27.393] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2047ms or 40 ticks
+[05Dec2024 02:32:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement [Barrel Booty]
+[05Dec2024 02:33:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 3 entities to Alextremito]
+[05Dec2024 02:33:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[05Dec2024 02:33:08.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
