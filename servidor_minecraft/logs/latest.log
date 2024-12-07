@@ -738,3 +738,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Dec2024 01:19:09.130] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2131ms or 42 ticks
 [07Dec2024 01:20:00.630] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2141ms or 42 ticks
 [07Dec2024 01:20:04.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding has made the advancement [Stolen Magic]
+[07Dec2024 01:20:26.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2287ms or 45 ticks
+[07Dec2024 01:20:38.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed The Leviathan]
+[07Dec2024 01:20:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[07Dec2024 01:20:56.047] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2115ms or 42 ticks
+[07Dec2024 01:21:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new The Leviathan]
+[07Dec2024 01:21:24.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: The difficulty has been set to Hard]
+[07Dec2024 01:21:39.210] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[07Dec2024 01:21:39.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[07Dec2024 01:21:39.257] [Server thread/WARN] [tombstone/]: The death event of the player elmatidm was canceled by another mod
+[07Dec2024 01:21:39.260] [Server thread/INFO] [tombstone/]: The player elmatidm has successfully been saved
+[07Dec2024 01:21:43.236] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2120ms or 42 ticks
+[07Dec2024 01:21:59.606] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[07Dec2024 01:22:04.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bad_ending2 moved too quickly! -2.08612458816188,-21.0,2.984958737517047
+[07Dec2024 01:22:13.392] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
+[07Dec2024 01:22:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[07Dec2024 01:22:23.695] [Server thread/WARN] [tombstone/]: The death event of the player Bad_ending2 was canceled by another mod
+[07Dec2024 01:22:23.703] [Server thread/INFO] [tombstone/]: The player Bad_ending2 has successfully been saved
+[07Dec2024 01:22:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <matielnarco> REVIVIME CTM
+[07Dec2024 01:22:35.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40319785[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:41427): The server is full!
+[07Dec2024 01:22:35.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40319785[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:41427) lost connection: The server is full!
+[07Dec2024 01:22:35.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 01:22:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco was killed by The Leviathan using magic
+[07Dec2024 01:22:39.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco has made the advancement [Your First Grave]
+[07Dec2024 01:22:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco has made the advancement [The Most Useful Key]
+[07Dec2024 01:22:40.863] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2199ms or 43 ticks
+[07Dec2024 01:22:46.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco has reached the goal [A Fast Comeback]
+[07Dec2024 01:23:10.444] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2309ms or 46 ticks
+[07Dec2024 01:23:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco has reached the goal [Postmortal]
+[07Dec2024 01:23:24.497] [Server thread/INFO] [tombstone/]: The player elmatidm has successfully been saved
+[07Dec2024 01:23:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[07Dec2024 01:23:25.677] [Server thread/WARN] [tombstone/]: The death event of the player elmatidm was canceled by another mod
+[07Dec2024 01:23:25.682] [Server thread/INFO] [tombstone/]: The player elmatidm has successfully been saved
+[07Dec2024 01:23:35.619] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks
+[07Dec2024 01:24:16.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elmatidm lost connection: Disconnected
+[07Dec2024 01:24:16.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco left the game
+[07Dec2024 01:24:16.148] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client matielnarco
+[07Dec2024 01:24:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has completed the challenge [A Multidimensional Predator]
+[07Dec2024 01:24:27.436] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2182ms or 43 ticks
+[07Dec2024 01:24:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement [Stolen Magic]
+[07Dec2024 01:24:57.571] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2144ms or 42 ticks
+[07Dec2024 01:25:08.019] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b2b3d1b
+[07Dec2024 01:25:08.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elmatidm[/127.172.183.101:59977] logged in with entity id 6667 at (231.41978788725686, 67.0, 116.91882230713166)
+[07Dec2024 01:25:08.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco joined the game
+[07Dec2024 01:25:08.110] [Server thread/INFO] [Jade/]: Syncing config to elmatidm (1c9ec675-2a6d-3893-9b41-9eb3026acd3b)
+[07Dec2024 01:25:08.424] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of matielnarco (18)
+[07Dec2024 01:25:08.425] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to matielnarco
+[07Dec2024 01:25:45.148] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 8548ms or 170 ticks
+[07Dec2024 01:25:45.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7018ms or 140 ticks behind
+[07Dec2024 01:25:53.960] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9925, y=24, z=208}
+[07Dec2024 01:25:53.960] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9925, y=26, z=208}
+[07Dec2024 01:25:53.961] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9926, y=24, z=208}
+[07Dec2024 01:25:53.961] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9926, y=26, z=208}
+[07Dec2024 01:25:53.962] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9926, y=24, z=208}
+[07Dec2024 01:25:53.962] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9925, y=24, z=208}
+[07Dec2024 01:25:53.962] [Worker-Main1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (9925, 24, 208)
+[07Dec2024 01:25:53.962] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9926, y=26, z=208}
+[07Dec2024 01:25:53.963] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9925, y=26, z=208}
+[07Dec2024 01:25:53.963] [Worker-Main1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (9925, 26, 208)
+[07Dec2024 01:25:55.145] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9922, y=26, z=215}
+[07Dec2024 01:25:55.145] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9920, y=26, z=215}
+[07Dec2024 01:25:55.146] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9922, y=26, z=216}
+[07Dec2024 01:25:55.146] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9920, y=26, z=216}
+[07Dec2024 01:25:55.146] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9922, y=26, z=216}
+[07Dec2024 01:25:55.146] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9922, y=26, z=215}
+[07Dec2024 01:25:55.148] [Worker-Main1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (9922, 26, 215)
+[07Dec2024 01:25:55.148] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9920, y=26, z=216}
+[07Dec2024 01:25:55.148] [Worker-Main1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=9920, y=26, z=215}
+[07Dec2024 01:25:55.148] [Worker-Main1/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (9920, 26, 215)
+[07Dec2024 01:26:00.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[07Dec2024 01:26:00.551] [Server thread/WARN] [tombstone/]: The death event of the player elmatidm was canceled by another mod
+[07Dec2024 01:26:00.558] [Server thread/INFO] [tombstone/]: The player elmatidm has successfully been saved
+[07Dec2024 01:26:01.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has reached the goal [Postmortal]
+[07Dec2024 01:26:01.224] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[07Dec2024 01:26:02.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[07Dec2024 01:26:02.535] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[07Dec2024 01:26:02.536] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[07Dec2024 01:26:09.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> was killed by magic whilst trying to escape GoodEnding
+[07Dec2024 01:26:10.751] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[07Dec2024 01:26:12.310] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4677ms or 93 ticks
+[07Dec2024 01:26:12.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
+[07Dec2024 01:26:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[07Dec2024 01:26:41.500] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2320ms or 46 ticks
+[07Dec2024 01:26:52.347] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@305d5b05[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:44369): The server is full!
+[07Dec2024 01:26:52.347] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@305d5b05[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:44369) lost connection: The server is full!
+[07Dec2024 01:26:52.393] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 01:26:58.817] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2138ms or 42 ticks
+[07Dec2024 01:27:47.561] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2250ms or 45 ticks
+[07Dec2024 01:28:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[07Dec2024 01:28:00.165] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[07Dec2024 01:28:00.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Alextremito]
+[07Dec2024 01:28:00.190] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[07Dec2024 01:28:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito fell out of the world
+[07Dec2024 01:28:03.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Alextremito]
+[07Dec2024 01:28:03.559] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[07Dec2024 01:28:19.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[07Dec2024 01:28:25.340] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@779ceae7[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:41827): The server is full!
+[07Dec2024 01:28:25.341] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@779ceae7[id=451f2212-cf2a-365e-88c7-f71e8fb39676,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:41827) lost connection: The server is full!
+[07Dec2024 01:28:25.394] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 01:28:28.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 10.512071173581788,0.0,0.06269972918980571
+[07Dec2024 01:28:28.481] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2859ms or 57 ticks
+[07Dec2024 01:29:08.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 4.025318685266967,0.0,9.292152568407587
+[07Dec2024 01:29:12.233] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2192ms or 43 ticks
+[07Dec2024 01:29:37.042] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2307ms or 46 ticks
+[07Dec2024 01:29:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[07Dec2024 01:30:23.958] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2167ms or 43 ticks

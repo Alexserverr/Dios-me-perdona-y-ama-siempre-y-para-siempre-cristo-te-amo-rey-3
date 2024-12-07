@@ -2616,6 +2616,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2024-12-07 01:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-11-18 21:18:00 +0000"
@@ -3363,6 +3369,12 @@
   "morevanillaarmor:recipes/morevanillaarmor/emerald_chestplate": {
     "criteria": {
       "already_crafted": "2024-12-06 23:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-07 01:26:01 +0000"
     },
     "done": true
   },
