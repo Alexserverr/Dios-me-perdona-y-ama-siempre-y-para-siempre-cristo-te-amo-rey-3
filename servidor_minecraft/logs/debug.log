@@ -18472,3 +18472,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Dec2024 01:29:37.042] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2307ms or 46 ticks
 [07Dec2024 01:29:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
 [07Dec2024 01:30:23.958] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2167ms or 43 ticks
+[07Dec2024 01:30:40.883] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2274ms or 45 ticks
+[07Dec2024 01:31:21.606] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[07Dec2024 01:31:21.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:31:21.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:31:21.751] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[07Dec2024 01:31:21.752] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[07Dec2024 01:31:29.076] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2286ms or 45 ticks
+[07Dec2024 01:31:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[07Dec2024 01:32:13.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elmatidm lost connection: Disconnected
+[07Dec2024 01:32:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matielnarco left the game
+[07Dec2024 01:32:13.796] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of matielnarco
+[07Dec2024 01:32:13.796] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client matielnarco
+[07Dec2024 01:32:21.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[07Dec2024 01:32:21.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito left the game
+[07Dec2024 01:32:21.143] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Alextremito
+[07Dec2024 01:32:21.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alextremito
+[07Dec2024 01:32:27.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bad_ending2 lost connection: Disconnected
+[07Dec2024 01:32:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GoodEnding left the game
+[07Dec2024 01:32:27.093] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of GoodEnding
+[07Dec2024 01:32:27.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GoodEnding
+[07Dec2024 01:32:38.855] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2318ms or 46 ticks
+[07Dec2024 01:32:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 01:32:51.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 01:32:51.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 01:32:51.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 lost connection: Server closed
+[07Dec2024 01:32:51.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> left the game
+[07Dec2024 01:32:51.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 01:32:51.328] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[07Dec2024 01:32:52.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 01:32:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 01:32:52.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 01:32:52.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:32:52.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:32:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 01:32:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 01:32:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 01:32:52.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Dec2024 01:32:52.753] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[07Dec2024 01:32:52.753] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[07Dec2024 01:32:52.771] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[07Dec2024 01:32:52.771] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[07Dec2024 01:32:52.772] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[07Dec2024 01:32:52.772] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[07Dec2024 01:32:52.773] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[07Dec2024 01:32:52.773] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[07Dec2024 01:32:52.773] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[07Dec2024 01:32:52.776] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Dec2024 01:32:52.777] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[07Dec2024 01:32:52.777] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[07Dec2024 01:32:52.777] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[07Dec2024 01:32:52.790] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file tombstone-server.toml changed, sending notifies

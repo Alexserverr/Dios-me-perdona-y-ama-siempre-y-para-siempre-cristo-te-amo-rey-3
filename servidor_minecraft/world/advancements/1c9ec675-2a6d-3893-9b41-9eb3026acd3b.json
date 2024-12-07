@@ -1675,6 +1675,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/joshua_sapling_from_joshua_shrub": {
+    "criteria": {
+      "has_joshua_shrub": "2024-12-07 01:26:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-11-25 00:22:11 +0000"
