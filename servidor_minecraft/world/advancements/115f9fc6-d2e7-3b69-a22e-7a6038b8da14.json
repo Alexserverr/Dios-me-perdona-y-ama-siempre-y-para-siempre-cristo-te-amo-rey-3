@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-06 22:31:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-18 21:05:23 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/ru_main/joshua_shrub": {
+    "criteria": {
+      "has_joshua_sapling": "2024-12-07 01:09:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-11-08 16:12:41 +0000"
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-06 22:31:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-08 16:12:38 +0000"
@@ -488,6 +506,12 @@
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-11-08 18:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-07 00:45:03 +0000"
     },
     "done": true
   },
@@ -1032,6 +1056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-07 00:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-11-10 21:27:13 +0000"
@@ -1401,6 +1431,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-11-22 21:36:10 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/morevanillaarmor/emerald_helmet": {
+    "criteria": {
+      "already_crafted": "2024-12-06 23:24:23 +0000"
     },
     "done": true
   },
@@ -2722,6 +2758,12 @@
     },
     "done": true
   },
+  "morevanillaarmor:recipes/morevanillaarmor/emerald_leggings": {
+    "criteria": {
+      "already_crafted": "2024-12-06 23:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-22 19:55:59 +0000"
@@ -2758,6 +2800,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-07 00:01:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-11-10 20:20:04 +0000"
@@ -2779,6 +2827,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-11-25 00:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-06 23:06:51 +0000"
     },
     "done": true
   },
@@ -3066,6 +3120,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-11-18 21:13:31 +0000"
@@ -3129,6 +3189,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-11-08 17:26:43 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/morevanillaarmor/emerald_boots": {
+    "criteria": {
+      "already_crafted": "2024-12-06 23:24:54 +0000"
     },
     "done": true
   },
@@ -3216,6 +3282,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 23:03:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-11-08 18:27:48 +0000"
@@ -3285,6 +3357,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-11-18 21:17:54 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/morevanillaarmor/emerald_chestplate": {
+    "criteria": {
+      "already_crafted": "2024-12-06 23:24:25 +0000"
     },
     "done": true
   },
@@ -4043,6 +4121,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 23:41:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-06 23:02:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-08 16:12:36 +0000"
@@ -4481,6 +4577,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage_rocket": {
+    "criteria": {
+      "enderiophage_rocket": "2024-12-07 00:44:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2024-11-08 17:50:15 +0000"
@@ -4640,6 +4742,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-11-10 18:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-07 00:45:03 +0000"
     },
     "done": true
   },
