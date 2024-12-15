@@ -1142,3 +1142,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 23:10:19.031] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2119ms or 42 ticks
 [15Dec2024 23:11:11.215] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2248ms or 44 ticks
 [15Dec2024 23:11:14.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[15Dec2024 23:11:45.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[15Dec2024 23:11:53.834] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2159ms or 43 ticks
+[15Dec2024 23:12:26.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <<ADMINISTRADOR> EMILIO__12>> lo se
+[15Dec2024 23:12:31.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <<ADMINISTRADOR> EMILIO__12>> :(
+[15Dec2024 23:12:33.353] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2105ms or 42 ticks
+[15Dec2024 23:13:30.015] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2278ms or 45 ticks
+[15Dec2024 23:13:55.417] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2056ms or 41 ticks
+[15Dec2024 23:13:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Kobolediator]
+[15Dec2024 23:14:31.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Timed out
+[15Dec2024 23:14:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[15Dec2024 23:14:31.397] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[15Dec2024 23:14:31.445] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 23:14:52.034] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
+[15Dec2024 23:14:56.003] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c959c6[id=<null>,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:37747) lost connection: Disconnected
+[15Dec2024 23:15:02.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c783275
+[15Dec2024 23:15:02.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MisterBartra[/127.246.176.63:56815] logged in with entity id 17431 at (190.36398429096704, 65.0, 181.00430503827184)
+[15Dec2024 23:15:02.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho joined the game
+[15Dec2024 23:15:02.564] [Server thread/INFO] [Jade/]: Syncing config to MisterBartra (451f2212-cf2a-365e-88c7-f71e8fb39676)
+[15Dec2024 23:15:02.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MisterCacho (18)
+[15Dec2024 23:15:02.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MisterCacho
+[15Dec2024 23:15:22.658] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2272ms or 45 ticks
+[15Dec2024 23:16:18.668] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2168ms or 43 ticks
+[15Dec2024 23:16:44.736] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2087ms or 41 ticks
+[15Dec2024 23:17:44.989] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2336ms or 46 ticks
+[15Dec2024 23:18:11.917] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2350ms or 47 ticks
+[15Dec2024 23:18:16.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set the time to 1000]
+[15Dec2024 23:18:39.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made EMILIO__12 a server operator
+[15Dec2024 23:19:07.070] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2148ms or 42 ticks
+[15Dec2024 23:19:09.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> que facha
+[15Dec2024 23:19:34.041] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2202ms or 44 ticks
+[15Dec2024 23:20:29.175] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2021ms or 40 ticks
+[15Dec2024 23:20:56.136] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[15Dec2024 23:21:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> wither_skeleton
