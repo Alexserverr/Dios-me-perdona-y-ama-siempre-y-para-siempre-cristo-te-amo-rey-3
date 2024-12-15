@@ -869,3 +869,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 21:49:06.071] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
 [15Dec2024 21:49:37.342] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2325ms or 46 ticks
 [15Dec2024 21:50:32.461] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[15Dec2024 21:50:59.515] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2022ms or 40 ticks
+[15Dec2024 21:52:02.322] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2212ms or 44 ticks
+[15Dec2024 21:52:15.746] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[15Dec2024 21:52:26.668] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks
+[15Dec2024 21:52:47.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[15Dec2024 21:52:47.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito left the game
+[15Dec2024 21:52:47.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alextremito
+[15Dec2024 21:53:06.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> donde??
+[15Dec2024 21:53:10.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[15Dec2024 21:53:10.893] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[15Dec2024 21:53:10.895] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[15Dec2024 21:53:15.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> drowned whilst trying to escape Siamese Skeleton
+[15Dec2024 21:53:16.477] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[15Dec2024 21:53:16.930] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2195ms or 43 ticks
+[15Dec2024 21:53:43.953] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2201ms or 44 ticks
+[15Dec2024 21:54:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> donde se ponen??
+[15Dec2024 21:54:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[15Dec2024 21:54:29.192] [Server thread/WARN] [tombstone/]: The death event of the player Lordding was canceled by another mod
+[15Dec2024 21:54:29.193] [Server thread/INFO] [tombstone/]: The player Lordding has successfully been saved
+[15Dec2024 21:54:45.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[15Dec2024 21:54:45.692] [Server thread/WARN] [tombstone/]: The death event of the player Lordding was canceled by another mod
+[15Dec2024 21:54:45.692] [Server thread/INFO] [tombstone/]: The player Lordding has successfully been saved
+[15Dec2024 21:54:46.734] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2393ms or 47 ticks
+[15Dec2024 21:54:50.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding drowned
+[15Dec2024 21:54:50.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has made the advancement [Your First Grave]
+[15Dec2024 21:54:50.864] [Server thread/INFO] [tombstone/]: The player Lordding has successfully been saved
+[15Dec2024 21:54:51.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has made the advancement [The Most Useful Key]
+[15Dec2024 21:54:59.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 lost connection: Disconnected
+[15Dec2024 21:54:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> left the game
+[15Dec2024 21:54:59.343] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client <ADMINISTRADOR> EMILIO__12>
+[15Dec2024 21:55:02.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lordding lost connection: Disconnected
+[15Dec2024 21:55:02.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding left the game
+[15Dec2024 21:55:02.039] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lordding
+[15Dec2024 21:55:11.078] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2176ms or 43 ticks
+[15Dec2024 21:56:08.913] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2043ms or 40 ticks
+[15Dec2024 21:56:36.810] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2003ms or 40 ticks
+[15Dec2024 21:57:35.208] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
+[15Dec2024 21:58:10.237] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2117ms or 42 ticks
+[15Dec2024 21:59:00.339] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6395d52f
+[15Dec2024 21:59:00.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lordding[/127.13.181.188:51265] logged in with entity id 12091 at (50.687088958889376, 180.0, 18.780272723647013)
+[15Dec2024 21:59:00.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding joined the game
+[15Dec2024 21:59:00.380] [Server thread/INFO] [Jade/]: Syncing config to Lordding (654d869d-a3f0-33a9-8370-99024c26ddda)
+[15Dec2024 21:59:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has made the advancement [Mysterious Gift]
+[15Dec2024 21:59:03.450] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lordding (18)
+[15Dec2024 21:59:03.451] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lordding
+[15Dec2024 21:59:03.451] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2179ms or 43 ticks
+[15Dec2024 21:59:16.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@381d65ae
+[15Dec2024 21:59:16.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:32849] logged in with entity id 12152 at (81.26327287323039, 306.0, 137.3764292250909)
+[15Dec2024 21:59:16.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito joined the game
+[15Dec2024 21:59:16.696] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+[15Dec2024 21:59:23.971] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alextremito (18)
+[15Dec2024 21:59:23.971] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alextremito
+[15Dec2024 21:59:54.170] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks
+[15Dec2024 22:00:15.029] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2183ms or 43 ticks
+[15Dec2024 22:00:43.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> si
+[15Dec2024 22:00:48.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has made the advancement [Knowledge of Death]
+[15Dec2024 22:00:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has reached the goal [A Fast Comeback]
