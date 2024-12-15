@@ -845,3 +845,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 21:39:28.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alextremito
 [15Dec2024 21:39:34.963] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2319ms or 46 ticks
 [15Dec2024 21:40:02.038] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2380ms or 47 ticks
+[15Dec2024 21:40:57.187] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2158ms or 43 ticks
+[15Dec2024 21:41:24.128] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[15Dec2024 21:42:26.925] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2222ms or 44 ticks
+[15Dec2024 21:42:51.274] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2002ms or 40 ticks
+[15Dec2024 21:43:53.242] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2326ms or 46 ticks
+[15Dec2024 21:44:23.338] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2129ms or 42 ticks
+[15Dec2024 21:44:47.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a76bf48
+[15Dec2024 21:44:47.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIO__12[/127.170.117.144:57587] logged in with entity id 11573 at (81.15828134797012, 306.0, 134.88472544770505)
+[15Dec2024 21:44:47.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> joined the game
+[15Dec2024 21:44:47.800] [Server thread/INFO] [Jade/]: Syncing config to EMILIO__12 (115f9fc6-d2e7-3b69-a22e-7a6038b8da14)
+[15Dec2024 21:44:56.690] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of <ADMINISTRADOR> EMILIO__12> (18)
+[15Dec2024 21:44:56.690] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to <ADMINISTRADOR> EMILIO__12>
+[15Dec2024 21:45:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alextremito> https://www.youtube.com/watch?v=ccsfRZ35mGU
+[15Dec2024 21:45:15.400] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2065ms or 41 ticks
+[15Dec2024 21:45:50.439] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2032ms or 40 ticks
+[15Dec2024 21:46:10.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[15Dec2024 21:46:10.498] [Server thread/WARN] [tombstone/]: The death event of the player Lordding was canceled by another mod
+[15Dec2024 21:46:10.499] [Server thread/INFO] [tombstone/]: The player Lordding has successfully been saved
+[15Dec2024 21:46:42.718] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2147ms or 42 ticks
+[15Dec2024 21:47:39.308] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2088ms or 41 ticks
+[15Dec2024 21:48:10.025] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2235ms or 44 ticks
+[15Dec2024 21:49:06.071] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2037ms or 40 ticks
+[15Dec2024 21:49:37.342] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2325ms or 46 ticks
+[15Dec2024 21:50:32.461] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks

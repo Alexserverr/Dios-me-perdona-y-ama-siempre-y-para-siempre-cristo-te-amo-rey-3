@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-15 20:51:23 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-15 20:51:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-15 20:51:23 +0000"
     },
     "done": true
   },
@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 20:51:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/magnolia_boat": {
     "criteria": {
       "in_water": "2024-12-15 20:51:56 +0000"
@@ -62,12 +68,6 @@
   "regions_unexplored:recipes/ru_main/eucalyptus_boat": {
     "criteria": {
       "in_water": "2024-12-15 20:51:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 20:51:22 +0000"
     },
     "done": true
   },
@@ -93,6 +93,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-12-15 21:21:59 +0000",
+      "minecraft:desert": "2024-12-15 20:51:23 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/ru_main/cypress_boat": {
     "criteria": {
       "in_water": "2024-12-15 20:51:56 +0000"
@@ -104,13 +111,6 @@
       "in_water": "2024-12-15 20:51:56 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:stony_shore": "2024-12-15 21:21:59 +0000",
-      "minecraft:desert": "2024-12-15 20:51:23 +0000"
-    },
-    "done": false
   },
   "create:root": {
     "criteria": {
@@ -148,12 +148,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-15 20:51:56 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "tropical_river": "2024-12-15 20:52:13 +0000",
@@ -163,6 +157,12 @@
       "baobab_savanna": "2024-12-15 21:22:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-15 20:51:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
