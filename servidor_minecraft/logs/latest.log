@@ -963,3 +963,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 22:09:19.488] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2177ms or 43 ticks
 [15Dec2024 22:10:24.374] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2134ms or 42 ticks
 [15Dec2024 22:10:41.865] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[15Dec2024 22:11:42.991] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2197ms or 43 ticks
+[15Dec2024 22:12:39.810] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2014ms or 40 ticks
+[15Dec2024 22:13:19.944] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2169ms or 43 ticks
+[15Dec2024 22:14:09.065] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2210ms or 44 ticks
+[15Dec2024 22:14:55.416] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[15Dec2024 22:15:53.445] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[15Dec2024 22:16:25.620] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2038ms or 40 ticks
+[15Dec2024 22:17:25.452] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2262ms or 45 ticks
+[15Dec2024 22:18:16.280] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2018ms or 40 ticks
+[15Dec2024 22:18:18.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lordding lost connection: Disconnected
+[15Dec2024 22:18:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding left the game
+[15Dec2024 22:18:18.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lordding
+[15Dec2024 22:18:24.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 lost connection: Disconnected
+[15Dec2024 22:18:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> left the game
+[15Dec2024 22:18:24.891] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client <ADMINISTRADOR> EMILIO__12>
+[15Dec2024 22:18:37.123] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2105ms or 42 ticks
+[15Dec2024 22:19:34.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Survival Mode]
+[15Dec2024 22:19:34.874] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2145ms or 42 ticks
+[15Dec2024 22:19:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium no longer a server operator
+[15Dec2024 22:20:47.001] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2044ms or 40 ticks
