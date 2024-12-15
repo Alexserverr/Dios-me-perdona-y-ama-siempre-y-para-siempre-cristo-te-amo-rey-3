@@ -688,3 +688,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 20:48:18.208] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2194ms or 43 ticks
 [15Dec2024 20:48:45.241] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
 [15Dec2024 20:49:48.075] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2261ms or 45 ticks
+[15Dec2024 20:50:12.329] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2212ms or 44 ticks
+[15Dec2024 20:51:10.192] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2339ms or 46 ticks
+[15Dec2024 20:51:22.648] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41305cef
+[15Dec2024 20:51:22.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lordding[/127.13.181.188:57429] logged in with entity id 1998 at (46.5, 181.0, -17.5)
+[15Dec2024 20:51:22.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding joined the game
+[15Dec2024 20:51:22.765] [Server thread/INFO] [Jade/]: Syncing config to Lordding (654d869d-a3f0-33a9-8370-99024c26ddda)
+[15Dec2024 20:51:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has made the advancement [Christmas]
+[15Dec2024 20:51:25.911] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lordding (18)
+[15Dec2024 20:51:25.911] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lordding
+[15Dec2024 20:51:29.493] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2078ms or 41 ticks
+[15Dec2024 20:51:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported Lordding to Alextremito]
+[15Dec2024 20:52:32.263] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2318ms or 46 ticks
+[15Dec2024 20:52:56.538] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2145ms or 42 ticks
+[15Dec2024 20:53:54.382] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2108ms or 42 ticks
+[15Dec2024 20:54:22.196] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2081ms or 41 ticks
+[15Dec2024 20:55:20.460] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2188ms or 43 ticks
+[15Dec2024 20:55:36.809] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f24e16e
+[15Dec2024 20:55:36.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIO__12[/127.170.117.144:56923] logged in with entity id 2660 at (241.7557751726312, 69.16610926093821, 186.82561802398567)
+[15Dec2024 20:55:36.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> joined the game
+[15Dec2024 20:55:36.908] [Server thread/INFO] [Jade/]: Syncing config to EMILIO__12 (115f9fc6-d2e7-3b69-a22e-7a6038b8da14)
+[15Dec2024 20:55:38.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of <ADMINISTRADOR> EMILIO__12> (18)
+[15Dec2024 20:55:38.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to <ADMINISTRADOR> EMILIO__12>
+[15Dec2024 20:55:50.604] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2198ms or 43 ticks
+[15Dec2024 20:56:42.588] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2314ms or 46 ticks
+[15Dec2024 20:57:12.705] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2114ms or 42 ticks
+[15Dec2024 20:58:04.677] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[15Dec2024 20:58:39.696] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[15Dec2024 20:59:31.885] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2130ms or 42 ticks
