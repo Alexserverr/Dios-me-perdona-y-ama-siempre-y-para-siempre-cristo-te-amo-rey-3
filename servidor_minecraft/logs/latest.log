@@ -804,3 +804,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 21:30:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> poner proteccion a todos los bloques
 [15Dec2024 21:30:23.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> de la isla
 [15Dec2024 21:30:31.670] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2114ms or 42 ticks
+[15Dec2024 21:31:29.532] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2184ms or 43 ticks
+[15Dec2024 21:31:30.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> poner proteccion a todos los bloques de las islas para q nadie los rompa
+[15Dec2024 21:31:43.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ok
+[15Dec2024 21:31:53.887] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2032ms or 40 ticks
+[15Dec2024 21:32:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ./cemd addhand
+[15Dec2024 21:32:55.823] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2339ms or 46 ticks
+[15Dec2024 21:33:25.952] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2144ms or 42 ticks
+[15Dec2024 21:33:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> si
+[15Dec2024 21:33:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> un leon
+[15Dec2024 21:34:18.052] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2175ms or 43 ticks
+[15Dec2024 21:34:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> es un warden
+[15Dec2024 21:34:48.143] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2054ms or 41 ticks
+[15Dec2024 21:35:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> si con e
+[15Dec2024 21:35:40.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lordding lost connection: Disconnected
+[15Dec2024 21:35:40.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding left the game
+[15Dec2024 21:35:40.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lordding
+[15Dec2024 21:35:43.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 lost connection: Disconnected
+[15Dec2024 21:35:43.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> left the game
+[15Dec2024 21:35:43.240] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client <ADMINISTRADOR> EMILIO__12>
+[15Dec2024 21:35:45.322] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2377ms or 47 ticks
+[15Dec2024 21:36:15.231] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2049ms or 40 ticks
+[15Dec2024 21:36:31.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[15Dec2024 21:36:31.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito left the game
+[15Dec2024 21:36:31.341] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alextremito
+[15Dec2024 21:37:07.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2125ms or 42 ticks
+[15Dec2024 21:37:38.142] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65a3caed
+[15Dec2024 21:37:38.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lordding[/127.13.181.188:40375] logged in with entity id 11160 at (79.89458858742861, 305.9375, 134.5088453298695)
+[15Dec2024 21:37:38.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding joined the game
+[15Dec2024 21:37:38.194] [Server thread/INFO] [Jade/]: Syncing config to Lordding (654d869d-a3f0-33a9-8370-99024c26ddda)
+[15Dec2024 21:37:41.162] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lordding (18)
+[15Dec2024 21:37:41.162] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lordding
+[15Dec2024 21:38:04.127] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2065ms or 41 ticks
+[15Dec2024 21:38:34.717] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2172ms or 43 ticks
+[15Dec2024 21:39:22.105] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3dbd6bd0
+[15Dec2024 21:39:22.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexterminium[/127.160.234.31:53197] logged in with entity id 11333 at (81.2589191758612, 306.0, 135.38979953438954)
+[15Dec2024 21:39:22.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito joined the game
+[15Dec2024 21:39:22.165] [Server thread/INFO] [Jade/]: Syncing config to Alexterminium (ed6c5568-96fa-38fd-ad29-941150deb41a)
+[15Dec2024 21:39:28.868] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alextremito (18)
+[15Dec2024 21:39:28.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alextremito
+[15Dec2024 21:39:34.963] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2319ms or 46 ticks
+[15Dec2024 21:40:02.038] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2380ms or 47 ticks
