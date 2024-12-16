@@ -33,3 +33,43 @@
 [16Dec2024 00:10:07.154] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2277ms or 45 ticks
 [16Dec2024 00:11:03.190] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2218ms or 44 ticks
 [16Dec2024 00:11:29.233] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2145ms or 42 ticks
+[16Dec2024 00:12:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> usan /fill verdad?
+[16Dec2024 00:12:25.266] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2062ms or 41 ticks
+[16Dec2024 00:12:51.565] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2221ms or 44 ticks
+[16Dec2024 00:13:47.576] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2192ms or 43 ticks
+[16Dec2024 00:14:13.725] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2201ms or 44 ticks
+[16Dec2024 00:14:21.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> que lagazo cada bloque tiene su animación del rayito xd
+[16Dec2024 00:15:09.770] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[16Dec2024 00:15:25.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Timed out
+[16Dec2024 00:15:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[16Dec2024 00:15:25.949] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[16Dec2024 00:15:35.842] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2115ms or 42 ticks
+[16Dec2024 00:15:38.767] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4631f1d3
+[16Dec2024 00:15:38.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MisterBartra[/127.246.176.63:38875] logged in with entity id 26125 at (261.9915782810494, 65.0, 227.46650278692215)
+[16Dec2024 00:15:38.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho joined the game
+[16Dec2024 00:15:38.849] [Server thread/INFO] [Jade/]: Syncing config to MisterBartra (451f2212-cf2a-365e-88c7-f71e8fb39676)
+[16Dec2024 00:15:39.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MisterCacho (18)
+[16Dec2024 00:15:39.118] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MisterCacho
+[16Dec2024 00:16:08.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Timed out
+[16Dec2024 00:16:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[16Dec2024 00:16:08.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[16Dec2024 00:16:08.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 00:16:29.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@115524cf
+[16Dec2024 00:16:29.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MisterBartra[/127.246.176.63:38569] logged in with entity id 26247 at (243.88801711086768, 66.0, 226.8285992407216)
+[16Dec2024 00:16:29.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho joined the game
+[16Dec2024 00:16:29.847] [Server thread/INFO] [Jade/]: Syncing config to MisterBartra (451f2212-cf2a-365e-88c7-f71e8fb39676)
+[16Dec2024 00:16:29.863] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2012ms or 40 ticks
+[16Dec2024 00:16:30.069] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MisterCacho (18)
+[16Dec2024 00:16:30.070] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MisterCacho
+[16Dec2024 00:16:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[16Dec2024 00:16:57.931] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2217ms or 44 ticks
+[16Dec2024 00:17:45.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> lo grabaras a cuantos fps?
+[16Dec2024 00:17:53.975] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2119ms or 42 ticks
+[16Dec2024 00:18:20.012] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2038ms or 40 ticks
+[16Dec2024 00:19:20.256] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2244ms or 44 ticks
+[16Dec2024 00:19:45.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Timed out
+[16Dec2024 00:19:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[16Dec2024 00:19:45.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[16Dec2024 00:19:47.244] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2307ms or 46 ticks
+[16Dec2024 00:20:42.378] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2204ms or 44 ticks
+[16Dec2024 00:21:09.427] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2207ms or 44 ticks

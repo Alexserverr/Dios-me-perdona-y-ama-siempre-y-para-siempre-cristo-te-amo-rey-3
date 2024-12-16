@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 00:12:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-24 21:17:03 +0000"
@@ -832,6 +838,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 00:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 00:12:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-11-29 00:55:19 +0000"
@@ -1300,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 00:12:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-05 01:42:13 +0000"
@@ -1327,6 +1351,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-11-24 21:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 00:12:58 +0000"
     },
     "done": true
   },
