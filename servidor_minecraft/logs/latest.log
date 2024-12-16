@@ -104,3 +104,58 @@
 [16Dec2024 00:30:44.734] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2187ms or 43 ticks
 [16Dec2024 00:31:39.864] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2173ms or 43 ticks
 [16Dec2024 00:32:06.934] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2249ms or 44 ticks
+[16Dec2024 00:33:02.084] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2130ms or 42 ticks
+[16Dec2024 00:33:29.144] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2185ms or 43 ticks
+[16Dec2024 00:34:24.290] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2048ms or 40 ticks
+[16Dec2024 00:34:51.247] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2135ms or 42 ticks
+[16Dec2024 00:35:34.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has completed the challenge [Was that a Shulker?]
+[16Dec2024 00:35:34.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Ender Guardian]
+[16Dec2024 00:35:46.499] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2120ms or 42 ticks
+[16Dec2024 00:36:09.199] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2184ms or 43 ticks
+[16Dec2024 00:37:06.835] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2215ms or 44 ticks
+[16Dec2024 00:37:25.175] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2198ms or 43 ticks
+[16Dec2024 00:38:17.382] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2063ms or 41 ticks
+[16Dec2024 00:39:14.244] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2060ms or 41 ticks
+[16Dec2024 00:39:50.141] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2081ms or 41 ticks
+[16Dec2024 00:40:35.226] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
+[16Dec2024 00:41:16.177] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2134ms or 42 ticks
+[16Dec2024 00:42:15.974] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2028ms or 40 ticks
+[16Dec2024 00:42:33.511] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2026ms or 40 ticks
+[16Dec2024 00:43:31.555] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2130ms or 42 ticks
+[16Dec2024 00:43:42.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 lost connection: Disconnected
+[16Dec2024 00:43:42.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> left the game
+[16Dec2024 00:43:42.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client <ADMINISTRADOR> EMILIO__12>
+[16Dec2024 00:43:48.156] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2160ms or 43 ticks
+[16Dec2024 00:43:59.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@233eed29
+[16Dec2024 00:43:59.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIO__12[/127.170.117.144:41011] logged in with entity id 28943 at (246.9688350065314, 65.0, 231.3277951710996)
+[16Dec2024 00:43:59.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> joined the game
+[16Dec2024 00:43:59.686] [Server thread/INFO] [Jade/]: Syncing config to EMILIO__12 (115f9fc6-d2e7-3b69-a22e-7a6038b8da14)
+[16Dec2024 00:43:59.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of <ADMINISTRADOR> EMILIO__12> (18)
+[16Dec2024 00:43:59.986] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to <ADMINISTRADOR> EMILIO__12>
+[16Dec2024 00:44:34.344] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2178ms or 43 ticks
+[16Dec2024 00:45:03.963] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2226ms or 44 ticks
+[16Dec2024 00:45:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 3 entities to Alextremito]
+[16Dec2024 00:46:01.845] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2237ms or 44 ticks
+[16Dec2024 00:46:20.033] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2192ms or 43 ticks
+[16Dec2024 00:47:04.569] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2127ms or 42 ticks
+[16Dec2024 00:47:06.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium lost connection: Disconnected
+[16Dec2024 00:47:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito left the game
+[16Dec2024 00:47:06.452] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alextremito
+[16Dec2024 00:47:09.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 lost connection: Disconnected
+[16Dec2024 00:47:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> left the game
+[16Dec2024 00:47:09.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client <ADMINISTRADOR> EMILIO__12>
+[16Dec2024 00:47:11.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lordding lost connection: Disconnected
+[16Dec2024 00:47:11.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding left the game
+[16Dec2024 00:47:11.700] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lordding
+[16Dec2024 00:47:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Dec2024 00:47:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Dec2024 00:47:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Dec2024 00:47:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Dec2024 00:47:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Dec2024 00:47:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Dec2024 00:47:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Dec2024 00:47:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Dec2024 00:47:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2024 00:47:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Dec2024 00:47:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Dec2024 00:47:42.612] [Server thread/INFO] [Framework/]: Unloading server configs...

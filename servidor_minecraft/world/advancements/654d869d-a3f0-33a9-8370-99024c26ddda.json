@@ -338,9 +338,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2024-12-16 00:45:50 +0000",
       "minecraft:husk": "2024-12-15 23:43:11 +0000",
       "minecraft:shulker": "2024-12-15 23:39:44 +0000",
-      "minecraft:cave_spider": "2024-12-16 00:30:07 +0000"
+      "minecraft:cave_spider": "2024-12-16 00:30:07 +0000",
+      "minecraft:zombie": "2024-12-16 00:31:53 +0000"
     },
     "done": false
   },
