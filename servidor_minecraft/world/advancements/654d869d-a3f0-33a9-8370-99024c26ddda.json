@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-16 00:02:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/ru_main/joshua_shrub": {
     "criteria": {
       "has_joshua_sapling": "2024-12-15 23:39:16 +0000"
