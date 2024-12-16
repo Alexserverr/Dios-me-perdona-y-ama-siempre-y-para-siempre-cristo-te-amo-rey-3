@@ -73,3 +73,34 @@
 [16Dec2024 00:19:47.244] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2307ms or 46 ticks
 [16Dec2024 00:20:42.378] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2204ms or 44 ticks
 [16Dec2024 00:21:09.427] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2207ms or 44 ticks
+[16Dec2024 00:22:04.613] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
+[16Dec2024 00:22:31.534] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2141ms or 42 ticks
+[16Dec2024 00:23:13.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2db8ba8
+[16Dec2024 00:23:13.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MisterBartra[/127.246.176.63:32983] logged in with entity id 26908 at (261.00747133553966, 70.8325248706162, 233.76040483761852)
+[16Dec2024 00:23:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho joined the game
+[16Dec2024 00:23:13.772] [Server thread/INFO] [Jade/]: Syncing config to MisterBartra (451f2212-cf2a-365e-88c7-f71e8fb39676)
+[16Dec2024 00:23:13.967] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MisterCacho (18)
+[16Dec2024 00:23:13.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MisterCacho
+[16Dec2024 00:23:26.676] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2062ms or 41 ticks
+[16Dec2024 00:23:53.745] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2116ms or 42 ticks
+[16Dec2024 00:24:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> equisde?
+[16Dec2024 00:24:48.886] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2110ms or 42 ticks
+[16Dec2024 00:24:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> esperalo y verás
+[16Dec2024 00:25:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported 4 entities to Alextremito]
+[16Dec2024 00:25:15.963] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2210ms or 44 ticks
+[16Dec2024 00:26:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> bueno si, pueden hacer la toma uds crweo
+[16Dec2024 00:26:11.066] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks
+[16Dec2024 00:26:38.153] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2257ms or 45 ticks
+[16Dec2024 00:27:26.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Husk]
+[16Dec2024 00:27:33.261] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2150ms or 43 ticks
+[16Dec2024 00:28:00.351] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2178ms or 43 ticks
+[16Dec2024 00:28:50.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MisterCacho> buenas noches
+[16Dec2024 00:28:52.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MisterBartra lost connection: Disconnected
+[16Dec2024 00:28:52.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterCacho left the game
+[16Dec2024 00:28:52.700] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MisterCacho
+[16Dec2024 00:28:55.504] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2045ms or 40 ticks
+[16Dec2024 00:29:22.539] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2179ms or 43 ticks
+[16Dec2024 00:30:17.661] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2124ms or 42 ticks
+[16Dec2024 00:30:44.734] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2187ms or 43 ticks
+[16Dec2024 00:31:39.864] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2173ms or 43 ticks
+[16Dec2024 00:32:06.934] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2249ms or 44 ticks
