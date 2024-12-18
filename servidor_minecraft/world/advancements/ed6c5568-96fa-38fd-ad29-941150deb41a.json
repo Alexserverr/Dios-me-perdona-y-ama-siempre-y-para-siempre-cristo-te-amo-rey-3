@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-18 22:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2024-11-25 00:43:28 +0000"
@@ -1549,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-18 22:37:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "dry_bushland": "2024-11-08 14:02:18 +0000",
@@ -1958,6 +1970,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-10 01:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-18 22:37:21 +0000"
     },
     "done": true
   },
@@ -3728,6 +3746,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_chestplate": "2024-11-08 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-18 22:37:21 +0000"
     },
     "done": true
   },
