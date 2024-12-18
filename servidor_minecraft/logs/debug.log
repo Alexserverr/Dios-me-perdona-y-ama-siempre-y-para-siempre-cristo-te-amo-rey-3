@@ -11070,3 +11070,424 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 22:17:54.231] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2081ms or 41 ticks
 [18Dec2024 22:18:34.526] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2215ms or 44 ticks
 [18Dec2024 22:19:10.309] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2060ms or 41 ticks
+[18Dec2024 22:19:46.085] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2293ms or 45 ticks
+[18Dec2024 22:20:08.189] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2356ms or 47 ticks
+[18Dec2024 22:20:23.397] [IO-Worker-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-11
+[18Dec2024 22:20:23.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:20:23.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:20:35.268] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2206ms or 44 ticks
+[18Dec2024 22:21:06.761] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[18Dec2024 22:21:46.812] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2220ms or 44 ticks
+[18Dec2024 22:22:02.948] [IO-Worker-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-12
+[18Dec2024 22:22:18.092] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:22:18.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:22:18.111] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:22:18.152] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:22:18.201] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:22:18.251] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:22:18.301] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:22:18.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:22:18.401] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:22:18.451] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:22:18.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:22:18.548] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:22:18.597] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:22:18.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:22:18.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:22:18.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:22:18.798] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:22:18.863] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:22:18.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:22:18.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:22:19.006] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:22:19.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:22:19.099] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:22:19.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:22:19.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:22:19.256] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:22:19.306] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:22:19.356] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:22:19.406] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:22:19.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:22:19.506] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:22:19.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:22:19.599] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:22:19.652] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:22:19.707] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:22:22.531] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
+[18Dec2024 22:22:28.799] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e47e20b[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:41053) lost connection: Disconnected
+[18Dec2024 22:22:31.428] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:22:31.545] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:22:31.559] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:22:31.571] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:22:31.583] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:22:31.594] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:22:31.606] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:22:31.621] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:22:31.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:22:31.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:22:31.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:22:31.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:22:31.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:22:31.896] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:22:31.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:22:31.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:22:32.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:22:32.097] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:22:32.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:22:32.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:22:32.248] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:22:32.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:22:32.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:22:32.396] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:22:32.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:22:32.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:22:32.550] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:22:32.603] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:22:32.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:22:32.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:22:32.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:22:32.798] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:22:32.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:22:32.904] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:22:32.950] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:22:49.293] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks
+[18Dec2024 22:22:50.397] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@444ecd7b[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:59239) lost connection: Disconnected
+[18Dec2024 22:23:06.409] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:23:06.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:23:06.505] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:23:06.548] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:23:06.603] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:23:06.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:23:06.698] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:23:06.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:23:07.214] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:23:07.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:23:07.246] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:23:07.259] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:23:07.275] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:23:07.287] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:23:07.299] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:23:07.311] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:23:07.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:23:07.342] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:23:07.359] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:23:07.374] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:23:07.396] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:23:07.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:23:07.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:23:07.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:23:07.597] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:23:07.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:23:07.697] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:23:07.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:23:07.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:23:07.849] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:23:07.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:23:07.952] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:23:08.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:23:08.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:23:08.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:23:11.879] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2162ms or 43 ticks
+[18Dec2024 22:23:25.345] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7aeddcb1[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:57945) lost connection: Disconnected
+[18Dec2024 22:23:30.557] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:23:30.598] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:23:30.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:23:30.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:23:30.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:23:30.803] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:23:30.848] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:23:30.897] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:23:30.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:23:30.999] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:23:31.047] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:23:31.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:23:31.146] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:23:31.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:23:31.248] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:23:31.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:23:31.347] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:23:31.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:23:31.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:23:31.497] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:23:31.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:23:31.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:23:31.649] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:23:31.695] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:23:31.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:23:31.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:23:31.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:23:31.899] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:23:31.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:23:31.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:23:32.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:23:32.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:23:32.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:23:32.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:23:32.251] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:23:47.860] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2213ms or 44 ticks
+[18Dec2024 22:23:49.498] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d1eb962[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:53667) lost connection: Disconnected
+[18Dec2024 22:24:08.299] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-13
+[18Dec2024 22:24:23.638] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2105ms or 42 ticks
+[18Dec2024 22:24:59.540] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2039ms or 40 ticks
+[18Dec2024 22:25:23.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:25:23.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:25:23.488] [IO-Worker-9/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-14
+[18Dec2024 22:25:40.026] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2342ms or 46 ticks
+[18Dec2024 22:26:01.842] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2456ms or 49 ticks
+[18Dec2024 22:26:24.426] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2084ms or 41 ticks
+[18Dec2024 22:27:00.411] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2213ms or 44 ticks
+[18Dec2024 22:27:14.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[18Dec2024 22:27:15.628] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2052ms or 41 ticks
+[18Dec2024 22:27:31.484] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2038ms or 40 ticks
+[18Dec2024 22:27:33.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18Dec2024 22:27:52.859] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2157ms or 43 ticks
+[18Dec2024 22:28:28.378] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2013ms or 40 ticks
+[18Dec2024 22:28:50.321] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2102ms or 42 ticks
+[18Dec2024 22:29:17.495] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[18Dec2024 22:29:35.501] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2149ms or 42 ticks
+[18Dec2024 22:30:07.135] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2101ms or 42 ticks
+[18Dec2024 22:30:24.869] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2125ms or 42 ticks
+[18Dec2024 22:30:27.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:30:27.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:30:42.760] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2142ms or 42 ticks
+[18Dec2024 22:30:59.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 4.835264624745946,4.859943110408636,7.5900932991037
+[18Dec2024 22:31:14.282] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2145ms or 42 ticks
+[18Dec2024 22:31:26.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cw56szx4gu1j]: started parsing
+[18Dec2024 22:31:26.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cw56szx4gu1j]: Consuming argument ``
+[18Dec2024 22:31:27.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1js00et2o6fq4]: started parsing
+[18Dec2024 22:31:27.171] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1js00et2o6fq4]: Consuming argument `1`
+[18Dec2024 22:31:27.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1js00et2o6fq4]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:27.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [014d4mk6haxas]: started parsing
+[18Dec2024 22:31:27.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [014d4mk6haxas]: Consuming argument `1`
+[18Dec2024 22:31:27.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [014d4mk6haxas]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:27.232] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/Dios-me-perdona-y-ama-siempre-y-para-siempre-cristo-te-amo-rey-3/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23246!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[18Dec2024 22:31:32.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vb1lkkh0i18p]: started parsing
+[18Dec2024 22:31:32.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vb1lkkh0i18p]: Consuming argument `1`
+[18Dec2024 22:31:32.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vb1lkkh0i18p]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:32.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1vtfe3ylqgk]: started parsing
+[18Dec2024 22:31:32.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1vtfe3ylqgk]: Consuming argument `1`
+[18Dec2024 22:31:32.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1vtfe3ylqgk]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:32.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fj15aeof1dr]: started parsing
+[18Dec2024 22:31:32.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fj15aeof1dr]: Consuming argument `1`
+[18Dec2024 22:31:32.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05fj15aeof1dr]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:34.519] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cpn2tejtte2h]: started parsing
+[18Dec2024 22:31:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cpn2tejtte2h]: Consuming argument `1`
+[18Dec2024 22:31:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cpn2tejtte2h]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vmrsgc3o28h]: started parsing
+[18Dec2024 22:31:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vmrsgc3o28h]: Consuming argument `1`
+[18Dec2024 22:31:34.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vmrsgc3o28h]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:34.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15pc4iwratuiu]: started parsing
+[18Dec2024 22:31:34.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15pc4iwratuiu]: Consuming argument `1`
+[18Dec2024 22:31:34.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15pc4iwratuiu]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:41.588] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2029ms or 40 ticks
+[18Dec2024 22:31:50.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u75xqmvmrmjf]: started parsing
+[18Dec2024 22:31:50.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u75xqmvmrmjf]: Consuming argument `1`
+[18Dec2024 22:31:50.152] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u75xqmvmrmjf]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:50.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i8vdiuwe9y11]: started parsing
+[18Dec2024 22:31:50.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i8vdiuwe9y11]: Consuming argument `1`
+[18Dec2024 22:31:50.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i8vdiuwe9y11]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:50.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0op4jum9564u0]: started parsing
+[18Dec2024 22:31:50.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0op4jum9564u0]: Consuming argument `1`
+[18Dec2024 22:31:50.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0op4jum9564u0]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:52.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12y3c13sjldyn]: started parsing
+[18Dec2024 22:31:52.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12y3c13sjldyn]: Consuming argument `1`
+[18Dec2024 22:31:52.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12y3c13sjldyn]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:52.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jb26k4agt15i]: started parsing
+[18Dec2024 22:31:52.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jb26k4agt15i]: Consuming argument `1`
+[18Dec2024 22:31:52.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jb26k4agt15i]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:52.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a8bx4rqym1vv]: started parsing
+[18Dec2024 22:31:52.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a8bx4rqym1vv]: Consuming argument `1`
+[18Dec2024 22:31:52.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a8bx4rqym1vv]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:56.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwzpgor3ud2q]: started parsing
+[18Dec2024 22:31:56.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwzpgor3ud2q]: Consuming argument `1`
+[18Dec2024 22:31:56.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fwzpgor3ud2q]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:56.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ncyahhwohgxe]: started parsing
+[18Dec2024 22:31:56.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ncyahhwohgxe]: Consuming argument `1`
+[18Dec2024 22:31:56.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ncyahhwohgxe]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:31:56.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r8lgeycuyxhk]: started parsing
+[18Dec2024 22:31:56.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r8lgeycuyxhk]: Consuming argument `1`
+[18Dec2024 22:31:56.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r8lgeycuyxhk]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:32:00.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qfwimlzndh0d]: started parsing
+[18Dec2024 22:32:00.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qfwimlzndh0d]: Consuming argument `1`
+[18Dec2024 22:32:00.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qfwimlzndh0d]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:32:00.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h48p6iurult5]: started parsing
+[18Dec2024 22:32:00.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h48p6iurult5]: Consuming argument `1`
+[18Dec2024 22:32:00.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h48p6iurult5]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:32:00.753] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggncuu5hv79r]: started parsing
+[18Dec2024 22:32:00.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggncuu5hv79r]: Consuming argument `1`
+[18Dec2024 22:32:00.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggncuu5hv79r]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:32:07.262] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2316ms or 46 ticks
+[18Dec2024 22:32:38.729] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2268ms or 45 ticks
+[18Dec2024 22:33:10.164] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2158ms or 43 ticks
+[18Dec2024 22:33:18.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wobz9krt96pf]: started parsing
+[18Dec2024 22:33:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wobz9krt96pf]: Consuming argument `1`
+[18Dec2024 22:33:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wobz9krt96pf]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:33:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g23m89p96tmj]: started parsing
+[18Dec2024 22:33:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g23m89p96tmj]: Consuming argument `1`
+[18Dec2024 22:33:18.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g23m89p96tmj]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:33:19.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aapof8oippr]: started parsing
+[18Dec2024 22:33:19.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aapof8oippr]: Consuming argument `1`
+[18Dec2024 22:33:19.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aapof8oippr]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:33:26.590] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2057ms or 41 ticks
+[18Dec2024 22:33:59.356] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2163ms or 43 ticks
+[18Dec2024 22:34:14.910] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2031ms or 40 ticks
+[18Dec2024 22:34:27.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:34:27.654] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:34:27.698] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:34:27.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:34:27.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:34:27.848] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:34:27.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:34:27.951] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:34:28.005] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:34:28.045] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:34:28.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:34:28.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:34:28.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:34:28.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:34:28.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:34:28.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:34:28.397] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:34:28.452] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:34:28.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:34:28.546] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:34:28.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:34:28.648] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:34:28.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:34:28.749] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:34:28.802] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:34:28.849] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:34:28.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:34:28.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:34:29.003] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:34:29.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:34:29.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:34:29.145] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:34:29.197] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:34:29.245] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:34:29.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:34:31.673] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2131ms or 42 ticks
+[18Dec2024 22:34:46.598] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e391c8a[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:55427) lost connection: Disconnected
+[18Dec2024 22:34:56.936] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2231ms or 44 ticks
+[18Dec2024 22:35:17.763] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:35:17.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:35:17.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:35:17.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:35:17.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:35:17.945] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:35:17.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:35:18.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:35:18.095] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:35:18.145] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:35:18.200] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:35:18.248] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:35:18.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:35:18.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:35:18.397] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:35:18.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:35:18.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109avw2mcz8ua]: started parsing
+[18Dec2024 22:35:18.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109avw2mcz8ua]: Consuming argument `1`
+[18Dec2024 22:35:18.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [109avw2mcz8ua]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:35:18.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09vnue52235pj]: started parsing
+[18Dec2024 22:35:18.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09vnue52235pj]: Consuming argument `1`
+[18Dec2024 22:35:18.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09vnue52235pj]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:35:18.501] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:35:18.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:35:18.599] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:35:18.649] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:35:18.698] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:35:18.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cw6bqu6vzmzd]: started parsing
+[18Dec2024 22:35:18.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cw6bqu6vzmzd]: Consuming argument `1`
+[18Dec2024 22:35:18.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cw6bqu6vzmzd]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:35:18.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:35:18.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:35:18.849] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:35:18.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:35:18.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:35:18.995] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:35:19.045] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:35:19.097] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:35:19.145] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:35:19.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:35:19.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:35:19.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:35:19.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:35:19.400] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:35:24.166] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[18Dec2024 22:35:27.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:35:27.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:35:36.794] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e186adf[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:35409) lost connection: Disconnected
+[18Dec2024 22:35:52.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Etapalotl]
+[18Dec2024 22:36:00.234] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2245ms or 44 ticks
+[18Dec2024 22:36:36.053] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2152ms or 43 ticks
+[18Dec2024 22:36:50.988] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[18Dec2024 22:36:50.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Dec2024 22:36:51.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Dec2024 22:36:51.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Dec2024 22:36:51.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Dec2024 22:36:51.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Dec2024 22:36:51.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Dec2024 22:36:51.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[18Dec2024 22:36:51.345] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[18Dec2024 22:36:51.397] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[18Dec2024 22:36:51.446] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[18Dec2024 22:36:51.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[18Dec2024 22:36:51.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[18Dec2024 22:36:51.597] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[18Dec2024 22:36:51.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[18Dec2024 22:36:51.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[18Dec2024 22:36:51.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[18Dec2024 22:36:51.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 16
+[18Dec2024 22:36:51.846] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[18Dec2024 22:36:51.897] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[18Dec2024 22:36:51.948] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[18Dec2024 22:36:51.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[18Dec2024 22:36:52.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[18Dec2024 22:36:52.097] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-flags.toml' to 'fml:handshake' sequence 22
+[18Dec2024 22:36:52.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[18Dec2024 22:36:52.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config waterframes-server.toml' to 'fml:handshake' sequence 24
+[18Dec2024 22:36:52.254] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 25
+[18Dec2024 22:36:52.298] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fakename-server.toml' to 'fml:handshake' sequence 26
+[18Dec2024 22:36:52.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[18Dec2024 22:36:52.395] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 28
+[18Dec2024 22:36:52.448] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 29
+[18Dec2024 22:36:52.501] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[18Dec2024 22:36:52.548] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[18Dec2024 22:36:52.601] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-common.toml' to 'fml:handshake' sequence 32
+[18Dec2024 22:36:52.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config yawp-region-defaults.toml' to 'fml:handshake' sequence 33
+[18Dec2024 22:37:07.504] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2001ms or 40 ticks
+[18Dec2024 22:37:09.945] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@683fa254[id=<null>,name=RafaRafaelinio,properties={},legacy=false] (/127.246.176.63:50321) lost connection: Disconnected
+[18Dec2024 22:37:43.036] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2399ms or 47 ticks
+[18Dec2024 22:37:54.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dqgdug80uq6h]: started parsing
+[18Dec2024 22:37:54.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dqgdug80uq6h]: Consuming argument `1`
+[18Dec2024 22:37:54.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dqgdug80uq6h]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:37:54.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08dn3kliy3in4]: started parsing
+[18Dec2024 22:37:54.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08dn3kliy3in4]: Consuming argument `1`
+[18Dec2024 22:37:54.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08dn3kliy3in4]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:37:55.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1reag4tdnhkzj]: started parsing
+[18Dec2024 22:37:55.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1reag4tdnhkzj]: Consuming argument `1`
+[18Dec2024 22:37:55.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1reag4tdnhkzj]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:00.962] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2127ms or 42 ticks
+[18Dec2024 22:38:03.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13l6rbmtovsi7]: started parsing
+[18Dec2024 22:38:03.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13l6rbmtovsi7]: Consuming argument `1`
+[18Dec2024 22:38:03.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13l6rbmtovsi7]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:03.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17iyozkz5hl11]: started parsing
+[18Dec2024 22:38:03.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17iyozkz5hl11]: Consuming argument `1`
+[18Dec2024 22:38:03.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17iyozkz5hl11]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:03.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wjcteuf2o3z]: started parsing
+[18Dec2024 22:38:03.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wjcteuf2o3z]: Consuming argument `1`
+[18Dec2024 22:38:03.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19wjcteuf2o3z]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:06.993] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-15
+[18Dec2024 22:38:12.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixupz9zutawj]: started parsing
+[18Dec2024 22:38:12.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixupz9zutawj]: Consuming argument `1`
+[18Dec2024 22:38:12.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixupz9zutawj]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:12.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0olndyu8i33am]: started parsing
+[18Dec2024 22:38:12.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0olndyu8i33am]: Consuming argument `1`
+[18Dec2024 22:38:12.161] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0olndyu8i33am]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:12.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q0zjnmskg1v9]: started parsing
+[18Dec2024 22:38:12.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q0zjnmskg1v9]: Consuming argument `1`
+[18Dec2024 22:38:12.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q0zjnmskg1v9]: Finished looking at arguments. Finalizing command.
+[18Dec2024 22:38:32.722] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2142ms or 42 ticks
+[18Dec2024 22:38:38.359] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[18Dec2024 22:39:08.367] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2200ms or 44 ticks
