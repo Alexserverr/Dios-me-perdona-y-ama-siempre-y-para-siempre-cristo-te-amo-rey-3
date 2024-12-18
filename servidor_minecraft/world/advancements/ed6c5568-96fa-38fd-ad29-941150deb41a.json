@@ -1387,6 +1387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-18 02:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-11-09 21:19:02 +0000"
@@ -2453,6 +2459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-18 02:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-11-09 02:32:28 +0000"
@@ -2462,6 +2474,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-11-15 04:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-18 02:48:18 +0000"
     },
     "done": true
   },
@@ -3240,6 +3258,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-18 21:16:39 +0000",
       "minecraft:spider": "2024-11-30 02:00:48 +0000",
+      "minecraft:piglin_brute": "2024-12-18 02:42:44 +0000",
       "minecraft:creeper": "2024-11-30 02:02:09 +0000",
       "minecraft:shulker": "2024-12-16 00:44:09 +0000",
       "minecraft:enderman": "2024-11-30 02:05:35 +0000",
@@ -4698,6 +4717,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-12 16:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-18 02:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-18 02:48:18 +0000"
     },
     "done": true
   },
