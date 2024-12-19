@@ -16,7 +16,7 @@ convert_wooden_chests = true
 #whether or not the entire forge:chests/trapped tag should be added to the conversion list for structures (if they are backed by RandomizableContainerBlockEntity
 convert_trapped_chests = true
 #lootr will automatically log all unresolved tables (i.e., for containers that have a loot table associated with them but, for whatever reason, the lookup for this table returns empty). setting this option to true additionally informs players when they open containers.
-report_unresolved_tables = true
+report_unresolved_tables = false
 #a list of additional chests that should be converted (in the format of ["modid:name", "modid:other_name"], must be a tile entity instance of RandomizableContainerBlockEntity)
 additional_chests = []
 #a list of additional trapped chests that should be converted (in the format of ["modid:name", "modid:other_name"], must be a tile entity instance of RandomizableContainerBlockEntity)
@@ -36,7 +36,7 @@ loot_table_blacklist = []
 #list of modids whose loot tables shouldn't be converted (in the format of ["modid", "other_modid"])
 loot_modid_blacklist = []
 #prevent the destruction of Lootr chests except while sneaking in creative mode
-disable_break = true
+disable_break = false
 #allow the destruction of Lootr chests regardless. overrides `disable_break`
 enable_break = false
 #disregard chests and chunks that are outside of the world border; enable this option if you are using a world border and are suffering consistent TPS issues; if you change the world border, you will need to restart your client

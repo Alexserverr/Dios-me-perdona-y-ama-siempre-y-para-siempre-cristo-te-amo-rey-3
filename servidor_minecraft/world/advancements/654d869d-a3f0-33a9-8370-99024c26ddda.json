@@ -292,6 +292,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "scorching_caves": "2024-12-19 01:59:04 +0000",
       "tropical_river": "2024-12-15 20:52:13 +0000",
       "joshua_desert": "2024-12-15 20:51:32 +0000",
       "chalk_cliffs": "2024-12-15 21:22:00 +0000",
@@ -1097,6 +1098,12 @@
       "has_iron": "2024-12-18 02:40:25 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2024-12-19 01:59:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
