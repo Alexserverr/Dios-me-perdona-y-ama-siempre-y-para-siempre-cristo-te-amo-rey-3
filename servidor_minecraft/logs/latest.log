@@ -761,3 +761,144 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 21:08:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has reached the goal [A Fast Comeback]
 [19Dec2024 21:08:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
 [19Dec2024 21:09:46.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.246.176.63:57767 lost connection: Disconnected
+[19Dec2024 21:14:02.707] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c6c66f6[id=<null>,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:50773) lost connection: Disconnected
+[19Dec2024 21:14:41.097] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50d51fca[id=<null>,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:46641) lost connection: Disconnected
+[19Dec2024 21:15:47.654] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dfc2bb0[id=<null>,name=MisterBartra,properties={},legacy=false] (/127.246.176.63:58191) lost connection: Disconnected
+[19Dec2024 21:17:20.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:17:20.123] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[19Dec2024 21:17:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed <ADMINISTRADOR> EMILIO__12>]
+[19Dec2024 21:17:20.125] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[19Dec2024 21:17:27.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:17:27.971] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:17:27.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed ali_xddd777]
+[19Dec2024 21:17:27.972] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:22:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Acquire Hardware]
+[19Dec2024 21:27:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has made the advancement [Farland Security]
+[19Dec2024 21:28:47.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:28:47.702] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[19Dec2024 21:28:47.720] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[19Dec2024 21:28:52.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:28:52.189] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:28:52.202] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:29:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:29:11.691] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[19Dec2024 21:29:11.704] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[19Dec2024 21:29:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:29:24.392] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:29:24.403] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:29:29.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed Farseer]
+[19Dec2024 21:30:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has made the advancement [Chompy]
+[19Dec2024 21:32:10.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has made the advancement [Rigged from the Start]
+[19Dec2024 21:33:32.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:33:32.944] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:33:32.955] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:34:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Magma Cube]
+[19Dec2024 21:34:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Monster Hunter]
+[19Dec2024 21:35:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimic Octopus]
+[19Dec2024 21:35:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimic Octopus]
+[19Dec2024 21:35:21.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:23.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:23.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:23.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:24.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:24.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:35:31.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:36:06.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:36:16.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:36:19.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:36:19.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:36:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:09.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:09.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:11.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:11.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:39:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:39:21.541] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:39:21.553] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:39:29.905] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46c41aea
+[19Dec2024 21:39:29.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lordding[/127.30.136.5:52027] logged in with entity id 11908 at (174.69999998807907, 63.0, 240.30000001192093)
+[19Dec2024 21:39:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marihuanitaunivalluna joined the game
+[19Dec2024 21:39:29.961] [Server thread/INFO] [Jade/]: Syncing config to Lordding (654d869d-a3f0-33a9-8370-99024c26ddda)
+[19Dec2024 21:39:32.362] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marihuanitaunivalluna (18)
+[19Dec2024 21:39:32.362] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marihuanitaunivalluna
+[19Dec2024 21:41:31.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:41:31.645] [Server thread/WARN] [tombstone/]: The death event of the player Lordding was canceled by another mod
+[19Dec2024 21:41:31.670] [Server thread/INFO] [tombstone/]: The player Lordding has successfully been saved
+[19Dec2024 21:42:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marihuanitaunivalluna was blown up by Creeper
+[19Dec2024 21:42:48.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported marihuanitaunivalluna to Alextremito]
+[19Dec2024 21:43:08.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lordding lost connection: Disconnected
+[19Dec2024 21:43:08.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marihuanitaunivalluna left the game
+[19Dec2024 21:43:08.610] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marihuanitaunivalluna
+[19Dec2024 21:43:37.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Summoned new Mimicube]
+[19Dec2024 21:44:27.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:36.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:44:56.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:44:56.294] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:44:56.306] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:45:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:45:11.892] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[19Dec2024 21:45:11.903] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[19Dec2024 21:45:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:45:13.341] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:45:13.354] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:45:33.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:45:33.040] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:45:33.052] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:45:41.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:45:41.290] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[19Dec2024 21:45:41.310] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[19Dec2024 21:48:43.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:44.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Mimicube]
+[19Dec2024 21:48:59.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:48:59.441] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:48:59.453] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved

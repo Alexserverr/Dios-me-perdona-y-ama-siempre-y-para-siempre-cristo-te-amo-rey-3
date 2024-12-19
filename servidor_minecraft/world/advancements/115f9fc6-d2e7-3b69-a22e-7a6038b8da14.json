@@ -2203,6 +2203,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-19 21:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-18 19:56:26 +0000"
@@ -2398,6 +2404,12 @@
   "regions_unexplored:recipes/ru_main/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2024-11-08 17:24:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/farseer": {
+    "criteria": {
+      "killed_by": "2024-12-19 21:27:51 +0000"
     },
     "done": true
   },
@@ -2990,6 +3002,12 @@
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-11-24 21:48:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-19 21:32:10 +0000"
     },
     "done": true
   },
@@ -3977,6 +3995,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-11-18 21:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-19 21:30:58 +0000"
     },
     "done": true
   },
