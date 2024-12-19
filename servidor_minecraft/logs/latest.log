@@ -740,3 +740,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 21:00:50.752] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
 [19Dec2024 21:00:50.753] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
 [19Dec2024 21:00:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:04:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:04:04.410] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:04:04.411] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:04:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:04:46.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Applied effect Poison to ali_xddd777]
+[19Dec2024 21:04:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Applied effect Poison to ali_xddd777]
+[19Dec2024 21:05:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Cover Me with Diamonds]
+[19Dec2024 21:07:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Applied effect Stun to ali_xddd777]
+[19Dec2024 21:08:03.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:08:43.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:08:43.650] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:08:43.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed ali_xddd777]
+[19Dec2024 21:08:43.651] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:08:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 was squashed by a falling anvil
+[19Dec2024 21:08:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Your First Grave]
+[19Dec2024 21:08:45.770] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:08:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [The Most Useful Key]
+[19Dec2024 21:08:53.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Knowledge of Death]
+[19Dec2024 21:08:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has reached the goal [A Fast Comeback]
+[19Dec2024 21:08:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:09:46.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.246.176.63:57767 lost connection: Disconnected

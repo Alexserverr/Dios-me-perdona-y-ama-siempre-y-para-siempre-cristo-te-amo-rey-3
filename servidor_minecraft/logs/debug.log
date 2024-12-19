@@ -15339,3 +15339,189 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 21:00:50.752] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
 [19Dec2024 21:00:50.753] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
 [19Dec2024 21:00:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:01:20.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ibb2r1sw2z8b]: started parsing
+[19Dec2024 21:01:20.470] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ibb2r1sw2z8b]: Consuming argument `air`
+[19Dec2024 21:01:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ibb2r1sw2z8b]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1tzfcmr777r]: started parsing
+[19Dec2024 21:01:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1tzfcmr777r]: Consuming argument `air`
+[19Dec2024 21:01:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1tzfcmr777r]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:20.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e4dtay7o5epm]: started parsing
+[19Dec2024 21:01:20.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e4dtay7o5epm]: Consuming argument `1`
+[19Dec2024 21:01:20.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e4dtay7o5epm]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:20.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1125indej5s9h]: started parsing
+[19Dec2024 21:01:20.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1125indej5s9h]: Consuming argument `1`
+[19Dec2024 21:01:20.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1125indej5s9h]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:21.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ojqm2z7oci9b]: started parsing
+[19Dec2024 21:01:21.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ojqm2z7oci9b]: Consuming argument `1`
+[19Dec2024 21:01:21.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ojqm2z7oci9b]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:29.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 21:01:29.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 21:01:41.729] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gyzaxxxxh3rt]: started parsing
+[19Dec2024 21:01:41.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gyzaxxxxh3rt]: Consuming argument `1`
+[19Dec2024 21:01:41.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gyzaxxxxh3rt]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:41.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056282mgbmmjp]: started parsing
+[19Dec2024 21:01:41.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056282mgbmmjp]: Consuming argument `1`
+[19Dec2024 21:01:41.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [056282mgbmmjp]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:42.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hwmhm6izaeqc]: started parsing
+[19Dec2024 21:01:42.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hwmhm6izaeqc]: Consuming argument `air`
+[19Dec2024 21:01:42.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hwmhm6izaeqc]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:42.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01uqjgqkhwgk5]: started parsing
+[19Dec2024 21:01:42.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01uqjgqkhwgk5]: Consuming argument `air`
+[19Dec2024 21:01:42.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01uqjgqkhwgk5]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:01:43.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0onrd397xoae0]: started parsing
+[19Dec2024 21:01:43.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0onrd397xoae0]: Consuming argument `air`
+[19Dec2024 21:01:43.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0onrd397xoae0]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:02:37.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jq934fq0q6pu]: started parsing
+[19Dec2024 21:02:37.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jq934fq0q6pu]: Consuming argument `air`
+[19Dec2024 21:02:37.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jq934fq0q6pu]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:02:37.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j1hijv8fma9i]: started parsing
+[19Dec2024 21:02:37.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j1hijv8fma9i]: Consuming argument `air`
+[19Dec2024 21:02:37.100] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j1hijv8fma9i]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:02:37.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zwzdm6d12n8h]: started parsing
+[19Dec2024 21:02:37.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zwzdm6d12n8h]: Consuming argument `1`
+[19Dec2024 21:02:37.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zwzdm6d12n8h]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:02:37.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1va0p0lq4lodj]: started parsing
+[19Dec2024 21:02:37.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1va0p0lq4lodj]: Consuming argument `1`
+[19Dec2024 21:02:37.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1va0p0lq4lodj]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:02:38.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fyrytdbvxncv]: started parsing
+[19Dec2024 21:02:38.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fyrytdbvxncv]: Consuming argument `1`
+[19Dec2024 21:02:38.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fyrytdbvxncv]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:02:38.303] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[19Dec2024 21:03:13.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vuq9qx424nc8]: started parsing
+[19Dec2024 21:03:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vuq9qx424nc8]: Consuming argument `1`
+[19Dec2024 21:03:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vuq9qx424nc8]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:03:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqmtehsf6979]: started parsing
+[19Dec2024 21:03:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqmtehsf6979]: Consuming argument `1`
+[19Dec2024 21:03:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqmtehsf6979]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:03:14.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [019yb9ut6ke3p]: started parsing
+[19Dec2024 21:03:14.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [019yb9ut6ke3p]: Consuming argument `air`
+[19Dec2024 21:03:14.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [019yb9ut6ke3p]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:03:14.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xo4r9skz0z9u]: started parsing
+[19Dec2024 21:03:14.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xo4r9skz0z9u]: Consuming argument `air`
+[19Dec2024 21:03:14.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xo4r9skz0z9u]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:03:23.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lvqbuj3cxv50]: started parsing
+[19Dec2024 21:03:23.075] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lvqbuj3cxv50]: Consuming argument `air`
+[19Dec2024 21:03:23.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lvqbuj3cxv50]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:04:04.410] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:04:04.411] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:04:16.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lngxwgpwbcl9]: started parsing
+[19Dec2024 21:04:16.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lngxwgpwbcl9]: Consuming argument `air`
+[19Dec2024 21:04:16.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lngxwgpwbcl9]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:16.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0969wr8hm3w9z]: started parsing
+[19Dec2024 21:04:16.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0969wr8hm3w9z]: Consuming argument `air`
+[19Dec2024 21:04:16.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0969wr8hm3w9z]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:16.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00jejljrlf027]: started parsing
+[19Dec2024 21:04:16.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00jejljrlf027]: Consuming argument `1`
+[19Dec2024 21:04:16.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00jejljrlf027]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:16.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tc6cqqzvp8fo]: started parsing
+[19Dec2024 21:04:16.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tc6cqqzvp8fo]: Consuming argument `1`
+[19Dec2024 21:04:16.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tc6cqqzvp8fo]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:17.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079nky50f9jlz]: started parsing
+[19Dec2024 21:04:17.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079nky50f9jlz]: Consuming argument `air`
+[19Dec2024 21:04:17.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [079nky50f9jlz]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:17.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c85qt4mg7fm9]: started parsing
+[19Dec2024 21:04:17.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c85qt4mg7fm9]: Consuming argument `air`
+[19Dec2024 21:04:17.007] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c85qt4mg7fm9]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:17.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r7dk9u0otwoy]: started parsing
+[19Dec2024 21:04:17.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r7dk9u0otwoy]: Consuming argument `1`
+[19Dec2024 21:04:17.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r7dk9u0otwoy]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:17.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mqxbjtn8000o]: started parsing
+[19Dec2024 21:04:17.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mqxbjtn8000o]: Consuming argument `1`
+[19Dec2024 21:04:17.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mqxbjtn8000o]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:04:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:04:46.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Applied effect Poison to ali_xddd777]
+[19Dec2024 21:04:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Applied effect Poison to ali_xddd777]
+[19Dec2024 21:05:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Cover Me with Diamonds]
+[19Dec2024 21:06:04.098] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[19Dec2024 21:06:29.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 21:06:29.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 21:07:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Applied effect Stun to ali_xddd777]
+[19Dec2024 21:07:43.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14bokixoy47ah]: started parsing
+[19Dec2024 21:07:43.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14bokixoy47ah]: Consuming argument `air`
+[19Dec2024 21:07:43.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14bokixoy47ah]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:07:43.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hzvp906e1c5s]: started parsing
+[19Dec2024 21:07:43.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hzvp906e1c5s]: Consuming argument `air`
+[19Dec2024 21:07:43.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hzvp906e1c5s]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:07:44.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [035nu7kcp33w0]: started parsing
+[19Dec2024 21:07:44.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [035nu7kcp33w0]: Consuming argument `1`
+[19Dec2024 21:07:44.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [035nu7kcp33w0]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:07:44.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02aedg2d4lis0]: started parsing
+[19Dec2024 21:07:44.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02aedg2d4lis0]: Consuming argument `1`
+[19Dec2024 21:07:44.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02aedg2d4lis0]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:07:45.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ktyv7qt3k13n]: started parsing
+[19Dec2024 21:07:45.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ktyv7qt3k13n]: Consuming argument `1`
+[19Dec2024 21:07:45.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ktyv7qt3k13n]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:00.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0upu9u41io8dq]: started parsing
+[19Dec2024 21:08:00.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0upu9u41io8dq]: Consuming argument `1`
+[19Dec2024 21:08:00.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0upu9u41io8dq]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:00.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jtwb2pjxzjdy]: started parsing
+[19Dec2024 21:08:00.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jtwb2pjxzjdy]: Consuming argument `1`
+[19Dec2024 21:08:00.712] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jtwb2pjxzjdy]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:03.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:08:14.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14cnyoueavroe]: started parsing
+[19Dec2024 21:08:14.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14cnyoueavroe]: Consuming argument `1`
+[19Dec2024 21:08:14.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14cnyoueavroe]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:14.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q3ty5h8ctij9]: started parsing
+[19Dec2024 21:08:14.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q3ty5h8ctij9]: Consuming argument `1`
+[19Dec2024 21:08:14.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q3ty5h8ctij9]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:15.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dq26gvv29xd4]: started parsing
+[19Dec2024 21:08:15.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dq26gvv29xd4]: Consuming argument ``
+[19Dec2024 21:08:37.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19po76e9q0aa3]: started parsing
+[19Dec2024 21:08:37.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19po76e9q0aa3]: Consuming argument ``
+[19Dec2024 21:08:37.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ar47ln2ajy5n]: started parsing
+[19Dec2024 21:08:37.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ar47ln2ajy5n]: Consuming argument `a`
+[19Dec2024 21:08:39.325] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vvdhi0vlb5wn]: started parsing
+[19Dec2024 21:08:39.325] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vvdhi0vlb5wn]: Consuming argument `ai`
+[19Dec2024 21:08:39.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfehd9nyjr42]: started parsing
+[19Dec2024 21:08:39.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfehd9nyjr42]: Consuming argument `aiu`
+[19Dec2024 21:08:40.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l0ubvrj3l44j]: started parsing
+[19Dec2024 21:08:40.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l0ubvrj3l44j]: Consuming argument `ai`
+[19Dec2024 21:08:40.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f6w7ox9ovplf]: started parsing
+[19Dec2024 21:08:40.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f6w7ox9ovplf]: Consuming argument `air`
+[19Dec2024 21:08:40.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f6w7ox9ovplf]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:42.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145ufh6gwo600]: started parsing
+[19Dec2024 21:08:42.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145ufh6gwo600]: Consuming argument `air`
+[19Dec2024 21:08:42.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [145ufh6gwo600]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:42.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [196eztfhnx2m0]: started parsing
+[19Dec2024 21:08:42.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [196eztfhnx2m0]: Consuming argument `air`
+[19Dec2024 21:08:42.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [196eztfhnx2m0]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:42.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la3ajr8vlcp7]: started parsing
+[19Dec2024 21:08:42.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la3ajr8vlcp7]: Consuming argument `air`
+[19Dec2024 21:08:42.720] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la3ajr8vlcp7]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:43.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:08:43.650] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:08:43.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Killed ali_xddd777]
+[19Dec2024 21:08:43.651] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:08:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 was squashed by a falling anvil
+[19Dec2024 21:08:45.756] [Server thread/DEBUG] [tombstone/]: A new grave of the player ali_xddd333 was created at position [x:245, y:70, z:255, dim:minecraft:overworld]
+[19Dec2024 21:08:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Your First Grave]
+[19Dec2024 21:08:45.770] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:08:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [The Most Useful Key]
+[19Dec2024 21:08:53.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Knowledge of Death]
+[19Dec2024 21:08:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has reached the goal [A Fast Comeback]
+[19Dec2024 21:08:55.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vypptje7qpi6]: started parsing
+[19Dec2024 21:08:55.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vypptje7qpi6]: Consuming argument `air`
+[19Dec2024 21:08:55.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vypptje7qpi6]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:55.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08wjn23fg4msr]: started parsing
+[19Dec2024 21:08:55.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08wjn23fg4msr]: Consuming argument `air`
+[19Dec2024 21:08:55.452] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08wjn23fg4msr]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:08:59.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:09:19.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qr0qdcvilql]: started parsing
+[19Dec2024 21:09:19.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qr0qdcvilql]: Consuming argument `air`
+[19Dec2024 21:09:19.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qr0qdcvilql]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:09:19.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ocs6rouk2329]: started parsing
+[19Dec2024 21:09:19.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ocs6rouk2329]: Consuming argument `air`
+[19Dec2024 21:09:19.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ocs6rouk2329]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:09:22.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y5met4azj8bd]: started parsing
+[19Dec2024 21:09:22.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y5met4azj8bd]: Consuming argument `1`
+[19Dec2024 21:09:22.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y5met4azj8bd]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:09:22.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iwdr22wdu4lb]: started parsing
+[19Dec2024 21:09:22.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iwdr22wdu4lb]: Consuming argument `1`
+[19Dec2024 21:09:22.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iwdr22wdu4lb]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:09:22.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p2wrr44xn50a]: started parsing
+[19Dec2024 21:09:22.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p2wrr44xn50a]: Consuming argument `1`
+[19Dec2024 21:09:22.563] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p2wrr44xn50a]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:09:27.617] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[19Dec2024 21:09:34.002] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ali_xddd777: {disabled=false, disconnected=true, uuid=06650764-cb94-3ca9-ad44-76945e5941e3, name=ali_xddd333, group=null}
+[19Dec2024 21:09:46.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.246.176.63:57767 lost connection: Disconnected
