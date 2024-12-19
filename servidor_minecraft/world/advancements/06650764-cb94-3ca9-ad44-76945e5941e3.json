@@ -1,4 +1,98 @@
 {
+  "lootr:social": {
+    "criteria": {
+      "opened_shulker": "2024-12-19 20:43:11 +0000",
+      "opened_chest": "2024-12-19 20:50:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-19 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-19 20:21:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-19 20:21:23 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-19 20:21:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-19 20:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2024-12-19 20:33:37 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-19 20:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-19 20:33:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 20:21:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "joshua_desert": "2024-12-19 20:33:55 +0000",
+      "saguaro_desert": "2024-12-19 20:32:13 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-19 20:25:34 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2024-12-19 20:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-12-19 20:28:07 +0000",
+      "minecraft:desert": "2024-12-19 20:21:23 +0000",
+      "minecraft:plains": "2024-12-19 20:24:28 +0000"
+    },
+    "done": false
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2024-12-19 20:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-19 20:25:34 +0000"
@@ -17,21 +111,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "auto": "2024-12-19 20:21:23 +0000"
+      "has_lots_of_items": "2024-12-19 20:44:12 +0000"
     },
     "done": true
   },
-  "lootr:root": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "always_true": "2024-12-19 20:21:22 +0000"
+      "has_shulker_shell": "2024-12-19 20:44:12 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "lootr:1shulker": {
     "criteria": {
-      "custom_test_name": "2024-12-19 20:21:22 +0000"
+      "opened_shulker": "2024-12-19 20:43:11 +0000"
     },
     "done": true
   },
@@ -41,27 +135,16 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "regions_unexplored:pioneer": {
     "criteria": {
-      "WDA": "2024-12-19 20:21:22 +0000"
+      "joshua_desert": "2024-12-19 20:33:55 +0000",
+      "saguaro_desert": "2024-12-19 20:32:13 +0000"
     },
-    "done": true
+    "done": false
   },
-  "regions_unexplored:parent": {
+  "lootr:1chest": {
     "criteria": {
-      "load_in_world": "2024-12-19 20:21:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 20:21:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
-    "criteria": {
-      "has_wheat": "2024-12-19 20:25:34 +0000"
+      "opened_chest": "2024-12-19 20:50:19 +0000"
     },
     "done": true
   },
@@ -70,13 +153,6 @@
       "has_wheat": "2024-12-19 20:25:34 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:desert": "2024-12-19 20:21:23 +0000",
-      "minecraft:plains": "2024-12-19 20:24:28 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3120
 }

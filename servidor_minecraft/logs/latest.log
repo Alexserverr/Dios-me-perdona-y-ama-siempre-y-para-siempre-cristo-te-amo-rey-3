@@ -694,3 +694,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 20:26:14.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alexterminium a server operator
 [19Dec2024 20:26:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported Alextremito to ali_xddd333]
 [19Dec2024 20:29:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported Alextremito to ali_xddd333]
+[19Dec2024 20:33:13.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Spectator Mode]
+[19Dec2024 20:33:16.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[19Dec2024 20:34:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 has made the advancement [Remote Getaway]
+[19Dec2024 20:35:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PERU> .
+[19Dec2024 20:35:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PERU> .
+[19Dec2024 20:39:02.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ali_xddd333 lost connection: Disconnected
+[19Dec2024 20:39:02.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 left the game
+[19Dec2024 20:39:02.056] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ali_xddd777
+[19Dec2024 20:39:42.005] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@619a50d8
+[19Dec2024 20:39:42.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ali_xddd333[/127.222.55.69:36419] logged in with entity id 4094 at (231.56149828647034, 55.0, 183.74205663298702)
+[19Dec2024 20:39:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 joined the game
+[19Dec2024 20:39:42.083] [Server thread/INFO] [Jade/]: Syncing config to ali_xddd333 (06650764-cb94-3ca9-ad44-76945e5941e3)
+[19Dec2024 20:39:42.523] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ali_xddd777 (18)
+[19Dec2024 20:39:42.524] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ali_xddd777
+[19Dec2024 20:40:19.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported Alextremito to ali_xddd777]
+[19Dec2024 20:41:33.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Spectator Mode]
+[19Dec2024 20:41:38.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set own game mode to Creative Mode]
+[19Dec2024 20:42:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 20:42:04.103] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 20:42:04.124] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 20:42:11.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 20:42:21.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 20:42:21.095] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 20:42:21.109] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 20:42:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has made the advancement [Bounty Box]
+[19Dec2024 20:43:11.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Bounty Box]
+[19Dec2024 20:44:01.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Blast Protection Not Included]
+[19Dec2024 20:45:04.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [From The Shadows]
+[19Dec2024 20:45:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alextremito has made the advancement [Blast Protection Not Included]
+[19Dec2024 20:45:33.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Set <ADMINISTRADOR> EMILIO__12>'s game mode to Survival Mode]
+[19Dec2024 20:46:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ADMINISTRADOR> EMILIO__12> has made the advancement [Cover Me with Diamonds]
+[19Dec2024 20:49:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 20:50:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement ['X' Marks the Spot]
+[19Dec2024 20:51:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported <ADMINISTRADOR> EMILIO__12> to Alextremito]
+[19Dec2024 20:54:08.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported <ADMINISTRADOR> EMILIO__12> to Alextremito]
+[19Dec2024 20:55:43.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexterminium moved too quickly! 0.1184016333411364,-10.531546555149895,0.0
+[19Dec2024 20:57:28.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported <ADMINISTRADOR> EMILIO__12> to Alextremito]
+[19Dec2024 20:57:32.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported <ADMINISTRADOR> EMILIO__12> to Alextremito]
+[19Dec2024 20:57:47.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIO__12 moved too quickly! 0.00323094701209925,-11.141611616128856,1.9899325916462374
+[19Dec2024 20:57:57.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported <ADMINISTRADOR> EMILIO__12> to Alextremito]
+[19Dec2024 21:00:46.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd777 has made the advancement [Enter Sandman]
+[19Dec2024 21:00:48.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]
+[19Dec2024 21:00:50.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Dec2024 21:00:50.752] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[19Dec2024 21:00:50.753] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[19Dec2024 21:00:52.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alextremito: Teleported ali_xddd777 to Alextremito]

@@ -2297,6 +2297,12 @@
     },
     "done": true
   },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2024-12-19 20:45:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-11-29 02:02:53 +0000"
