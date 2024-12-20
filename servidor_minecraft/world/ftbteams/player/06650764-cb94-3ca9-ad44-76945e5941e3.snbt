@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "ali_xddd333"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FFA859"
+		"ftbteams:color": "#59FFEB"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

@@ -13,7 +13,7 @@ smallerMineExplosion = false
 #Should mines explode if broken while in Creative mode?
 mineExplodesWhenInCreative = true
 #Set this to false if you want mines to not break blocks when they explode.
-mineExplosionsBreakBlocks = false
+mineExplosionsBreakBlocks = true
 #From how many blocks away can a laser block connect to another laser block?
 #Range: > 0
 laserBlockRange = 5
@@ -38,7 +38,7 @@ retinalScannerFace = true
 enable_team_ownership = false
 #Set this to true to disable sending the message that SecurityCraft shows when a player joins.
 #Note, that this stops showing the message for every player, even those that want to see them.
-disable_thanks_message = true
+disable_thanks_message = false
 #Set this to true if you want players wearing a different player's skull to be able to trick their retinal scanners and scanner doors into activating.
 trick_scanners_with_player_heads = false
 #Set the amount of damage the taser inflicts onto the mobs it hits. Default is half a heart.

@@ -71,7 +71,7 @@
 		#Changes if players in Survival mode can use displays
 		usableInSurvivalMode = true
 		#Changes if any player can use displays, otherwise only admins can use it
-		usableForAnyone = false
+		usableForAnyone = true
 
 		#Whitelist configuration: please stop bugging me with this :(
 		[waterframes.permissions.whitelist]
