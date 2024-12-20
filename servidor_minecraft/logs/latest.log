@@ -908,3 +908,143 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 22:37:44.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [20Dec2024 22:37:44.180] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
 [20Dec2024 22:37:44.185] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[20Dec2024 22:37:50.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/546, l='ServerLevel[world]', x=948.51, y=82.00, z=885.70] died, message: 'Villager was slain by Zombie'
+[20Dec2024 22:37:53.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:37:53.528] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:37:53.535] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:37:54.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/552, l='ServerLevel[world]', x=934.60, y=80.25, z=901.70] died, message: 'Villager was slain by Zombie'
+[20Dec2024 22:38:00.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Drunken Villager'/4389, l='ServerLevel[world]', x=926.26, y=51.12, z=879.42] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:38:03.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 was slain by Drunken Villager
+[20Dec2024 22:38:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was slain by Drunken Villager
+[20Dec2024 22:38:07.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Drunken Villager'/4139, l='ServerLevel[world]', x=926.32, y=50.94, z=879.36] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:38:09.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/561, l='ServerLevel[world]', x=936.30, y=83.50, z=907.70] died, message: 'Villager was slain by Zombie Villager'
+[20Dec2024 22:38:18.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:38:18.979] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 22:38:18.984] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:39:04.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [Suit Up]
+[20Dec2024 22:39:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:39:05.487] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 22:39:05.502] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:39:06.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/4172, l='ServerLevel[world]', x=927.57, y=52.37, z=874.70] died: Drunken Villager was blown up by EMILIO__12
+[20Dec2024 22:39:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was blown up by EMILIO__12
+[20Dec2024 22:39:06.239] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:39:20.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Drunken Villager'/4015, l='ServerLevel[world]', x=924.65, y=50.11, z=873.80] died: Drunken Villager was slain by Alexterminium
+[20Dec2024 22:39:22.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 has made the advancement [A Strange Grave Dust]
+[20Dec2024 22:39:32.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Drunken Villager'/4575, l='ServerLevel[world]', x=926.02, y=50.07, z=872.75] died: Drunken Villager was slain by Alexterminium
+[20Dec2024 22:39:33.639] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Drunken Villager'/4609, l='ServerLevel[world]', x=926.06, y=51.98, z=874.01] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:39:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:39:46.527] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[20Dec2024 22:39:46.529] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[20Dec2024 22:39:46.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/4749, l='ServerLevel[world]', x=922.19, y=50.00, z=863.54] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:40:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 has made the advancement [Ambush]
+[20Dec2024 22:40:59.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/4861, l='ServerLevel[world]', x=923.54, y=50.00, z=862.29] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:41:03.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/4916, l='ServerLevel[world]', x=924.31, y=50.00, z=863.51] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:41:06.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/5025, l='ServerLevel[world]', x=923.70, y=50.00, z=863.64] died: Drunken Villager was slain by EMILIO__12
+[20Dec2024 22:41:08.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ali_xddd333 lost connection: Timed out
+[20Dec2024 22:41:08.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 left the game
+[20Dec2024 22:41:08.677] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ali_xddd333
+[20Dec2024 22:41:31.782] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a2ccf2b
+[20Dec2024 22:41:31.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ali_xddd333[/127.8.99.222:39579] logged in with entity id 5152 at (942.8532079536501, 86.0, 884.8751819004813)
+[20Dec2024 22:41:31.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 joined the game
+[20Dec2024 22:41:31.848] [Server thread/INFO] [Jade/]: Syncing config to ali_xddd333 (06650764-cb94-3ca9-ad44-76945e5941e3)
+[20Dec2024 22:41:32.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ali_xddd333 (18)
+[20Dec2024 22:41:32.097] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ali_xddd333
+[20Dec2024 22:44:11.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ali_xddd333 lost connection: Disconnected
+[20Dec2024 22:44:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 left the game
+[20Dec2024 22:44:11.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ali_xddd333
+[20Dec2024 22:44:24.585] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@429a59e7
+[20Dec2024 22:44:24.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ali_xddd333[/127.8.99.222:54799] logged in with entity id 5649 at (940.3000000119209, 83.5, 885.6999999880791)
+[20Dec2024 22:44:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 joined the game
+[20Dec2024 22:44:24.676] [Server thread/INFO] [Jade/]: Syncing config to ali_xddd333 (06650764-cb94-3ca9-ad44-76945e5941e3)
+[20Dec2024 22:44:24.682] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
+[20Dec2024 22:44:25.133] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ali_xddd333 (18)
+[20Dec2024 22:44:25.134] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ali_xddd333
+[20Dec2024 22:45:22.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/554, l='ServerLevel[world]', x=936.97, y=83.25, z=905.52] died, message: 'Villager burned to death'
+[20Dec2024 22:45:36.496] [Worker-Main3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 22:45:36.497] [Worker-Main3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 22:46:02.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/549, l='ServerLevel[world]', x=933.01, y=82.19, z=897.50] died, message: 'Librarian went up in flames'
+[20Dec2024 22:47:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 has made the advancement [Best Friends Forever]
+[20Dec2024 22:47:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:47:17.924] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[20Dec2024 22:47:17.932] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[20Dec2024 22:47:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium has made the advancement [Chompy]
+[20Dec2024 22:47:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 has made the advancement [Chompy]
+[20Dec2024 22:48:47.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ali_xddd333 lost connection: Disconnected
+[20Dec2024 22:48:47.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 left the game
+[20Dec2024 22:48:47.029] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ali_xddd333
+[20Dec2024 22:49:03.031] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b1809d8
+[20Dec2024 22:49:03.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ali_xddd333[/127.8.99.222:41787] logged in with entity id 9514 at (839.5865384526616, 61.04753662192688, 944.132354558391)
+[20Dec2024 22:49:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 joined the game
+[20Dec2024 22:49:03.108] [Server thread/INFO] [Jade/]: Syncing config to ali_xddd333 (06650764-cb94-3ca9-ad44-76945e5941e3)
+[20Dec2024 22:49:03.460] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ali_xddd333 (18)
+[20Dec2024 22:49:03.461] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ali_xddd333
+[20Dec2024 22:49:51.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 22:50:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:50:31.611] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[20Dec2024 22:50:31.611] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[20Dec2024 22:52:27.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ali_xddd333 lost connection: Disconnected
+[20Dec2024 22:52:27.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 left the game
+[20Dec2024 22:52:27.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ali_xddd333
+[20Dec2024 22:52:51.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19fefa0e
+[20Dec2024 22:52:51.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ali_xddd333[/127.8.99.222:55727] logged in with entity id 11621 at (744.3070224275148, 72.00133597911214, 859.7844866810013)
+[20Dec2024 22:52:51.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 joined the game
+[20Dec2024 22:52:51.602] [Server thread/INFO] [Jade/]: Syncing config to ali_xddd333 (06650764-cb94-3ca9-ad44-76945e5941e3)
+[20Dec2024 22:52:52.316] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ali_xddd333 (18)
+[20Dec2024 22:52:52.317] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ali_xddd333
+[20Dec2024 22:53:25.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium has made the advancement [Ambush]
+[20Dec2024 22:53:32.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [Ambush]
+[20Dec2024 22:53:32.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [Voluntary Exile]
+[20Dec2024 22:53:32.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra has made the advancement [Monster Hunter]
+[20Dec2024 22:53:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:53:46.228] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:53:46.237] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:54:28.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:54:28.080] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 22:54:28.087] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:54:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:54:35.879] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:54:35.890] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:54:50.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was slain by Vindicator
+[20Dec2024 22:54:55.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5744, l='ServerLevel[world]', x=759.48, y=68.11, z=830.23] died, message: 'Weaponsmith was slain by Vindicator'
+[20Dec2024 22:54:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:54:56.376] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:54:56.380] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:54:57.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was slain by Vindicator
+[20Dec2024 22:55:13.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was slain by Vindicator
+[20Dec2024 22:55:25.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:55:25.680] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 22:55:25.690] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:55:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:55:26.331] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:55:26.340] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:55:32.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was slain by Vindicator
+[20Dec2024 22:55:41.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:55:41.826] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 22:55:41.845] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:55:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was slain by Vindicator
+[20Dec2024 22:56:06.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:56:06.432] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[20Dec2024 22:56:06.440] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[20Dec2024 22:56:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:56:06.676] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 22:56:06.683] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 22:56:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:56:08.125] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[20Dec2024 22:56:08.131] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[20Dec2024 22:56:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was slain by Vindicator
+[20Dec2024 22:56:24.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ali_xddd333 was slain by Vindicator
+[20Dec2024 22:56:26.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was slain by Vindicator
+[20Dec2024 22:56:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:56:29.775] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[20Dec2024 22:56:29.779] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
+[20Dec2024 22:56:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:56:36.673] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:56:36.678] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:56:42.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was slain by Vindicator
+[20Dec2024 22:56:47.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium has made the advancement [Not Today, Thank You]
+[20Dec2024 22:57:19.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:57:19.274] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 22:57:19.283] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 22:57:24.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 22:57:24.125] [Server thread/WARN] [tombstone/]: The death event of the player ali_xddd333 was canceled by another mod
+[20Dec2024 22:57:24.132] [Server thread/INFO] [tombstone/]: The player ali_xddd333 has successfully been saved
