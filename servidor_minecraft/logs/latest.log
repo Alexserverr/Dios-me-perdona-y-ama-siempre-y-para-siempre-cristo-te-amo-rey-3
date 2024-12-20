@@ -726,3 +726,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Dec2024 23:16:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> rn conclusion a bartra le gusta....
 [20Dec2024 23:17:03.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> en*
 [20Dec2024 23:17:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> ok
+[20Dec2024 23:21:40.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> empiezan los lloros
+[20Dec2024 23:23:13.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> al fin hierrooooooooooooooo
+[20Dec2024 23:23:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 23:23:57.848] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 23:23:57.848] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 23:24:04.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra fell from a high place
+[20Dec2024 23:24:06.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> jajajaj q tonto el beltran
+[20Dec2024 23:24:45.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lordding> sammy
+[20Dec2024 23:24:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 23:24:54.294] [Server thread/WARN] [tombstone/]: The death event of the player EMILIO__12 was canceled by another mod
+[20Dec2024 23:24:54.295] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[20Dec2024 23:24:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIO__12 was slain by Alexterminium
+[20Dec2024 23:24:59.633] [Server thread/INFO] [tombstone/]: The player EMILIO__12 has successfully been saved
+[20Dec2024 23:25:20.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 23:25:20.888] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 23:25:20.896] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 23:25:24.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 23:25:24.436] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 23:25:24.444] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 23:25:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was slain by Enderman
+[20Dec2024 23:25:40.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium tried to swim in lava to escape EMILIO__12
+[20Dec2024 23:25:40.848] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 23:26:00.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 23:26:00.261] [Server thread/WARN] [tombstone/]: The death event of the player MisterBartra was canceled by another mod
+[20Dec2024 23:26:00.262] [Server thread/INFO] [tombstone/]: The player MisterBartra has successfully been saved
+[20Dec2024 23:26:02.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[20Dec2024 23:26:02.944] [Server thread/WARN] [tombstone/]: The death event of the player Alexterminium was canceled by another mod
+[20Dec2024 23:26:02.946] [Server thread/INFO] [tombstone/]: The player Alexterminium has successfully been saved
+[20Dec2024 23:26:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MisterBartra was doomed to fall
+[20Dec2024 23:26:17.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexterminium was doomed to fall by EMILIO__12
+[20Dec2024 23:27:00.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIO__12 has reached the goal [Discreet Search]
+[20Dec2024 23:27:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lordding has made the advancement [Acquire Hardware]
